@@ -1,0 +1,247 @@
+[
+    {
+        "english": "identify problems",
+        "chinese": "识别问题",
+        "example": "A good manager can quickly identify problems in the workflow."
+    },
+    {
+        "english": "utilize resources",
+        "chinese": "利用资源",
+        "example": "Efficiently utilizing resources is key to business success."
+    },
+    {
+        "english": "improve operations",
+        "chinese": "改善运营",
+        "example": "The company plans to improve operations by upgrading technology."
+    },
+    {
+        "english": "increase work output",
+        "chinese": "增加工作产出",
+        "example": "New equipment has helped increase work output by 30%."
+    },
+    {
+        "english": "work around the clock",
+        "chinese": "全天候工作",
+        "example": "The team worked around the clock to meet the project deadline."
+    },
+    {
+        "english": "create new job opportunities",
+        "chinese": "创造新工作机会",
+        "example": "The new industry has created many new job opportunities."
+    },
+    {
+        "english": "provide personalized information",
+        "chinese": "提供个性化信息",
+        "example": "The app provides personalized information based on user preferences."
+    },
+    {
+        "english": "replace human jobs",
+        "chinese": "取代人类工作",
+        "example": "Automation may replace some human jobs in manufacturing."
+    },
+    {
+        "english": "create financial stress",
+        "chinese": "造成经济压力",
+        "example": "Unexpected expenses can create financial stress for families."
+    },
+    {
+        "english": "cause the misuse of personal health data",
+        "chinese": "导致个人健康数据的滥用",
+        "example": "Data breaches can cause the misuse of personal health data."
+    },
+    {
+        "english": "develop biases",
+        "chinese": "产生偏见",
+        "example": "Unbalanced information can develop biases in decision-making."
+    },
+    {
+        "english": "lack emotional understanding",
+        "chinese": "缺少情感理解",
+        "example": "AI may lack emotional understanding in customer service."
+    },
+    {
+        "english": "lead to privacy issues",
+        "chinese": "导致隐私问题",
+        "example": "Social media can sometimes lead to privacy issues if not managed well."
+    },
+    {
+        "english": "increase dependency on technology",
+        "chinese": "增加对技术的依赖性",
+        "example": "Excessive screen time increases dependency on technology."
+    },
+    {
+        "english": "perform tasks more swiftly and accurately",
+        "chinese": "更快、更准确地完成任务",
+        "example": "Robots can perform tasks more swiftly and accurately than humans in some cases."
+    },
+    {
+        "english": "a cost-effective solution",
+        "chinese": "一个节省成本的方法",
+        "example": "Outsourcing is a cost-effective solution for small businesses."
+    },
+    {
+        "english": "require a significant investment",
+        "chinese": "需要大量投资",
+        "example": "Upgrading infrastructure requires a significant investment."
+    },
+    {
+        "english": "have difficulty dealing with unexpected situations",
+        "chinese": "无法应对意外情况",
+        "example": "Rigid systems may have difficulty dealing with unexpected situations."
+    },
+    {
+        "english": "process information",
+        "chinese": "处理信息",
+        "example": "The brain processes information much faster than we realize."
+    },
+    {
+        "english": "adapt to change",
+        "chinese": "适应改变",
+        "example": "Organizations must adapt to change to stay competitive."
+    },
+    {
+        "english": "bring about negative difference",
+        "chinese": "造成负面差异",
+        "example": "Unfair policies can bring about negative differences in society."
+    },
+    {
+        "english": "take the place of",
+        "chinese": "代替",
+        "example": "Digital books are taking the place of traditional paper books for many readers."
+    },
+    {
+        "english": "use something in an effective way",
+        "chinese": "有效地使用某物",
+        "example": "Training helps employees use equipment in an effective way."
+    },
+    {
+        "english": "refer to",
+        "chinese": "指代",
+        "example": "The term cybernetics refers to the study of control systems."
+    },
+    {
+        "english": "enhance user experiences",
+        "chinese": "提升用户体验",
+        "example": "User feedback helps enhance user experiences of products."
+    },
+    {
+        "english": "in the early stages",
+        "chinese": "在早期阶段",
+        "example": "Problems are easier to solve in the early stages."
+    },
+    {
+        "english": "a positive shift",
+        "chinese": "积极转变",
+        "example": "New policies have brought about a positive shift in the economy."
+    },
+    {
+        "english": "carry out task",
+        "chinese": "执行任务",
+        "example": "Teams work together to carry out tasks efficiently."
+    },
+    {
+        "english": "remove human bias",
+        "chinese": "消除人类偏见",
+        "example": "Data-driven decisions can help remove human bias."
+    },
+    {
+        "english": "reduce the need for human labor",
+        "chinese": "减少对人类劳动的需求",
+        "example": "Automation reduces the need for human labor in factories."
+    },
+    {
+        "english": "in spite of",
+        "chinese": "尽管",
+        "example": "In spite of the challenges, the team achieved great results."
+    },
+    {
+        "english": "improve human contact",
+        "chinese": "改善人际接触",
+        "example": "Community events can improve human contact and relationships."
+    },
+    {
+        "english": "it is important to note that",
+        "chinese": "重要的是要注意",
+        "example": "It is important to note that not all solutions work for every situation."
+    },
+    {
+        "english": "despite the fact that",
+        "chinese": "尽管事实是",
+        "example": "Despite the fact that it rained, the outdoor event was a success."
+    },
+    {
+        "english": "be immune to",
+        "chinese": "对...免疫",
+        "example": "No one is entirely immune to the effects of stress."
+    },
+    {
+        "english": "factor emotion in decisions",
+        "chinese": "将情感纳入决策",
+        "example": "Leaders should factor emotion in decisions that affect employees."
+    },
+    {
+        "english": "develop bonds with",
+        "chinese": "与...建立联系",
+        "example": "Team-building activities help develop bonds with colleagues."
+    },
+    {
+        "english": "based on",
+        "chinese": "基于",
+        "example": "The plan is based on extensive market research."
+    },
+    {
+        "english": "be meant to",
+        "chinese": "被设计为",
+        "example": "This tool is meant to simplify complex tasks."
+    },
+    {
+        "english": "add complexity to our lifes",
+        "chinese": "给我们的生活增添复杂性",
+        "example": "Unnecessary rules can add complexity to our lives."
+    },
+    {
+        "english": "become accustomed to",
+        "chinese": "习惯于",
+        "example": "People quickly become accustomed to new technologies."
+    },
+    {
+        "english": "eliminate the need to",
+        "chinese": "消除对...的需求",
+        "example": "Online shopping eliminates the need to visit physical stores."
+    },
+    {
+        "english": "wait in long queues for",
+        "chinese": "排队等待",
+        "example": "People no longer need to wait in long queues for bank services."
+    },
+    {
+        "english": "a layer of",
+        "chinese": "一层",
+        "example": "A layer of protection is essential for sensitive data."
+    },
+    {
+        "english": "update our skills and knowledge",
+        "chinese": "更新我们的技能和知识",
+        "example": "Lifelong learning helps update our skills and knowledge."
+    },
+    {
+        "english": "keep up with the rapid pace of",
+        "chinese": "跟上快速发展的步伐",
+        "example": "Professionals must keep up with the rapid pace of technological change."
+    },
+    {
+        "english": "secure our digital identities",
+        "chinese": "保护我们的数字身份",
+        "example": "Strong passwords help secure our digital identities."
+    },
+    {
+        "english": "reduce the likelihood of",
+        "chinese": "降低...的可能性",
+        "example": "Regular maintenance reduces the likelihood of equipment failure."
+    },
+    {
+        "english": "scale up",
+        "chinese": "扩大",
+        "example": "Startups aim to scale up their operations quickly."
+    }
+]

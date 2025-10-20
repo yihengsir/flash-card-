@@ -1,0 +1,477 @@
+[
+    {
+        "english": "attend",
+        "chinese": "参加",
+        "example": "Students should attend all classes to keep up with the curriculum."
+    },
+    {
+        "english": "subject",
+        "chinese": "科目",
+        "example": "Mathematics is a compulsory subject in most schools."
+    },
+    {
+        "english": "semester",
+        "chinese": "学期",
+        "example": "The final exams are usually held at the end of each semester."
+    },
+    {
+        "english": "experience",
+        "chinese": "经历，经验",
+        "example": "Working as a volunteer is a valuable experience for students."
+    },
+    {
+        "english": "communicate",
+        "chinese": "交流",
+        "example": "It's important to communicate clearly with your team members."
+    },
+    {
+        "english": "interact",
+        "chinese": "互动",
+        "example": "Students learn better when they interact with each other in class."
+    },
+    {
+        "english": "control",
+        "chinese": "控制",
+        "example": "Teachers need to control the classroom to ensure a good learning environment."
+    },
+    {
+        "english": "specific",
+        "chinese": "具体的",
+        "example": "Please provide specific examples to support your argument."
+    },
+    {
+        "english": "method",
+        "chinese": "方法",
+        "example": "There are different methods to solve this math problem."
+    },
+    {
+        "english": "approach",
+        "chinese": "方法",
+        "example": "The teacher used a new approach to teach grammar."
+    },
+    {
+        "english": "chance",
+        "chinese": "机会",
+        "example": "Field trips give students a chance to apply knowledge in real life."
+    },
+    {
+        "english": "complex",
+        "chinese": "复杂的",
+        "example": "The problem was too complex for the students to solve alone."
+    },
+    {
+        "english": "concern",
+        "chinese": "关注；涉及",
+        "example": "This article concerns the impact of social media on teenagers."
+    },
+    {
+        "english": "benefit",
+        "chinese": "利益",
+        "example": "Exercising regularly has many benefits for both body and mind."
+    },
+    {
+        "english": "cause",
+        "chinese": "引起",
+        "example": "Lack of sleep can cause various health problems."
+    },
+    {
+        "english": "secondary",
+        "chinese": "次要的；二级的",
+        "example": "Secondary education is free in many countries."
+    },
+    {
+        "english": "compulsory",
+        "chinese": "必修的",
+        "example": "English is a compulsory subject in high schools."
+    },
+    {
+        "english": "equation",
+        "chinese": "方程式",
+        "example": "Solve the equation to find the value of x."
+    },
+    {
+        "english": "commonly",
+        "chinese": "通常地",
+        "example": "This phrase is commonly used in daily conversations."
+    },
+    {
+        "english": "medication",
+        "chinese": "药物",
+        "example": "Take the medication three times a day after meals."
+    },
+    {
+        "english": "safety",
+        "chinese": "安全",
+        "example": "Schools should prioritize the safety of their students."
+    },
+    {
+        "english": "beneficial",
+        "chinese": "有益的",
+        "example": "Reading is beneficial for improving vocabulary and comprehension."
+    },
+    {
+        "english": "gallery",
+        "chinese": "画廊",
+        "example": "We visited an art gallery during our trip to Paris."
+    },
+    {
+        "english": "innovate",
+        "chinese": "创新",
+        "example": "Companies need to innovate to stay competitive in the market."
+    },
+    {
+        "english": "deep",
+        "chinese": "深的",
+        "example": "The lake is too deep for swimming."
+    },
+    {
+        "english": "wide",
+        "chinese": "宽的",
+        "example": "The river is about 50 meters wide at this point."
+    },
+    {
+        "english": "arrange",
+        "chinese": "安排",
+        "example": "The teacher will arrange a debate competition for the class."
+    },
+    {
+        "english": "instance",
+        "chinese": "例子",
+        "example": "For instance, some students prefer online learning to classroom teaching."
+    },
+    {
+        "english": "improve",
+        "chinese": "提高",
+        "example": "Practicing regularly can help improve your speaking skills."
+    },
+    {
+        "english": "stage",
+        "chinese": "阶段",
+        "example": "Children go through different stages of development as they grow."
+    },
+    {
+        "english": "cost",
+        "chinese": "成本",
+        "example": "The cost of education has been increasing in recent years."
+    },
+    {
+        "english": "insurance",
+        "chinese": "保险",
+        "example": "Students are required to have health insurance while studying abroad."
+    },
+    {
+        "english": "staff",
+        "chinese": "员工",
+        "example": "The school has a team of dedicated teaching staff."
+    },
+    {
+        "english": "sense",
+        "chinese": "感觉",
+        "example": "She has a good sense of direction, so she never gets lost."
+    },
+    {
+        "english": "devote",
+        "chinese": "奉献",
+        "example": "Teachers devote a lot of time and energy to their students."
+    },
+    {
+        "english": "efficient",
+        "chinese": "高效的",
+        "example": "An efficient study method can save a lot of time."
+    },
+    {
+        "english": "direct",
+        "chinese": "直接的",
+        "example": "The teacher gave direct feedback on the students' assignments."
+    },
+    {
+        "english": "appreciate",
+        "chinese": "喜欢，欣赏",
+        "example": "Students should appreciate the importance of learning a second language."
+    },
+    {
+        "english": "contact",
+        "chinese": "联系",
+        "example": "Keep in touch with your teachers even after graduation."
+    },
+    {
+        "english": "curiosity",
+        "chinese": "好奇心",
+        "example": "Curiosity is the key to discovering new knowledge."
+    },
+    {
+        "english": "challenge",
+        "chinese": "挑战",
+        "example": "Solving this problem will be a great challenge for the students."
+    },
+    {
+        "english": "botany",
+        "chinese": "植物学",
+        "example": "She decided to major in botany because of her love for plants."
+    },
+    {
+        "english": "memorable",
+        "chinese": "难忘的",
+        "example": "The field trip to the science museum was a memorable experience."
+    },
+    {
+        "english": "react",
+        "chinese": "反应",
+        "example": "How did the students react to the new teaching method?"
+    },
+    {
+        "english": "related",
+        "chinese": "相关的",
+        "example": "The article is related to environmental protection and sustainable development."
+    },
+    {
+        "english": "worth",
+        "chinese": "有...价值",
+        "example": "The book is worth reading as it provides useful information."
+    },
+    {
+        "english": "department",
+        "chinese": "部门",
+        "example": "She works in the English department of the university."
+    },
+    {
+        "english": "costly",
+        "chinese": "昂贵的",
+        "example": "Studying abroad can be costly, but it's worth the investment."
+    },
+    {
+        "english": "maximize",
+        "chinese": "最大化",
+        "example": "Students should maximize their time to prepare for the exams."
+    },
+    {
+        "english": "critical",
+        "chinese": "关键的",
+        "example": "Critical thinking is an important skill for students to develop."
+    },
+    {
+        "english": "enhance learning experience",
+        "chinese": "增强学习体验",
+        "example": "Using multimedia resources can enhance the learning experience."
+    },
+    {
+        "english": "exposure to new experiences",
+        "chinese": "接触新的体验",
+        "example": "Traveling abroad offers exposure to new experiences and cultures."
+    },
+    {
+        "english": "active engagement",
+        "chinese": "积极的参与度",
+        "example": "Group activities can improve students' active engagement in learning."
+    },
+    {
+        "english": "practical knowledge",
+        "chinese": "实际实用的知识",
+        "example": "Internships provide students with practical knowledge and skills."
+    },
+    {
+        "english": "social skills development",
+        "chinese": "社交技能发展",
+        "example": "Team projects are good for social skills development."
+    },
+    {
+        "english": "real-world problem solving",
+        "chinese": "现实世界问题的解决",
+        "example": "Case studies help students practice real-world problem solving."
+    },
+    {
+        "english": "inspiration and motivation",
+        "chinese": "灵感和动力",
+        "example": "Meeting successful people can provide inspiration and motivation."
+    },
+    {
+        "english": "memory retention",
+        "chinese": "记忆保持",
+        "example": "Reviewing regularly can improve memory retention."
+    },
+    {
+        "english": "fun and relaxation",
+        "chinese": "乐趣和放松",
+        "example": "Outdoor activities bring fun and relaxation to students."
+    },
+    {
+        "english": "cultural awareness",
+        "chinese": "文化意识",
+        "example": "Learning a foreign language can improve cultural awareness."
+    },
+    {
+        "english": "physical activity",
+        "chinese": "体能运动/ 活动",
+        "example": "Regular physical activity is essential for a healthy lifestyle."
+    },
+    {
+        "english": "encourage curiosity",
+        "chinese": "鼓励好奇心",
+        "example": "Teachers should encourage curiosity and exploration in students."
+    },
+    {
+        "english": "use what they have learned in real-life situations",
+        "chinese": "把学习到的用于现实情况",
+        "example": "Field trips allow students to use what they have learned in real-life situations."
+    },
+    {
+        "english": "learn by doing and interacting",
+        "chinese": "在实践和互动中学习",
+        "example": "Laboratory classes help students learn by doing and interacting."
+    },
+    {
+        "english": "see the world in a wider way",
+        "chinese": "以更广阔的方式看世界",
+        "example": "Studying abroad helps students see the world in a wider way."
+    },
+    {
+        "english": "structured learning",
+        "chinese": "结构化学习",
+        "example": "A timetable helps organize structured learning for students."
+    },
+    {
+        "english": "consistent learning pace",
+        "chinese": "均衡的学习进度",
+        "example": "Online courses offer a consistent learning pace for self-study."
+    },
+    {
+        "english": "continual assessment",
+        "chinese": "持续评估",
+        "example": "Continual assessment helps teachers track students' progress."
+    },
+    {
+        "english": "in-depth learning",
+        "chinese": "深入学习",
+        "example": "Research projects allow for in-depth learning of a subject."
+    },
+    {
+        "english": "controlled environment",
+        "chinese": "受控的环境",
+        "example": "Classrooms provide a controlled environment for learning."
+    },
+    {
+        "english": "regular interaction",
+        "chinese": "定期互动",
+        "example": "Regular interaction with teachers is important for academic growth."
+    },
+    {
+        "english": "cost-effective",
+        "chinese": "性价比高",
+        "example": "Public transportation is a cost-effective way to travel."
+    },
+    {
+        "english": "time management",
+        "chinese": "时间管理",
+        "example": "Good time management is key to balancing study and life."
+    },
+    {
+        "english": "availability of learning resources",
+        "chinese": "学习资源的可用性",
+        "example": "The library ensures the availability of learning resources for students."
+    },
+    {
+        "english": "curriculum alignment",
+        "chinese": "课程对齐",
+        "example": "All activities should follow curriculum alignment for better learning."
+    },
+    {
+        "english": "learn and work together better",
+        "chinese": "更好的学习和合作",
+        "example": "Team-building activities help students learn and work together better."
+    },
+    {
+        "english": "keep things safe and under control",
+        "chinese": "确保安全和可控",
+        "example": "Teachers must keep things safe and under control during field trips."
+    },
+    {
+        "english": "attend a science camp",
+        "chinese": "参加科学营",
+        "example": "She plans to attend a science camp during the summer holiday."
+    },
+    {
+        "english": "field trips",
+        "chinese": "实地考察，研学",
+        "example": "Field trips are an important part of the school curriculum."
+    },
+    {
+        "english": "become more interested in the topic",
+        "chinese": "对这个话题更感兴趣",
+        "example": "The guest lecture made students become more interested in the topic."
+    },
+    {
+        "english": "historical sites",
+        "chinese": "历史遗址",
+        "example": "Visiting historical sites brings history to life for students."
+    },
+    {
+        "english": "stick to...",
+        "chinese": "坚持 (某事/ 某物）",
+        "example": "Stick to your study plan and you will succeed."
+    },
+    {
+        "english": "learn as much as possible",
+        "chinese": "尽可能多地学习",
+        "example": "Students should learn as much as possible during their school years."
+    },
+    {
+        "english": "ways of thinking",
+        "chinese": "思考方式",
+        "example": "Critical thinking teaches different ways of thinking."
+    },
+    {
+        "english": "nature reserve",
+        "chinese": "自然保护区",
+        "example": "A field trip to a nature reserve can teach students about wildlife."
+    },
+    {
+        "english": "provide specific examples",
+        "chinese": "提供具体的例子",
+        "example": "The teacher asked students to provide specific examples to support their ideas."
+    },
+    {
+        "english": "first hand",
+        "chinese": "亲身",
+        "example": "Traveling abroad gives students first-hand experience of a new culture."
+    },
+    {
+        "english": "have a close contact with nature",
+        "chinese": "与自然亲密接触",
+        "example": "Camping trips allow students to have a close contact with nature."
+    },
+    {
+        "english": "broaden students' horizons",
+        "chinese": "拓宽学生的视野",
+        "example": "Studying different cultures can broaden students' horizons."
+    },
+    {
+        "english": "time-efficient",
+        "chinese": "高效的",
+        "example": "Online learning can be a time-efficient way to gain new skills."
+    },
+    {
+        "english": "a suitable learning environment",
+        "chinese": "合适的学习环境",
+        "example": "Every student needs a suitable learning environment to study effectively."
+    },
+    {
+        "english": "increase students' interest in study",
+        "chinese": "提高学生学习兴趣",
+        "example": "Interactive classes can increase students' interest in study."
+    },
+    {
+        "english": "financial planning",
+        "chinese": "财务规划",
+        "example": "Students should learn basic financial planning skills."
+    },
+    {
+        "english": "equip students with critical skills",
+        "chinese": "让学生掌握关键的技能",
+        "example": "Vocational training equips students with critical skills for their careers."
+    },
+    {
+        "english": "apply in real-life situations",
+        "chinese": "应用到现实情况",
+        "example": "Students should learn to apply what they study in real-life situations."
+    }
+]

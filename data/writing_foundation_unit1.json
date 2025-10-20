@@ -1,0 +1,242 @@
+[
+    {
+        "english": "affect",
+        "chinese": "影响；使改变看法",
+        "example": "The new policy will affect everyone in the company."
+    },
+    {
+        "english": "fight",
+        "chinese": "战斗；搏斗；争论",
+        "example": "They fought bravely against the enemy."
+    },
+    {
+        "english": "illness",
+        "chinese": "疾病；病",
+        "example": "She missed school due to an illness."
+    },
+    {
+        "english": "prevent",
+        "chinese": "预防；阻止；阻碍",
+        "example": "Wearing a seatbelt can prevent serious injuries in a car accident."
+    },
+    {
+        "english": "classify",
+        "chinese": "分类；归类；划分",
+        "example": "Scientists classify plants into different species."
+    },
+    {
+        "english": "flavour",
+        "chinese": "味道；特点；特色",
+        "example": "This ice cream has a delicious chocolate flavour."
+    },
+    {
+        "english": "consider",
+        "chinese": "考虑；认为；细想",
+        "example": "Please consider my suggestion before making a decision."
+    },
+    {
+        "english": "argue",
+        "chinese": "争论；辩论；主张",
+        "example": "They often argue about politics."
+    },
+    {
+        "english": "compare",
+        "chinese": "比较；对比；比喻",
+        "example": "Let's compare these two products to see which is better."
+    },
+    {
+        "english": "describe",
+        "chinese": "描述；形容；描绘",
+        "example": "Can you describe what the suspect looks like?"
+    },
+    {
+        "english": "explain",
+        "chinese": "解释；说明；阐明",
+        "example": "Please explain how this machine works."
+    },
+    {
+        "english": "include",
+        "chinese": "包括；包含；计入",
+        "example": "The price includes tax and shipping."
+    },
+    {
+        "english": "require",
+        "chinese": "需要；要求；规定",
+        "example": "This job requires excellent communication skills."
+    },
+    {
+        "english": "suggest",
+        "chinese": "建议；提议；暗示",
+        "example": "I suggest we meet at the café at 3 pm."
+    },
+    {
+        "english": "support",
+        "chinese": "支持；支撑；拥护",
+        "example": "My family supports me in all my decisions."
+    },
+    {
+        "english": "understand",
+        "chinese": "理解；明白；懂得",
+        "example": "Do you understand the instructions?"
+    },
+    {
+        "english": "develop",
+        "chinese": "发展；开发；培养",
+        "example": "She developed a new method to solve the problem."
+    },
+    {
+        "english": "provide",
+        "chinese": "提供；供应；给予",
+        "example": "The hotel provides free breakfast to guests."
+    },
+    {
+        "english": "receive",
+        "chinese": "收到；接受；接待",
+        "example": "I received a beautiful gift from my friend."
+    },
+    {
+        "english": "research",
+        "chinese": "研究；调查；探索",
+        "example": "They are doing research on cancer treatment."
+    },
+    {
+        "english": "use",
+        "chinese": "使用；利用；耗费",
+        "example": "You can use my phone if yours is broken."
+    },
+    {
+        "english": "analyze",
+        "chinese": "分析；研究；分解",
+        "example": "We need to analyze the data before making a conclusion."
+    },
+    {
+        "english": "apply",
+        "chinese": "应用；申请；适用",
+        "example": "You can apply this rule to all situations."
+    },
+    {
+        "english": "create",
+        "chinese": "创造；创作；建立",
+        "example": "She created a beautiful painting."
+    },
+    {
+        "english": "determine",
+        "chinese": "确定；决定；判定",
+        "example": "We need to determine the cause of the problem."
+    },
+    {
+        "english": "evaluate",
+        "chinese": "评估；评价；估价",
+        "example": "The teacher will evaluate our projects next week."
+    },
+    {
+        "english": "identify",
+        "chinese": "识别；认出；鉴定",
+        "example": "Can you identify the suspect in this photo?"
+    },
+    {
+        "english": "improve",
+        "chinese": "改进；提高；改善",
+        "example": "I want to improve my English skills."
+    },
+    {
+        "english": "measure",
+        "chinese": "测量；衡量；估量",
+        "example": "We need to measure the room before buying furniture."
+    },
+    {
+        "english": "observe",
+        "chinese": "观察；遵守；注意到",
+        "example": "Scientists observe animals in their natural habitat."
+    },
+    {
+        "english": "predict",
+        "chinese": "预测；预言；预报",
+        "example": "Weather forecasters predict rain tomorrow."
+    },
+    {
+        "english": "solve",
+        "chinese": "解决；解答；破解",
+        "example": "He solved the math problem quickly."
+    },
+    {
+        "english": "test",
+        "chinese": "测试；试验；检验",
+        "example": "We need to test this product before selling it."
+    },
+    {
+        "english": "assess",
+        "chinese": "评估；评价；评定",
+        "example": "The doctor will assess your condition."
+    },
+    {
+        "english": "collect",
+        "chinese": "收集；聚集；收藏",
+        "example": "She collects stamps from different countries."
+    },
+    {
+        "english": "communicate",
+        "chinese": "交流；沟通；传达",
+        "example": "We communicate with each other through email."
+    },
+    {
+        "english": "design",
+        "chinese": "设计；构思；计划",
+        "example": "He designed the new logo for the company."
+    },
+    {
+        "english": "discuss",
+        "chinese": "讨论；议论；详述",
+        "example": "Let's discuss our plans for the weekend."
+    },
+    {
+        "english": "estimate",
+        "chinese": "估计；估量；评价",
+        "example": "Can you estimate how much this project will cost?"
+    },
+    {
+        "english": "generate",
+        "chinese": "产生；生成；创造",
+        "example": "This machine can generate electricity."
+    },
+    {
+        "english": "implement",
+        "chinese": "实施；执行；贯彻",
+        "example": "We need to implement the new policy next month."
+    },
+    {
+        "english": "interpret",
+        "chinese": "解释；说明；口译",
+        "example": "How do you interpret this poem?"
+    },
+    {
+        "english": "investigate",
+        "chinese": "调查；研究；审查",
+        "example": "The police are investigating the crime."
+    },
+    {
+        "english": "justify",
+        "chinese": "证明…正确；为…辩护；对…作出解释",
+        "example": "Can you justify your actions?"
+    },
+    {
+        "english": "organize",
+        "chinese": "组织；安排；整理",
+        "example": "She organized a charity event."
+    },
+    {
+        "english": "present",
+        "chinese": "介绍；呈现；展示",
+        "example": "He will present his findings at the conference."
+    },
+    {
+        "english": "select",
+        "chinese": "选择；挑选；选拔",
+        "example": "Please select a book from the shelf."
+    },
+    {
+        "english": "synthesize",
+        "chinese": "综合；合成；总结",
+        "example": "We need to synthesize all the information we've gathered."
+    }
+]

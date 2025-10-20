@@ -1,0 +1,372 @@
+[
+  {
+    "english": "involve",
+    "chinese": "参与",
+    "example": "She wants to involve herself in the community project."
+  },
+  {
+    "english": "participate",
+    "chinese": "参加",
+    "example": "All students are encouraged to participate in the sports meeting."
+  },
+  {
+    "english": "concentrate",
+    "chinese": "集中",
+    "example": "I need a quiet place to concentrate on my study."
+  },
+  {
+    "english": "engage",
+    "chinese": "参与",
+    "example": "They engage in volunteer work every weekend."
+  },
+  {
+    "english": "content",
+    "chinese": "内容",
+    "example": "The book has interesting content about history."
+  },
+  {
+    "english": "drawback",
+    "chinese": "缺点",
+    "example": "The only drawback of this plan is its high cost."
+  },
+  {
+    "english": "humorous",
+    "chinese": "幽默的",
+    "example": "Our teacher is very humorous and makes class fun."
+  },
+  {
+    "english": "up-to-date",
+    "chinese": "最新的",
+    "example": "We should keep up - to - date with the latest news."
+  },
+  {
+    "english": "impressive",
+    "chinese": "令人印象深刻的",
+    "example": "His speech at the conference was really impressive."
+  },
+  {
+    "english": "lecturing",
+    "chinese": "讲课",
+    "example": "The professor is lecturing on physics this afternoon."
+  },
+  {
+    "english": "distracted",
+    "chinese": "分心的",
+    "example": "Don't get distracted by unimportant things."
+  },
+  {
+    "english": "dilemma",
+    "chinese": "困境",
+    "example": "He is in a dilemma about whether to accept the job."
+  },
+  {
+    "english": "thus",
+    "chinese": "因此",
+    "example": "He didn't study hard, thus he failed the exam."
+  },
+  {
+    "english": "perspective",
+    "chinese": "观点",
+    "example": "We should consider the problem from different perspectives."
+  },
+  {
+    "english": "approachable",
+    "chinese": "可亲近的",
+    "example": "The new manager is very approachable and friendly."
+  },
+  {
+    "english": "scared",
+    "chinese": "害怕的",
+    "example": "She is scared to go out alone at night."
+  },
+  {
+    "english": "various",
+    "chinese": "各种不同的",
+    "example": "There are various ways to solve this problem."
+  },
+  {
+    "english": "inefficiency",
+    "chinese": "效率低，无效率；无能",
+    "example": "The inefficiency of the system caused many delays."
+  },
+  {
+    "english": "actively",
+    "chinese": "积极地；活跃地，有活力地",
+    "example": "We should actively take part in social activities."
+  },
+  {
+    "english": "manage",
+    "chinese": "管理",
+    "example": "He can manage the project well with his skills."
+  },
+  {
+    "english": "college",
+    "chinese": "大学，学院",
+    "example": "She will go to college next year to study medicine."
+  },
+  {
+    "english": "strength",
+    "chinese": "力量，力气",
+    "example": "His strength helped him lift the heavy box."
+  },
+  {
+    "english": "prior",
+    "chinese": "在前的",
+    "example": "We need to consider his prior experience."
+  },
+  {
+    "english": "definitely",
+    "chinese": "肯定地；当然",
+    "example": "I will definitely come to your party."
+  },
+  {
+    "english": "preference",
+    "chinese": "偏爱，喜爱",
+    "example": "My preference is to drink coffee in the morning."
+  },
+  {
+    "english": "achieve",
+    "chinese": "完成，达到",
+    "example": "He wants to achieve his goal of becoming a doctor."
+  },
+  {
+    "english": "exactly",
+    "chinese": "准确地，确切地",
+    "example": "Can you tell me exactly what happened?"
+  },
+  {
+    "english": "encourage",
+    "chinese": "鼓励",
+    "example": "Teachers often encourage students to study hard."
+  },
+  {
+    "english": "process",
+    "chinese": "过程，进程",
+    "example": "Writing a book is a long and difficult process."
+  },
+  {
+    "english": "material",
+    "chinese": "材料",
+    "example": "We need some building materials to repair the house."
+  },
+  {
+    "english": "effectively",
+    "chinese": "有效地",
+    "example": "We should use resources effectively."
+  },
+  {
+    "english": "perform",
+    "chinese": "表演；表现",
+    "example": "The band will perform at the concert tonight."
+  },
+  {
+    "english": "organize",
+    "chinese": "组织，筹备",
+    "example": "Let's organize a party for our friend's birthday."
+  },
+  {
+    "english": "elaboration",
+    "chinese": "详尽阐述",
+    "example": "The elaboration of the plan took a lot of time."
+  },
+  {
+    "english": "hypothesis",
+    "chinese": "假说，假设",
+    "example": "The scientist proposed a new hypothesis for the experiment."
+  },
+  {
+    "english": "conditional",
+    "chinese": "假定的，有条件的",
+    "example": "The agreement is conditional on his signature."
+  },
+  {
+    "english": "opinion",
+    "chinese": "观点",
+    "example": "Everyone has the right to express their opinion."
+  },
+  {
+    "english": "mainly",
+    "chinese": "主要地",
+    "example": "The book is mainly about environmental protection."
+  },
+  {
+    "english": "event",
+    "chinese": "事件，大事件",
+    "example": "The opening of the new library is a big event in the town."
+  },
+  {
+    "english": "research",
+    "chinese": "调查，研究",
+    "example": "She is doing research on climate change."
+  },
+  {
+    "english": "efficiency",
+    "chinese": "效率，效能",
+    "example": "We should improve the efficiency of our work."
+  },
+  {
+    "english": "improve",
+    "chinese": "提高，提升",
+    "example": "Exercise can help improve your health."
+  },
+  {
+    "english": "equip",
+    "chinese": "装备，配备",
+    "example": "The school will equip the lab with new computers."
+  },
+  {
+    "english": "elaborate",
+    "chinese": "详细说明",
+    "example": "Please elaborate on your plan for the project."
+  },
+  {
+    "english": "bored",
+    "chinese": "无聊的",
+    "example": "He felt bored during the long lecture."
+  },
+  {
+    "english": "local",
+    "chinese": "本地的",
+    "example": "We should support local businesses."
+  },
+  {
+    "english": "audit",
+    "chinese": "旁听",
+    "example": "She decided to audit a history class at the college."
+  },
+  {
+    "english": "community",
+    "chinese": "社区，社会",
+    "example": "The community came together to help the victims of the disaster."
+  },
+  {
+    "english": "assignment",
+    "chinese": "任务",
+    "example": "The teacher gave us a difficult assignment."
+  },
+  {
+    "english": "share and learn",
+    "chinese": "分享和学习",
+    "example": "We have a meeting every week to share and learn from each other."
+  },
+  {
+    "english": "concentrate better",
+    "chinese": "更好集中注意力",
+    "example": "A quiet environment helps us concentrate better."
+  },
+  {
+    "english": "get distracted",
+    "chinese": "分心",
+    "example": "It's easy to get distracted by social media."
+  },
+  {
+    "english": "a better grade",
+    "chinese": "更好的分数",
+    "example": "Studying hard can help you get a better grade."
+  },
+  {
+    "english": "be scared to",
+    "chinese": "惧怕",
+    "example": "Some children are scared to sleep alone."
+  },
+  {
+    "english": "be equipped with",
+    "chinese": "具备",
+    "example": "The new car is equipped with advanced safety features."
+  },
+  {
+    "english": "slow things down",
+    "chinese": "使慢下来",
+    "example": "We need to slow things down and think carefully."
+  },
+  {
+    "english": "participate in",
+    "chinese": "参加，加入某个活动/组织",
+    "example": "We should participate in more outdoor activities."
+  },
+  {
+    "english": "lead to",
+    "chinese": "导致",
+    "example": "Smoking can lead to serious health problems."
+  },
+  {
+    "english": "engage in",
+    "chinese": "参与，从事",
+    "example": "They engage in scientific research every day."
+  },
+  {
+    "english": "due to",
+    "chinese": "由于，因为",
+    "example": "The game was canceled due to bad weather."
+  },
+  {
+    "english": "result in",
+    "chinese": "导致，使某事发生",
+    "example": "His carelessness resulted in a big mistake."
+  },
+  {
+    "english": "pros and cons",
+    "chinese": "利与弊",
+    "example": "We should consider the pros and cons before making a decision."
+  },
+  {
+    "english": "dive into",
+    "chinese": "投入",
+    "example": "Let's dive into this interesting project."
+  },
+  {
+    "english": "in favor of",
+    "chinese": "喜欢",
+    "example": "Are you in favor of the new policy?"
+  },
+  {
+    "english": "subject matter",
+    "chinese": "主题，题材",
+    "example": "The subject matter of the book is very interesting."
+  },
+  {
+    "english": "be based on",
+    "chinese": "基于",
+    "example": "The movie is based on a true story."
+  },
+  {
+    "english": "in contrast",
+    "chinese": "相反地",
+    "example": "In contrast, his brother is very lazy."
+  },
+  {
+    "english": "take up",
+    "chinese": "占用（时间、空间等）",
+    "example": "This table takes up too much space in the room."
+  },
+  {
+    "english": "up to",
+    "chinese": "高达",
+    "example": "The temperature can be up to 40 degrees in summer."
+  },
+  {
+    "english": "catch up",
+    "chinese": "追赶上",
+    "example": "I need to catch up on my homework this weekend."
+  },
+  {
+    "english": "be involved in",
+    "chinese": "参与，涉及",
+    "example": "He is involved in many volunteer activities."
+  },
+  {
+    "english": "audit class",
+    "chinese": "旁听课程",
+    "example": "She likes to audit classes in different subjects."
+  },
+  {
+    "english": "discourse marker",
+    "chinese": "话语标记",
+    "example": "Words like 'well' can be used as a discourse marker."
+  },
+  {
+    "english": "prior knowledge",
+    "chinese": "先前/储备知识",
+    "example": "We need to use our prior knowledge to solve this problem."
+  }
+]

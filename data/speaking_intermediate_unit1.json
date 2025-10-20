@@ -1,0 +1,494 @@
+[
+  {
+    "english": "make a decision",
+    "chinese": "做决定",
+    "example": "It's difficult to make a decision without enough information."
+  },
+  {
+    "english": "spend time doing something",
+    "chinese": "花时间做某事",
+    "example": "She spends two hours reading every day to improve her vocabulary."
+  },
+  {
+    "english": "a waste of time",
+    "chinese": "浪费时间",
+    "example": "Watching too much TV is a waste of time when you have homework to do."
+  },
+  {
+    "english": "have a good relationship with",
+    "chinese": "与……关系好",
+    "example": "He has a good relationship with his classmates, so he always feels happy at school."
+  },
+  {
+    "english": "learn from mistakes",
+    "chinese": "从错误中学习",
+    "example": "We should learn from mistakes instead of being afraid of making them."
+  },
+  {
+    "english": "improve communication skills",
+    "chinese": "提高沟通能力",
+    "example": "Joining a public speaking club can help improve communication skills."
+  },
+  {
+    "english": "stay focused",
+    "chinese": "保持专注",
+    "example": "It's important to stay focused while studying to get better results."
+  },
+  {
+    "english": "be responsible for",
+    "chinese": "对……负责",
+    "example": "As a team leader, she is responsible for assigning tasks to each member."
+  },
+  {
+    "english": "deal with pressure",
+    "chinese": "应对压力",
+    "example": "Doing exercise is a good way to deal with pressure from work."
+  },
+  {
+    "english": "get along well with",
+    "chinese": "与……相处融洽",
+    "example": "He can get along well with others because he is always kind and patient."
+  },
+  {
+    "english": "develop a habit",
+    "chinese": "养成习惯",
+    "example": "Developing a habit of reading in the morning can make you more knowledgeable."
+  },
+  {
+    "english": "save money",
+    "chinese": "省钱",
+    "example": "She saves money by cooking at home instead of eating out every day."
+  },
+  {
+    "english": "spend money on",
+    "chinese": "在……上花钱",
+    "example": "He spends a lot of money on books because he loves reading."
+  },
+  {
+    "english": "make new friends",
+    "chinese": "结交新朋友",
+    "example": "Joining a sports team is a great way to make new friends."
+  },
+  {
+    "english": "face challenges",
+    "chinese": "面对挑战",
+    "example": "We should face challenges bravely instead of running away from them."
+  },
+  {
+    "english": "set a goal",
+    "chinese": "设定目标",
+    "example": "She set a goal to learn 50 new English words every week."
+  },
+  {
+    "english": "achieve success",
+    "chinese": "取得成功",
+    "example": "Success can be achieved through hard work and determination."
+  },
+  {
+    "english": "gain experience",
+    "chinese": "获得经验",
+    "example": "Doing part-time jobs can help students gain work experience before graduation."
+  },
+  {
+    "english": "learn something new",
+    "chinese": "学到新东西",
+    "example": "Traveling to different countries allows you to learn something new about various cultures."
+  },
+  {
+    "english": "take a break",
+    "chinese": "休息一下",
+    "example": "If you feel tired, take a break and have a cup of coffee."
+  },
+  {
+    "english": "focus on study",
+    "chinese": "专注学习",
+    "example": "Turn off your phone to focus on study without distractions."
+  },
+  {
+    "english": "concentrate on work",
+    "chinese": "专心工作",
+    "example": "He concentrated on work so much that he forgot to have lunch."
+  },
+  {
+    "english": "join a club",
+    "chinese": "加入社团",
+    "example": "She joined a music club to pursue her hobby of playing the guitar."
+  },
+  {
+    "english": "participate in an activity",
+    "chinese": "参加活动",
+    "example": "Students are encouraged to participate in various activities after school."
+  },
+  {
+    "english": "balance study and life",
+    "chinese": "平衡学习和生活",
+    "example": "It's important to balance study and life to avoid getting too stressed."
+  },
+  {
+    "english": "reduce stress",
+    "chinese": "减压",
+    "example": "Listening to music is a good way to reduce stress and relax."
+  },
+  {
+    "english": "increase productivity",
+    "chinese": "提高效率",
+    "example": "Taking short breaks can actually increase productivity at work."
+  },
+  {
+    "english": "have more freedom",
+    "chinese": "更自由",
+    "example": "Living off campus gives students more freedom to manage their time."
+  },
+  {
+    "english": "feel relaxed",
+    "chinese": "感到放松",
+    "example": "She felt relaxed after taking a warm bath and listening to soft music."
+  },
+  {
+    "english": "improve self-confidence",
+    "chinese": "提升自信",
+    "example": "Winning the competition helped her improve self-confidence a lot."
+  },
+  {
+    "english": "express opinions",
+    "chinese": "表达观点",
+    "example": "Everyone should be able to express opinions freely in a democratic discussion."
+  },
+  {
+    "english": "work efficiently",
+    "chinese": "高效工作",
+    "example": "Using a to-do list can help you work efficiently and finish tasks on time."
+  },
+  {
+    "english": "stay organized",
+    "chinese": "保持有条理",
+    "example": "Staying organized helps you manage time and avoid last-minute rushes."
+  },
+  {
+    "english": "plan ahead",
+    "chinese": "提前计划",
+    "example": "Plan ahead before starting a project to ensure everything goes smoothly."
+  },
+  {
+    "english": "meet deadlines",
+    "chinese": "按时完成任务",
+    "example": "He always meets deadlines no matter how busy he is."
+  },
+  {
+    "english": "finish tasks on time",
+    "chinese": "按时完成任务",
+    "example": "To finish tasks on time, you need to manage your time effectively."
+  },
+  {
+    "english": "learn from others",
+    "chinese": "向他人学习",
+    "example": "We can learn from others' experiences to avoid making the same mistakes."
+  },
+  {
+    "english": "enjoy the process",
+    "chinese": "享受过程",
+    "example": "Don't just focus on the result, enjoy the process of learning something new."
+  },
+  {
+    "english": "spend time with family",
+    "chinese": "与家人共度时光",
+    "example": "Spending time with family during holidays is very important to her."
+  },
+  {
+    "english": "get some exercise",
+    "chinese": "做些运动",
+    "example": "Getting some exercise every day is good for both physical and mental health."
+  },
+  {
+    "english": "go for a walk",
+    "chinese": "去散步",
+    "example": "They often go for a walk in the park after dinner."
+  },
+  {
+    "english": "keep a healthy lifestyle",
+    "chinese": "保持健康的生活方式",
+    "example": "Eating well, exercising regularly, and sleeping enough help keep a healthy lifestyle."
+  },
+  {
+    "english": "eat healthy food",
+    "chinese": "吃健康的食物",
+    "example": "Eating healthy food can improve your energy and overall well-being."
+  },
+  {
+    "english": "get enough sleep",
+    "chinese": "睡眠充足",
+    "example": "It's hard to focus in class if you don't get enough sleep at night."
+  },
+  {
+    "english": "do part-time jobs",
+    "chinese": "做兼职工作",
+    "example": "Many students do part-time jobs to earn some pocket money and gain experience."
+  },
+  {
+    "english": "take online courses",
+    "chinese": "上网课",
+    "example": "Taking online courses gives you the flexibility to learn at your own pace."
+  },
+  {
+    "english": "study at home",
+    "chinese": "在家学习",
+    "example": "She prefers to study at home because it's quiet and comfortable."
+  },
+  {
+    "english": "live on campus",
+    "chinese": "住在校园里",
+    "example": "Living on campus makes it convenient to attend classes and join campus activities."
+  },
+  {
+    "english": "live off campus",
+    "chinese": "住在校外",
+    "example": "Some students choose to live off campus for more privacy and space."
+  },
+  {
+    "english": "spend quality time",
+    "chinese": "共度美好时光",
+    "example": "Spending quality time with friends can strengthen your relationship."
+  },
+  {
+    "english": "make a schedule",
+    "chinese": "制定计划",
+    "example": "Making a schedule can help you organize your day and use time wisely."
+  },
+  {
+    "english": "develop time-management skills",
+    "chinese": "培养时间管理能力",
+    "example": "Developing time-management skills is essential for students to balance study and hobbies."
+  },
+  {
+    "english": "prefer A to B",
+    "chinese": "比起B更喜欢A",
+    "example": "I prefer reading books to watching TV in my free time."
+  },
+  {
+    "english": "have access to",
+    "chinese": "有机会接触",
+    "example": "Students in this school have access to excellent educational resources."
+  },
+  {
+    "english": "make progress",
+    "chinese": "取得进步",
+    "example": "You can make progress in English by practicing every day."
+  },
+  {
+    "english": "overcome difficulties",
+    "chinese": "克服困难",
+    "example": "It's a great feeling to overcome difficulties and achieve your goal."
+  },
+  {
+    "english": "avoid distractions",
+    "chinese": "避免干扰",
+    "example": "Find a quiet place to study to avoid distractions from noise and people."
+  },
+  {
+    "english": "get distracted easily",
+    "chinese": "容易分心",
+    "example": "He gets distracted easily, so he needs a quiet environment to work."
+  },
+  {
+    "english": "work in a team",
+    "chinese": "团队合作",
+    "example": "Working in a team can bring different ideas and perspectives to a project."
+  },
+  {
+    "english": "collaborate with others",
+    "chinese": "与他人合作",
+    "english": "collaborate with others",
+    "chinese": "与他人合作",
+    "example": "Scientists often collaborate with others from different countries on research projects."
+  },
+  {
+    "english": "share ideas",
+    "chinese": "分享观点",
+    "example": "Sharing ideas with classmates can help you understand the lesson better."
+  },
+  {
+    "english": "have different opinions",
+    "chinese": "意见不同",
+    "example": "It's normal to have different opinions in a group discussion."
+  },
+  {
+    "english": "respect each other",
+    "chinese": "彼此尊重",
+    "example": "Respecting each other's opinions is important in any relationship."
+  },
+  {
+    "english": "enjoy doing something",
+    "chinese": "喜欢做某事",
+    "example": "She enjoys playing the piano because it makes her happy and relaxed."
+  },
+  {
+    "english": "be passionate about",
+    "chinese": "对……充满热情",
+    "example": "He is passionate about environmental protection and volunteers for green projects."
+  },
+  {
+    "english": "take responsibility",
+    "chinese": "承担责任",
+    "example": "As an adult, you need to take responsibility for your actions and decisions."
+  },
+  {
+    "english": "follow the rules",
+    "chinese": "遵守规则",
+    "example": "Following the rules is important to maintain order in school and society."
+  },
+  {
+    "english": "make a good impression",
+    "chinese": "留下好印象",
+    "example": "Dressing appropriately and being polite can help you make a good impression."
+  },
+  {
+    "english": "get inspired by",
+    "chinese": "受到……的启发",
+    "example": "Many writers get inspired by the beauty of nature and daily life."
+  },
+  {
+    "english": "develop critical thinking",
+    "chinese": "培养批判性思维",
+    "example": "Reading different types of books can help develop critical thinking skills."
+  },
+  {
+    "english": "analyze problems",
+    "chinese": "分析问题",
+    "example": "Before solving a problem, you need to analyze it carefully to find the root cause."
+  },
+  {
+    "english": "solve problems",
+    "chinese": "解决问题",
+    "example": "Working together, we can solve problems more effectively and efficiently."
+  },
+  {
+    "english": "come up with ideas",
+    "chinese": "提出想法",
+    "example": "Brainstorming with others can help you come up with new and creative ideas."
+  },
+  {
+    "english": "feel proud of",
+    "chinese": "为……感到自豪",
+    "example": "She feels proud of her son for winning the science competition."
+  },
+  {
+    "english": "make the most of",
+    "chinese": "充分利用",
+    "example": "Make the most of your time in college to learn and experience new things."
+  },
+  {
+    "english": "take advantage of",
+    "chinese": "利用……的优势",
+    "example": "Take advantage of the free resources available online to improve your language skills."
+  },
+  {
+    "english": "be interested in",
+    "chinese": "对……感兴趣",
+    "example": "He is interested in history and spends a lot of time reading historical books."
+  },
+  {
+    "english": "be good at",
+    "chinese": "擅长……",
+    "example": "She is good at painting and has won several awards for her artwork."
+  },
+  {
+    "english": "struggle with",
+    "chinese": "在……方面挣扎",
+    "example": "Many students struggle with time management when they first go to college."
+  },
+  {
+    "english": "enjoy the moment",
+    "chinese": "享受当下",
+    "example": "Don't worry too much about the future; just enjoy the moment and have fun."
+  },
+  {
+    "english": "gain knowledge",
+    "chinese": "获得知识",
+    "example": "Traveling to different places is a great way to gain knowledge about the world."
+  },
+  {
+    "english": "form a good habit",
+    "chinese": "养成好习惯",
+    "example": "Forming a good habit of exercising in the morning can benefit your health in the long run."
+  },
+  {
+    "english": "break bad habits",
+    "chinese": "改掉坏习惯",
+    "example": "It's not easy to break bad habits, but it's possible with patience and determination."
+  },
+  {
+    "english": "have a clear goal",
+    "chinese": "有明确的目标",
+    "example": "Having a clear goal can help you stay focused and motivated to achieve it."
+  },
+  {
+    "english": "make a big difference",
+    "chinese": "带来巨大变化",
+    "example": "Small actions can make a big difference in protecting the environment."
+  },
+  {
+    "english": "have a positive attitude",
+    "chinese": "保持积极态度",
+    "example": "Having a positive attitude can help you overcome challenges and stay happy."
+  },
+  {
+    "english": "be open-minded",
+    "chinese": "思想开明",
+    "example": "Being open-minded allows you to accept new ideas and learn from others."
+  },
+  {
+    "english": "deal with stress",
+    "chinese": "应对压力",
+    "example": "Different people have different ways to deal with stress in their lives."
+  },
+  {
+    "english": "handle conflict",
+    "chinese": "处理冲突",
+    "example": "Learning to handle conflict peacefully is an important life skill."
+  },
+  {
+    "english": "trust others",
+    "chinese": "信任他人",
+    "example": "It's important to trust others in a team to work together effectively."
+  },
+  {
+    "english": "feel comfortable",
+    "chinese": "感到舒服",
+    "example": "She feels comfortable in her new apartment because it's cozy and well-decorated."
+  },
+  {
+    "english": "be self-disciplined",
+    "chinese": "有自律性",
+    "example": "Being self-disciplined helps you stick to your plans and achieve your goals."
+  },
+  {
+    "english": "stick to a routine",
+    "chinese": "坚持规律生活",
+    "example": "Sticking to a routine can make your life more organized and less stressful."
+  },
+  {
+    "english": "be motivated",
+    "chinese": "有动力",
+    "example": "Setting small goals can help you stay motivated and focused on your studies."
+  },
+  {
+    "english": "keep improving",
+    "chinese": "不断进步",
+    "example": "The key to success is to keep improving and never give up."
+  },
+  {
+    "english": "appreciate small things",
+    "chinese": "欣赏小事",
+    "example": "Learning to appreciate small things in life can bring more happiness and gratitude."
+  },
+  {
+    "english": "stay positive",
+    "chinese": "保持积极",
+    "example": "Stay positive even when things go wrong, and you'll find a way to solve the problem."
+  },
+  {
+    "english": "believe in myself",
+    "chinese": "相信自己",
+    "example": "Believing in yourself is the first step to achieving anything you want in life."
+  }
+]

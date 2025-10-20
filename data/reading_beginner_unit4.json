@@ -1,0 +1,442 @@
+[
+    {
+        "english": "rigid",
+        "chinese": "刻板的",
+        "example": "His rigid approach to problem-solving often limits creativity."
+    },
+    {
+        "english": "productive",
+        "chinese": "多产的",
+        "example": "The team had a productive meeting and achieved several key decisions."
+    },
+    {
+        "english": "efficient",
+        "chinese": "高效的",
+        "example": "An efficient workflow can significantly reduce project completion time."
+    },
+    {
+        "english": "permit",
+        "chinese": "批准",
+        "example": "The government will permit the construction project under strict environmental regulations."
+    },
+    {
+        "english": "prevailing",
+        "chinese": "盛行的",
+        "example": "The prevailing opinion in the industry supports the new regulatory changes."
+    },
+    {
+        "english": "pre-determined",
+        "chinese": "预定的",
+        "example": "The experiment followed a pre-determined protocol to ensure accuracy."
+    },
+    {
+        "english": "flexible",
+        "chinese": "灵活的",
+        "example": "A flexible schedule allows employees to balance work and personal life."
+    },
+    {
+        "english": "modify",
+        "chinese": "修改",
+        "example": "We need to modify the design to meet the client's specific requirements."
+    },
+    {
+        "english": "operation",
+        "chinese": "运作",
+        "example": "The company's global operations span over 20 countries."
+    },
+    {
+        "english": "affordable",
+        "chinese": "买得起的，便宜的",
+        "example": "The new policy aims to make healthcare more affordable for low-income families."
+    },
+    {
+        "english": "tailor",
+        "chinese": "定制",
+        "example": "The training program is tailored to meet the needs of different skill levels."
+    },
+    {
+        "english": "fade",
+        "chinese": "褪色",
+        "example": "Sunlight can cause fabrics to fade over time."
+    },
+    {
+        "english": "life expectancy",
+        "chinese": "预期寿命",
+        "example": "Improvements in healthcare have increased global life expectancy significantly."
+    },
+    {
+        "english": "evolve",
+        "chinese": "进化",
+        "example": "Language continues to evolve as new words and phrases are adopted."
+    },
+    {
+        "english": "defense",
+        "chinese": "防御",
+        "example": "The country strengthened its defense system in response to regional tensions."
+    },
+    {
+        "english": "disperse",
+        "chinese": "分散",
+        "example": "The police used tear gas to disperse the protesting crowd."
+    },
+    {
+        "english": "diverse",
+        "chinese": "多样的",
+        "example": "The company values a diverse workforce with different cultural backgrounds."
+    },
+    {
+        "english": "negligible",
+        "chinese": "微不足道的",
+        "example": "The error in the calculation had a negligible impact on the final result."
+    },
+    {
+        "english": "challenging",
+        "chinese": "困难的，有挑战的",
+        "example": "Climbing the highest mountain in the region is a challenging but rewarding experience."
+    },
+    {
+        "english": "fertile",
+        "chinese": "（田地）高产的",
+        "example": "The fertile soil in the river delta is ideal for growing rice."
+    },
+    {
+        "english": "brain",
+        "chinese": "大脑",
+        "example": "The human brain is capable of incredible cognitive functions."
+    },
+    {
+        "english": "coast",
+        "chinese": "海岸",
+        "example": "Many popular tourist destinations are located along the coast."
+    },
+    {
+        "english": "contact",
+        "chinese": "接触",
+        "example": "Wash your hands frequently to reduce contact with germs."
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "example": "Camels are well-adapted to living in the harsh desert environment."
+    },
+    {
+        "english": "energy",
+        "chinese": "能量",
+        "example": "Solar panels convert sunlight into usable energy."
+    },
+    {
+        "english": "event",
+        "chinese": "事件",
+        "example": "The conference was a significant event in the tech industry."
+    },
+    {
+        "english": "evidence",
+        "chinese": "证据",
+        "example": "Scientists found new evidence supporting the theory of evolution."
+    },
+    {
+        "english": "heap",
+        "chinese": "一堆，许多",
+        "example": "She had a heap of homework to finish before the weekend."
+    },
+    {
+        "english": "iron",
+        "chinese": "铁",
+        "example": "Iron is an essential mineral for human health."
+    },
+    {
+        "english": "journey",
+        "chinese": "旅程",
+        "example": "The journey across the continent took several months by train."
+    },
+    {
+        "english": "model",
+        "chinese": "模型",
+        "example": "The architect created a scale model of the proposed building."
+    },
+    {
+        "english": "option",
+        "chinese": "选择",
+        "example": "We have several options to consider before making a decision."
+    },
+    {
+        "english": "path",
+        "chinese": "路径",
+        "example": "The hiking path leads to a stunning view of the valley."
+    },
+    {
+        "english": "process",
+        "chinese": "过程",
+        "example": "The manufacturing process involves several quality control checks."
+    },
+    {
+        "english": "region",
+        "chinese": "地区",
+        "example": "The region is known for its rich cultural heritage and natural beauty."
+    },
+    {
+        "english": "straw",
+        "chinese": "稻草",
+        "example": "Farmers use straw to feed livestock during the winter."
+    },
+    {
+        "english": "weapon",
+        "chinese": "武器",
+        "example": "The discovery of ancient weapons provided insights into past civilizations."
+    },
+    {
+        "english": "compare",
+        "chinese": "比较",
+        "example": "Compare the two products to see which one best suits your needs."
+    },
+    {
+        "english": "examine",
+        "chinese": "检测",
+        "example": "The doctor will examine the patient to determine the cause of the symptoms."
+    },
+    {
+        "english": "perform",
+        "chinese": "执行",
+        "example": "The team will perform a series of tests to validate the new technology."
+    },
+    {
+        "english": "propose",
+        "chinese": "提出",
+        "example": "The committee will propose a new plan to address the housing crisis."
+    },
+    {
+        "english": "remain",
+        "chinese": "保持",
+        "example": "Despite challenges, she remained committed to her goals."
+    },
+    {
+        "english": "trace",
+        "chinese": "追踪",
+        "example": "Detectives tried to trace the origin of the mysterious package."
+    },
+    {
+        "english": "therefore",
+        "chinese": "因此",
+        "example": "The weather was bad, therefore the outdoor event was canceled."
+    },
+    {
+        "english": "adaptable",
+        "chinese": "可适应的",
+        "example": "An adaptable person can thrive in changing environments."
+    },
+    {
+        "english": "available",
+        "chinese": "可用的",
+        "example": "Check if the conference room is available for the meeting."
+    },
+    {
+        "english": "metallic",
+        "chinese": "金属制的",
+        "example": "The metallic structure of the bridge ensures its durability."
+    },
+    {
+        "english": "ally with",
+        "chinese": "与...结盟",
+        "example": "The two countries decided to ally with each other for mutual benefit."
+    },
+    {
+        "english": "approach",
+        "chinese": "方法",
+        "example": "A new approach to teaching math has improved student performance."
+    },
+    {
+        "english": "limitation",
+        "chinese": "限制",
+        "example": "Budget limitations forced the company to reduce its workforce."
+    },
+    {
+        "english": "proportion",
+        "chinese": "比例",
+        "example": "The proportion of men to women in the industry has changed over the years."
+    },
+    {
+        "english": "shift",
+        "chinese": "切换",
+        "example": "The company plans to shift its focus to renewable energy solutions."
+    },
+    {
+        "english": "fiber",
+        "chinese": "纤维",
+        "example": "A diet rich in fiber is beneficial for digestive health."
+    },
+    {
+        "english": "knowledge",
+        "chinese": "知识",
+        "example": "Acquiring new knowledge is a lifelong process."
+    },
+    {
+        "english": "refinement",
+        "chinese": "精炼",
+        "example": "The refinement of oil is a complex industrial process."
+    },
+    {
+        "english": "self-improvement",
+        "chinese": "自我改善",
+        "example": "Reading books is a form of self-improvement and personal growth."
+    },
+    {
+        "english": "rely on",
+        "chinese": "依靠于",
+        "example": "Many students rely on scholarships to fund their education."
+    },
+    {
+        "english": "inhibit",
+        "chinese": "抑制",
+        "example": "Stress can inhibit the body's immune system."
+    },
+    {
+        "english": "persist",
+        "chinese": "继续存在",
+        "example": "The problem persisted despite several attempts to solve it."
+    },
+    {
+        "english": "grand",
+        "chinese": "宏伟的",
+        "example": "The grand cathedral attracts millions of visitors each year."
+    },
+    {
+        "english": "incapable",
+        "chinese": "不能的",
+        "english": "The old computer is incapable of running the new software smoothly."
+    },
+    {
+        "english": "dramatical",
+        "chinese": "剧烈的",
+        "example": "There has been a dramatical increase in online shopping during the pandemic."
+    },
+    {
+        "english": "recurring",
+        "chinese": "反复出现的",
+        "example": "She sought treatment for her recurring headaches."
+    },
+    {
+        "english": "wisdom",
+        "chinese": "智慧",
+        "example": "The old man was respected for his wisdom and life experience."
+    },
+    {
+        "english": "prestige",
+        "chinese": "声望",
+        "example": "Winning the award added to his professional prestige."
+    },
+    {
+        "english": "discrepancies",
+        "chinese": "差异",
+        "example": "There were discrepancies between the two versions of the story."
+    },
+    {
+        "english": "tension",
+        "chinese": "紧张",
+        "example": "Political tension between the two countries has been escalating."
+    },
+    {
+        "english": "wagon",
+        "chinese": "马车",
+        "example": "In the past, wagons were the primary means of transporting goods."
+    },
+    {
+        "english": "awe-inspiring",
+        "chinese": "令人惊叹的",
+        "example": "The view from the mountain top was truly awe-inspiring."
+    },
+    {
+        "english": "enduring",
+        "chinese": "持久的",
+        "example": "Their enduring friendship has lasted for over five decades."
+    },
+    {
+        "english": "innovative",
+        "chinese": "创新的",
+        "example": "The company is known for its innovative approach to product design."
+    },
+    {
+        "english": "monumental",
+        "chinese": "宏伟的",
+        "example": "Completing the project was a monumental achievement for the team."
+    },
+    {
+        "english": "numbing",
+        "chinese": "乏味的",
+        "example": "The long and tedious meeting had a numbing effect on the attendees."
+    },
+    {
+        "english": "obliged",
+        "chinese": "感激的",
+        "example": "I am obliged to you for your help and support."
+    },
+    {
+        "english": "predominantly",
+        "chinese": "主要地",
+        "example": "The region is predominantly rural, with few urban areas."
+    },
+    {
+        "english": "anchor",
+        "chinese": "将……固定在水里",
+        "example": "The ship anchored in the harbor to wait out the storm."
+    },
+    {
+        "english": "algorithm",
+        "chinese": "算法",
+        "example": "Search engines use complex algorithms to deliver relevant results."
+    },
+    {
+        "english": "advent",
+        "chinese": "出现",
+        "example": "The advent of the internet revolutionized global communication."
+    },
+    {
+        "english": "codify",
+        "chinese": "编成法典",
+        "example": "The legal system aims to codify all regulations for clarity."
+    },
+    {
+        "english": "diffuse",
+        "chinese": "散布",
+        "example": "Heat will diffuse through the material until it reaches equilibrium."
+    },
+    {
+        "english": "emerge",
+        "chinese": "出现",
+        "example": "New technologies continue to emerge in the rapidly evolving digital landscape."
+    },
+    {
+        "english": "prowess",
+        "chinese": "超凡技术",
+        "example": "His musical prowess impressed everyone at the concert."
+    },
+    {
+        "english": "permutation",
+        "chinese": "排列",
+        "example": "Mathematics studies the permutation and combination of different elements."
+    },
+    {
+        "english": "archaeologist",
+        "chinese": "考古学家",
+        "example": "Archaeologists discovered ancient ruins while excavating the site."
+    },
+    {
+        "english": "volcanic eruptions",
+        "chinese": "火山喷发",
+        "example": "Volcanic eruptions can have significant impacts on climate patterns."
+    },
+    {
+        "english": "foliage",
+        "chinese": "枝叶",
+        "example": "The dense foliage provided shade and shelter for the animals."
+    },
+    {
+        "english": "revolution",
+        "chinese": "革命",
+        "example": "The industrial revolution transformed societies around the world."
+    },
+    {
+        "english": "technology",
+        "chinese": "科技",
+        "example": "Advances in technology have made our lives more convenient."
+    }
+]

@@ -1,0 +1,597 @@
+[
+    {
+        "english": "exceed",
+        "chinese": "超过",
+        "example": "The final cost exceeded our original budget by 20%."
+    },
+    {
+        "english": "outlast",
+        "chinese": "比…持续时间长",
+        "example": "This ancient building has outlasted many others in the city."
+    },
+    {
+        "english": "suffer",
+        "chinese": "遭受",
+        "example": "Farmers suffered huge losses due to the drought."
+    },
+    {
+        "english": "principle",
+        "chinese": "原则",
+        "example": "We should always act according to the principle of honesty."
+    },
+    {
+        "english": "irrigation",
+        "chinese": "灌溉",
+        "example": "The irrigation system ensures water reaches the farmland."
+    },
+    {
+        "english": "recharge",
+        "chinese": "休整",
+        "example": "A short vacation can help you recharge and stay productive."
+    },
+    {
+        "english": "convey",
+        "chinese": "传达",
+        "example": "The poem effectively conveys the feeling of homesickness."
+    },
+    {
+        "english": "reveal",
+        "chinese": "揭示",
+        "example": "The study reveals a link between exercise and mental health."
+    },
+    {
+        "english": "insist",
+        "chinese": "坚持",
+        "example": "She insists on walking to work every day for exercise."
+    },
+    {
+        "english": "oppose",
+        "chinese": "反对",
+        "example": "Many people oppose the new policy for its potential impact."
+    },
+    {
+        "english": "multifunctional",
+        "chinese": "多功能的",
+        "example": "This multifunctional device can be used as a phone, camera, and music player."
+    },
+    {
+        "english": "set apart",
+        "chinese": "区分",
+        "example": "Her unique style sets her apart from other designers."
+    },
+    {
+        "english": "distinguish",
+        "chinese": "区分",
+        "example": "It's important to distinguish between facts and opinions."
+    },
+    {
+        "english": "religious",
+        "chinese": "宗教的",
+        "example": "The festival has both cultural and religious significance."
+    },
+    {
+        "english": "keep track of",
+        "chinese": "跟踪",
+        "example": "Use a notebook to keep track of your daily expenses."
+    },
+    {
+        "english": "weave",
+        "chinese": "编法",
+        "example": "This fabric uses a traditional weave from Southeast Asia."
+    },
+    {
+        "english": "cultivation",
+        "chinese": "种植",
+        "example": "The cultivation of rice has a long history in this region."
+    },
+    {
+        "english": "erosion",
+        "chinese": "侵蚀",
+        "example": "Soil erosion is a major problem in deforested areas."
+    },
+    {
+        "english": "install",
+        "chinese": "安装",
+        "example": "They will install new solar panels on the roof next week."
+    },
+    {
+        "english": "reasonable",
+        "chinese": "合理的",
+        "example": "The price of this product is reasonable for its quality."
+    },
+    {
+        "english": "access",
+        "chinese": "(使用或见到的)机会、通道",
+        "example": "Students need easy access to educational resources."
+    },
+    {
+        "english": "accounting",
+        "chinese": "会计工作",
+        "example": "She has years of experience in corporate accounting."
+    },
+    {
+        "english": "advanced",
+        "chinese": "先进的",
+        "example": "The hospital uses advanced technology for surgeries."
+    },
+    {
+        "english": "advantage",
+        "chinese": "优势",
+        "example": "The main advantage of this plan is its low cost."
+    },
+    {
+        "english": "assume",
+        "chinese": "假设",
+        "example": "We cannot assume that everyone will agree with the decision."
+    },
+    {
+        "english": "attend",
+        "chinese": "出席",
+        "example": "All employees are required to attend the annual meeting."
+    },
+    {
+        "english": "attract",
+        "chinese": "吸引",
+        "example": "The new park attracts many visitors on weekends."
+    },
+    {
+        "english": "balanced",
+        "chinese": "平衡的",
+        "example": "A balanced diet is essential for good health."
+    },
+    {
+        "english": "boom",
+        "chinese": "繁荣",
+        "example": "The city experienced an economic boom in the 1990s."
+    },
+    {
+        "english": "commercial",
+        "chinese": "商业的",
+        "example": "The area has developed into a major commercial center."
+    },
+    {
+        "english": "compare",
+        "chinese": "比较",
+        "example": "Compare the two products before making a purchase."
+    },
+    {
+        "english": "connect",
+        "chinese": "连接",
+        "example": "The new road will connect the town to the highway."
+    },
+    {
+        "english": "contribute",
+        "chinese": "贡献",
+        "example": "Everyone can contribute to protecting the environment."
+    },
+    {
+        "english": "create",
+        "chinese": "创造",
+        "example": "Artists create beautiful works that inspire people."
+    },
+    {
+        "english": "credit",
+        "chinese": "信贷",
+        "example": "Banks offer low-interest credit to small businesses."
+    },
+    {
+        "english": "desert",
+        "chinese": "沙漠",
+        "example": "Many plants have adapted to survive in the desert."
+    },
+    {
+        "english": "develop",
+        "chinese": "发展",
+        "example": "The country has developed rapidly in recent years."
+    },
+    {
+        "english": "economic",
+        "chinese": "经济的",
+        "example": "The government implemented new economic policies to boost growth."
+    },
+    {
+        "english": "effort",
+        "chinese": "努力",
+        "example": "Success requires hard work and continuous effort."
+    },
+    {
+        "english": "empire",
+        "chinese": "帝国",
+        "example": "The Roman Empire once controlled a vast territory."
+    },
+    {
+        "english": "encourage",
+        "chinese": "鼓励",
+        "example": "Teachers should encourage students to ask questions."
+    },
+    {
+        "english": "energy",
+        "chinese": "能源",
+        "example": "Solar energy is a clean and renewable resource."
+    },
+    {
+        "english": "engage",
+        "chinese": "从事",
+        "example": "She engages in scientific research at the university."
+    },
+    {
+        "english": "environment",
+        "chinese": "环境",
+        "example": "We must take action to protect the natural environment."
+    },
+    {
+        "english": "establish",
+        "chinese": "建立",
+        "example": "They plan to establish a new company next year."
+    },
+    {
+        "english": "exchange",
+        "chinese": "兑换",
+        "example": "You can exchange currency at the airport bank."
+    },
+    {
+        "english": "exist",
+        "chinese": "存在",
+        "example": "Many species exist only in specific regions of the world."
+    },
+    {
+        "english": "extend",
+        "chinese": "延伸",
+        "example": "The hiking trail extends for 20 kilometers through the forest."
+    },
+    {
+        "english": "financial",
+        "chinese": "金融的",
+        "example": "He works in the financial industry as an analyst."
+    },
+    {
+        "english": "foreign",
+        "chinese": "外国的",
+        "example": "Learning a foreign language can broaden your horizons."
+    },
+    {
+        "english": "gain",
+        "chinese": "获得",
+        "example": "Traveling allows you to gain new experiences and perspectives."
+    },
+    {
+        "english": "height",
+        "chinese": "高度",
+        "example": "The height of the mountain is over 3,000 meters."
+    },
+    {
+        "english": "improve",
+        "chinese": "改善",
+        "example": "Regular exercise can improve your physical and mental health."
+    },
+    {
+        "english": "including",
+        "chinese": "包括",
+        "example": "The package includes five different types of snacks."
+    },
+    {
+        "english": "increase",
+        "chinese": "增加",
+        "example": "The company plans to increase production by 10% this year."
+    },
+    {
+        "english": "individual",
+        "chinese": "个人",
+        "example": "Each individual has the right to express their opinions."
+    },
+    {
+        "english": "industry",
+        "chinese": "工业",
+        "example": "The automotive industry plays a key role in the economy."
+    },
+    {
+        "english": "influence",
+        "chinese": "影响",
+        "example": "Social media has a huge influence on people's daily lives."
+    },
+    {
+        "english": "introduce",
+        "chinese": "引入",
+        "example": "The school will introduce a new course on artificial intelligence."
+    },
+    {
+        "english": "item",
+        "chinese": "物品",
+        "example": "Check the list to make sure you have all the items."
+    },
+    {
+        "english": "knowledge",
+        "chinese": "知识",
+        "example": "Reading books is a great way to gain knowledge."
+    },
+    {
+        "english": "labor",
+        "chinese": "劳动",
+        "example": "Manual labor can be physically demanding but rewarding."
+    },
+    {
+        "english": "lack",
+        "chinese": "缺乏",
+        "example": "Lack of sleep can affect your ability to concentrate."
+    },
+    {
+        "english": "likely",
+        "chinese": "可能的",
+        "example": "It is likely to rain tomorrow, so bring an umbrella."
+    },
+    {
+        "english": "limited",
+        "chinese": "有限的",
+        "example": "The company has limited resources to invest in new projects."
+    },
+    {
+        "english": "locate",
+        "chinese": "位于",
+        "example": "The new office is located in the city center."
+    },
+    {
+        "english": "maintain",
+        "chinese": "维持",
+        "example": "We need to maintain good communication with our clients."
+    },
+    {
+        "english": "mathematics",
+        "chinese": "数学",
+        "example": "Mathematics is an important subject in school."
+    },
+    {
+        "english": "modern",
+        "chinese": "现代的",
+        "example": "Modern technology has changed the way we work and live."
+    },
+    {
+        "english": "operate",
+        "chinese": "经营",
+        "example": "The company operates several branches across the country."
+    },
+    {
+        "english": "opportunity",
+        "chinese": "机会",
+        "example": "Studying abroad is a great opportunity to learn a new culture."
+    },
+    {
+        "english": "option",
+        "chinese": "选择",
+        "example": "You have the option to work from home or in the office."
+    },
+    {
+        "english": "organization",
+        "chinese": "组织",
+        "example": "Non-profit organizations play an important role in society."
+    },
+    {
+        "english": "political",
+        "chinese": "政治的",
+        "example": "Political decisions can have a big impact on people's lives."
+    },
+    {
+        "english": "population",
+        "chinese": "人口",
+        "example": "The population of the city has been growing steadily."
+    },
+    {
+        "english": "port",
+        "chinese": "港口",
+        "example": "The port handles thousands of shipping containers every day."
+    },
+    {
+        "english": "practice",
+        "chinese": "实践",
+        "example": "Practice makes perfect when learning a new skill."
+    },
+    {
+        "english": "process",
+        "chinese": "过程",
+        "example": "The manufacturing process of this product is very complex."
+    },
+    {
+        "english": "productivity",
+        "chinese": "生产力",
+        "example": "New technologies have increased productivity in factories."
+    },
+    {
+        "english": "professional",
+        "chinese": "专业的",
+        "example": "He is a professional photographer with many years of experience."
+    },
+    {
+        "english": "property",
+        "chinese": "财产",
+        "example": "Protecting private property is an important legal principle."
+    },
+    {
+        "english": "provide",
+        "chinese": "提供",
+        "example": "The company provides free training for new employees."
+    },
+    {
+        "english": "qualification",
+        "chinese": "资格",
+        "example": "You need the relevant qualifications to apply for this job."
+    },
+    {
+        "english": "quality",
+        "chinese": "质量",
+        "example": "We should focus on both quantity and quality in our work."
+    },
+    {
+        "english": "rapid",
+        "chinese": "快速的",
+        "example": "Rapid urbanization has brought many challenges to the city."
+    },
+    {
+        "english": "receive",
+        "chinese": "接受",
+        "example": "She was happy to receive an invitation to the conference."
+    },
+    {
+        "english": "reduced",
+        "chinese": "减少的",
+        "example": "The reduced price made the product more affordable for consumers."
+    },
+    {
+        "english": "region",
+        "chinese": "地区",
+        "example": "The climate in this region is suitable for growing fruits."
+    },
+    {
+        "english": "rely",
+        "chinese": "依赖",
+        "example": "Many people rely on public transportation to get to work."
+    },
+    {
+        "english": "remain",
+        "chinese": "保持",
+        "example": "Despite the changes, her love for painting remains strong."
+    },
+    {
+        "english": "replace",
+        "chinese": "替换",
+        "example": "They decided to replace the old machine with a new one."
+    },
+    {
+        "english": "representative",
+        "chinese": "代表",
+        "example": "The committee elected a representative to speak on their behalf."
+    },
+    {
+        "english": "researcher",
+        "chinese": "研究人员",
+        "example": "Researchers are working to find a cure for the disease."
+    },
+    {
+        "english": "resist",
+        "chinese": "抵抗",
+        "example": "The body's immune system helps resist infections."
+    },
+    {
+        "english": "role",
+        "chinese": "角色",
+        "example": "Parents play an important role in a child's development."
+    },
+    {
+        "english": "shade",
+        "chinese": "阴影",
+        "example": "People gathered under the shade of the tree to escape the sun."
+    },
+    {
+        "english": "spinning",
+        "chinese": "纺织",
+        "example": "Spinning was an important industry in ancient civilizations."
+    },
+    {
+        "english": "spread",
+        "chinese": "传播",
+        "example": "The internet has made it easier for information to spread globally."
+    },
+    {
+        "english": "supply",
+        "chinese": "供应",
+        "example": "The company ensures a steady supply of goods to its customers."
+    },
+    {
+        "english": "valuable",
+        "chinese": "有价值的",
+        "example": "The museum has many valuable artifacts from different eras."
+    },
+    {
+        "english": "various",
+        "chinese": "各种各样的",
+        "example": "The store offers various types of products to meet different needs."
+    },
+    {
+        "english": "insight",
+        "chinese": "见解",
+        "example": "The book provides new insights into ancient cultures."
+    },
+    {
+        "english": "notion",
+        "chinese": "概念",
+        "example": "The notion of time varies in different cultures."
+    },
+    {
+        "english": "payoff",
+        "chinese": "结果",
+        "example": "The payoff of years of hard work was a successful career."
+    },
+    {
+        "english": "faculty",
+        "chinese": "全体教师",
+        "example": "The faculty met to discuss the new curriculum."
+    },
+    {
+        "english": "match",
+        "chinese": "匹配",
+        "example": "The socks don't match, but they are comfortable."
+    },
+    {
+        "english": "security",
+        "chinese": "安全",
+        "example": "The government is taking steps to improve national security."
+    },
+    {
+        "english": "dismiss",
+        "chinese": "解雇",
+        "example": "He was dismissed from his job for poor performance."
+    },
+    {
+        "english": "objective",
+        "chinese": "客观的",
+        "example": "An objective review of the data is necessary before making a decision."
+    },
+    {
+        "english": "restriction",
+        "chinese": "限制",
+        "example": "There are restrictions on who can enter the protected area."
+    },
+    {
+        "english": "get rid of",
+        "chinese": "消除影响",
+        "example": "It's difficult to get rid of the influence of bad habits."
+    },
+    {
+        "english": "alliance",
+        "chinese": "同盟",
+        "example": "The two countries formed an alliance to protect their common interests."
+    },
+    {
+        "english": "dissolve",
+        "chinese": "溶解",
+        "example": "Salt will dissolve in water if you stir it well."
+    },
+    {
+        "english": "residue",
+        "chinese": "残余物",
+        "example": "Wash the plate thoroughly to remove any food residue."
+    },
+    {
+        "english": "evaporate",
+        "chinese": "蒸发",
+        "example": "Water will evaporate if heated to its boiling point."
+    },
+    {
+        "english": "pastureland",
+        "chinese": "牧场",
+        "example": "The pastureland is used for grazing cattle and sheep."
+    },
+    {
+        "english": "sanitation",
+        "chinese": "公共卫生",
+        "example": "Improving sanitation is key to preventing the spread of diseases."
+    },
+    {
+        "english": "aquifer",
+        "chinese": "含水层",
+        "example": "The aquifer provides fresh water for the surrounding communities."
+    },
+    {
+        "english": "semiarid",
+        "chinese": "半干旱的",
+        "example": "Crops in semiarid regions require special irrigation methods."
+    }
+]

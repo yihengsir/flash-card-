@@ -1,0 +1,632 @@
+[
+  {
+    "english": "temple",
+    "chinese": "寺庙",
+    "example": "Many tourists visit the ancient temple every year."
+  },
+  {
+    "english": "secular",
+    "chinese": "现世的，世俗的",
+    "example": "In modern society, there is a clear separation between religious and secular matters."
+  },
+  {
+    "english": "administrator",
+    "chinese": "管理者",
+    "example": "The school administrator is responsible for managing the daily affairs of the institution."
+  },
+  {
+    "english": "timber",
+    "chinese": "木材",
+    "example": "They used timber to build a small cabin in the woods."
+  },
+  {
+    "english": "damp",
+    "chinese": "潮湿的",
+    "example": "The damp weather makes everything feel cold and uncomfortable."
+  },
+  {
+    "english": "clay",
+    "chinese": "黏土，泥土",
+    "example": "Potters use clay to create beautiful ceramic objects."
+  },
+  {
+    "english": "script",
+    "chinese": "笔迹",
+    "example": "It's difficult to read his script because it's very messy."
+  },
+  {
+    "english": "grain",
+    "chinese": "粮食",
+    "example": "Farmers grow various grains such as wheat and rice."
+  },
+  {
+    "english": "hazardous",
+    "chinese": "冒险的，危险的",
+    "example": "Working with hazardous materials requires special safety precautions."
+  },
+  {
+    "english": "overall",
+    "chinese": "总体的，全部的",
+    "example": "Overall, the project was completed successfully on time."
+  },
+  {
+    "english": "neutralize",
+    "chinese": "使无效",
+    "example": "Baking soda can neutralize acidic substances."
+  },
+  {
+    "english": "delay",
+    "chinese": "耽搁，延迟",
+    "example": "The flight was delayed due to technical issues."
+  },
+  {
+    "english": "experiment",
+    "chinese": "尝试，做实验",
+    "example": "Students often experiment with different chemicals in the lab."
+  },
+  {
+    "english": "variety",
+    "chinese": "多种式样",
+    "example": "The store offers a wide variety of fruits and vegetables."
+  },
+  {
+    "english": "technique",
+    "chinese": "技术，技巧",
+    "example": "The artist used a unique technique to create this painting."
+  },
+  {
+    "english": "artificial",
+    "chinese": "人工的",
+    "example": "This artificial flower looks very realistic."
+  },
+  {
+    "english": "facilitate",
+    "chinese": "帮助，促进",
+    "example": "Good communication can facilitate teamwork."
+  },
+  {
+    "english": "factor",
+    "chinese": "因素",
+    "example": "Price is an important factor when buying a new car."
+  },
+  {
+    "english": "resilience",
+    "chinese": "弹性，恢复力",
+    "example": "The city showed great resilience after the natural disaster."
+  },
+  {
+    "english": "severely",
+    "chinese": "严重地，严厉地",
+    "example": "He was severely criticized for his mistake."
+  },
+  {
+    "english": "accumulation",
+    "chinese": "积累，堆积物",
+    "example": "The accumulation of snow on the roads caused traffic problems."
+  },
+  {
+    "english": "aspect",
+    "chinese": "方面",
+    "example": "We need to consider every aspect of the problem."
+  },
+  {
+    "english": "colonize",
+    "chinese": "在……建立殖民度，移民于……",
+    "example": "European countries began to colonize Africa in the 19th century."
+  },
+  {
+    "english": "destruction",
+    "chinese": "摧毁，破坏",
+    "example": "The earthquake caused widespread destruction in the city."
+  },
+  {
+    "english": "explosion",
+    "chinese": "爆发，爆炸",
+    "example": "The explosion could be heard from miles away."
+  },
+  {
+    "english": "pale",
+    "chinese": "苍白的，无力的",
+    "example": "She looked pale after a long illness."
+  },
+  {
+    "english": "absence",
+    "chinese": "缺乏",
+    "example": "The absence of evidence made it difficult to prove the case."
+  },
+  {
+    "english": "accompany",
+    "chinese": "伴随",
+    "example": "Loud music often accompanies fireworks displays."
+  },
+  {
+    "english": "acquire",
+    "chinese": "获得",
+    "example": "She worked hard to acquire new skills."
+  },
+  {
+    "english": "alternative",
+    "chinese": "选择",
+    "example": "We need to find an alternative solution to this problem."
+  },
+  {
+    "english": "assess",
+    "chinese": "评估",
+    "example": "The teacher will assess our progress at the end of the semester."
+  },
+  {
+    "english": "campaign",
+    "chinese": "参加活动",
+    "example": "They launched a campaign to raise awareness about environmental issues."
+  },
+  {
+    "english": "civilian",
+    "chinese": "平民",
+    "example": "During the war, many civilians were forced to leave their homes."
+  },
+  {
+    "english": "cluster",
+    "chinese": "群集",
+    "example": "We saw a cluster of stars in the night sky."
+  },
+  {
+    "english": "composition",
+    "chinese": "构成",
+    "example": "The composition of the team has changed this year."
+  },
+  {
+    "english": "comprise",
+    "chinese": "包括",
+    "example": "The committee comprises ten members."
+  },
+  {
+    "english": "considerable",
+    "chinese": "相当大的",
+    "example": "He has made considerable progress in his studies."
+  },
+  {
+    "english": "convert",
+    "chinese": "转换",
+    "example": "Can you convert this file into a different format?"
+  },
+  {
+    "english": "cooperate",
+    "chinese": "合作",
+    "example": "We should cooperate to achieve our common goal."
+  },
+  {
+    "english": "density",
+    "chinese": "密度",
+    "example": "The density of population is very high in big cities."
+  },
+  {
+    "english": "depict",
+    "chinese": "描述",
+    "example": "The painting depicts a beautiful sunset over the ocean."
+  },
+  {
+    "english": "diplomatic",
+    "chinese": "外交的",
+    "example": "He has a diplomatic way of handling difficult situations."
+  },
+  {
+    "english": "distribute",
+    "chinese": "分布",
+    "example": "The teacher will distribute the textbooks tomorrow."
+  },
+  {
+    "english": "diversity",
+    "chinese": "多样性",
+    "example": "Our country is known for its cultural diversity."
+  },
+  {
+    "english": "drift",
+    "chinese": "漂移",
+    "example": "The boat began to drift slowly towards the shore."
+  },
+  {
+    "english": "encounter",
+    "chinese": "遭遇",
+    "example": "During our hike, we encountered a group of deer."
+  },
+  {
+    "english": "exclude",
+    "chinese": "排斥",
+    "example": "They decided to exclude him from the team."
+  },
+  {
+    "english": "fertile",
+    "chinese": "肥沃的",
+    "example": "The Nile River Valley has very fertile soil."
+  },
+  {
+    "english": "frequently",
+    "chinese": "经常地",
+    "example": "She frequently visits her grandparents."
+  },
+  {
+    "english": "function",
+    "chinese": "功能",
+    "example": "The main function of this machine is to cut paper."
+  },
+  {
+    "english": "fundamental",
+    "chinese": "基本的",
+    "example": "Understanding basic math is fundamental for learning more advanced concepts."
+  },
+  {
+    "english": "impact",
+    "chinese": "影响",
+    "example": "The new policy will have a great impact on the economy."
+  },
+  {
+    "english": "imperial",
+    "chinese": "帝国的",
+    "example": "The imperial palace is a popular tourist attraction."
+  },
+  {
+    "english": "imposition",
+    "chinese": "强加",
+    "example": "The imposition of new taxes was not well-received by the public."
+  },
+  {
+    "english": "incorporate",
+    "chinese": "包含",
+    "example": "The new design incorporates several innovative features."
+  },
+  {
+    "english": "inevitably",
+    "chinese": "不可避免地",
+    "example": "If you drive fast, you will inevitably increase the risk of an accident."
+  },
+  {
+    "english": "layer",
+    "chinese": "层",
+    "example": "The cake has three layers of different flavors."
+  },
+  {
+    "english": "majority",
+    "chinese": "大多数",
+    "example": "The majority of students passed the exam."
+  },
+  {
+    "english": "marginal",
+    "chinese": "边缘的",
+    "example": "He made only marginal improvements to his work."
+  },
+  {
+    "english": "migration",
+    "chinese": "迁移",
+    "example": "Bird migration is a fascinating natural phenomenon."
+  },
+  {
+    "english": "mild",
+    "chinese": "温和的",
+    "example": "We had a mild winter this year with very little snow."
+  },
+  {
+    "english": "modest",
+    "chinese": "不太大的",
+    "example": "He lives in a modest house in the suburbs."
+  },
+  {
+    "english": "mutually",
+    "chinese": "相互地",
+    "example": "They have a mutually beneficial relationship."
+  },
+  {
+    "english": "origin",
+    "chinese": "起源",
+    "example": "The origin of this custom is unknown."
+  },
+  {
+    "english": "overwhelming",
+    "chinese": "压倒性的",
+    "example": "The team won the game by an overwhelming score."
+  },
+  {
+    "english": "participate",
+    "chinese": "参与",
+    "example": "Everyone is encouraged to participate in the discussion."
+  },
+  {
+    "english": "permanent",
+    "chinese": "永久的",
+    "example": "They are looking for a permanent solution to the problem."
+  },
+  {
+    "english": "potentially",
+    "chinese": "潜在地",
+    "example": "This new technology could potentially change our lives."
+  },
+  {
+    "english": "presence",
+    "chinese": "存在",
+    "example": "The presence of police made people feel safe."
+  },
+  {
+    "english": "prior",
+    "chinese": "优先的",
+    "example": "You need to complete the prior tasks before starting this one."
+  },
+  {
+    "english": "rebellion",
+    "chinese": "反抗",
+    "example": "The rebellion was quickly suppressed by the government."
+  },
+  {
+    "english": "reflect",
+    "chinese": "反映",
+    "example": "This painting reflects the artist's unique style."
+  },
+  {
+    "english": "religious",
+    "chinese": "宗教的",
+    "example": "Many people attend religious services on Sundays."
+  },
+  {
+    "english": "remote",
+    "chinese": "遥远的",
+    "example": "He lives in a remote village in the mountains."
+  },
+  {
+    "english": "ritual",
+    "chinese": "仪式",
+    "example": "They performed a traditional ritual to welcome the guests."
+  },
+  {
+    "english": "sophisticated",
+    "chinese": "复杂的",
+    "example": "This is a very sophisticated machine that requires special training to operate."
+  },
+  {
+    "english": "speculation",
+    "chinese": "推测",
+    "example": "There has been a lot of speculation about the future of the company."
+  },
+  {
+    "english": "subsequent",
+    "chinese": "随后的",
+    "example": "Subsequent events proved that he was right."
+  },
+  {
+    "english": "substantial",
+    "chinese": "大量的",
+    "example": "They made a substantial investment in the new project."
+  },
+  {
+    "english": "symbol",
+    "chinese": "符号",
+    "example": "The dove is a symbol of peace."
+  },
+  {
+    "english": "territory",
+    "chinese": "领土",
+    "example": "The two countries are arguing over the disputed territory."
+  },
+  {
+    "english": "unyielding",
+    "chinese": "坚定的",
+    "example": "He showed unyielding determination to achieve his goals."
+  },
+  {
+    "english": "vast",
+    "chinese": "巨大的",
+    "example": "The Sahara Desert is a vast area of sand."
+  },
+  {
+    "english": "abundant",
+    "chinese": "丰富的",
+    "example": "This region is abundant in natural resources."
+  },
+  {
+    "english": "accustomed",
+    "chinese": "习惯的",
+    "example": "She is accustomed to getting up early."
+  },
+  {
+    "english": "aesthetic",
+    "chinese": "美学的",
+    "example": "The building has both functional and aesthetic value."
+  },
+  {
+    "english": "autonomy",
+    "chinese": "自治",
+    "example": "The region has a high degree of autonomy."
+  },
+  {
+    "english": "copper",
+    "chinese": "铜",
+    "example": "Copper is widely used in electrical wiring."
+  },
+  {
+    "english": "herb",
+    "chinese": "草本植物，药草",
+    "example": "Many herbs are used in traditional medicine."
+  },
+  {
+    "english": "mineral",
+    "chinese": "矿物",
+    "example": "This area is rich in minerals such as gold and silver."
+  },
+  {
+    "english": "tropical",
+    "chinese": "热带的，炎热的",
+    "example": "Tropical plants need a lot of sunlight and water."
+  },
+  {
+    "english": "insect",
+    "chinese": "昆虫",
+    "example": "Butterflies and bees are beautiful insects."
+  },
+  {
+    "english": "decay",
+    "chinese": "衰退",
+    "example": "The old house is slowly decaying."
+  },
+  {
+    "english": "dwelling",
+    "chinese": "住所",
+    "example": "They lived in a small dwelling in the forest."
+  },
+  {
+    "english": "enclose",
+    "chinese": "包围",
+    "example": "Please enclose your resume with the application."
+  },
+  {
+    "english": "flourish",
+    "chinese": "繁荣",
+    "example": "Businesses in the city are flourishing."
+  },
+  {
+    "english": "generic",
+    "chinese": "一般的",
+    "example": "This is a generic brand of soap."
+  },
+  {
+    "english": "harvest",
+    "chinese": "收获",
+    "example": "It's time to harvest the wheat."
+  },
+  {
+    "english": "implicitly",
+    "chinese": "含蓄地",
+    "example": "She implicitly agreed to the plan by not objecting."
+  },
+  {
+    "english": "infer",
+    "chinese": "推断",
+    "example": "From his words, I inferred that he was unhappy."
+  },
+  {
+    "english": "infrastructure",
+    "chinese": "基础设施",
+    "example": "The government is investing in improving the country's infrastructure."
+  },
+  {
+    "english": "merchant",
+    "chinese": "商人",
+    "example": "The merchant traded goods from different countries."
+  },
+  {
+    "english": "multiply",
+    "chinese": "增加",
+    "example": "If you multiply 5 by 3, you get 15."
+  },
+  {
+    "english": "navigate",
+    "chinese": "导航",
+    "example": "He used a map to navigate through the forest."
+  },
+  {
+    "english": "prevailing",
+    "chinese": "流行的",
+    "example": "The prevailing wind direction here is from the west."
+  },
+  {
+    "english": "sheer",
+    "chinese": "绝对的",
+    "example": "The sheer size of the building is impressive."
+  },
+  {
+    "english": "sphere",
+    "chinese": "球体",
+    "example": "The Earth is approximately a sphere."
+  },
+  {
+    "english": "suppress",
+    "chinese": "镇压",
+    "example": "The government tried to suppress the protests."
+  },
+  {
+    "english": "traumatic",
+    "chinese": "创伤的",
+    "example": "He had a traumatic experience during the war."
+  },
+  {
+    "english": "volcanic",
+    "chinese": "火山的",
+    "example": "This area has a lot of volcanic activity."
+  },
+  {
+    "english": "worship",
+    "chinese": "崇拜",
+    "example": "People go to church to worship God."
+  },
+  {
+    "english": "aggregated",
+    "chinese": "聚集的",
+    "example": "The aggregated data provides a comprehensive overview."
+  },
+  {
+    "english": "conversely",
+    "chinese": "相反地",
+    "example": "He likes coffee. Conversely, his wife prefers tea."
+  },
+  {
+    "english": "dominance",
+    "chinese": "主导地位",
+    "example": "The company achieved dominance in the market."
+  },
+  {
+    "english": "fungus",
+    "chinese": "真菌",
+    "example": "Mushrooms are a type of fungus."
+  },
+  {
+    "english": "moist",
+    "chinese": "潮湿的",
+    "example": "Keep the soil moist but not too wet."
+  },
+  {
+    "english": "nutrient",
+    "chinese": "营养物质",
+    "example": "Plants need various nutrients to grow."
+  },
+  {
+    "english": "static",
+    "chinese": "静态的",
+    "example": "The image on the screen is static."
+  },
+  {
+    "english": "susceptible",
+    "chinese": "易受影响的",
+    "example": "Children are more susceptible to certain diseases."
+  },
+  {
+    "english": "supremacy",
+    "chinese": "至高无上",
+    "example": "The king claimed supremacy over all his subjects."
+  },
+  {
+    "english": "realm",
+    "chinese": "领域，王国",
+    "example": "In the realm of science, there are always new discoveries."
+  },
+  {
+    "english": "envision",
+    "chinese": "想象，展望",
+    "example": "She envisioned a world without war."
+  },
+  {
+    "english": "friction",
+    "chinese": "摩擦，争执",
+    "example": "There is some friction between the two teams."
+  },
+  {
+    "english": "tomb",
+    "chinese": "坟墓",
+    "example": "They visited the ancient tomb of a pharaoh."
+  },
+  {
+    "english": "underestimate",
+    "chinese": "低估",
+    "example": "Never underestimate your opponent."
+  },
+  {
+    "english": "vegetation",
+    "chinese": "植被",
+    "example": "The mountains are covered in dense vegetation."
+  }
+]    

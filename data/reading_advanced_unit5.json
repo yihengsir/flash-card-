@@ -1,0 +1,502 @@
+[
+  {
+    "english": "myriad",
+    "chinese": "无数，大量",
+    "example": "The study identified myriad factors contributing to urban air pollution."
+  },
+  {
+    "english": "descend",
+    "chinese": "下降",
+    "example": "Scientists observed the glacier descending at a rate of 10 meters per year."
+  },
+  {
+    "english": "encounter",
+    "chinese": "遭遇，遇到",
+    "example": "Researchers often encounter unexpected challenges when studying deep-sea ecosystems."
+  },
+  {
+    "english": "deposit",
+    "chinese": "沉积，沉淀",
+    "example": "Mineral deposits in the riverbed indicate historical volcanic activity in the region."
+  },
+  {
+    "english": "ice cap",
+    "chinese": "（北极和南极的）冰冠",
+    "example": "Satellite images show the Arctic ice cap shrinking significantly over the past decade."
+  },
+  {
+    "english": "temperate",
+    "chinese": "气候温和的",
+    "example": "Temperate forests support a diverse range of plant and animal species."
+  },
+  {
+    "english": "drift",
+    "chinese": "吹聚物",
+    "example": "The road was blocked by deep drifts of snow."
+  },
+  {
+    "english": "sediment",
+    "chinese": "沉积物",
+    "example": "Layers of sediment in the lake reveal a history of climate changes over millennia."
+  },
+  {
+    "english": "enormous",
+    "chinese": "巨大的",
+    "example": "The enormous impact of deforestation on global carbon cycles is well-documented."
+  },
+  {
+    "english": "terminal",
+    "chinese": "末端的",
+    "example": "The terminal part of the glacier shows signs of accelerated melting."
+  },
+  {
+    "english": "eruption",
+    "chinese": "爆发，喷发",
+    "example": "The 1815 eruption of Mount Tambora caused global climate cooling for three years."
+  },
+  {
+    "english": "magma",
+    "chinese": "（地壳中的）岩浆",
+    "example": "Geologists study magma composition to predict volcanic activity patterns."
+  },
+  {
+    "english": "tremendous",
+    "chinese": "巨大的",
+    "example": "There is a tremendous need for renewable energy solutions in developing countries."
+  },
+  {
+    "english": "dissolve",
+    "chinese": "溶解",
+    "example": "Carbon dioxide can dissolve in water to form carbonic acid, affecting ocean pH levels."
+  },
+  {
+    "english": "foam",
+    "chinese": "起泡沫",
+    "example": "Oceanographers study how marine foam traps pollutants and impacts coastal ecosystems."
+  },
+  {
+    "english": "vent",
+    "chinese": "孔，口",
+    "example": "Hydrothermal vents at the ocean floor support unique ecosystems without sunlight."
+  },
+  {
+    "english": "spray",
+    "chinese": "喷，喷洒",
+    "example": "Volcanic eruptions can spray ash and gases high into the stratosphere."
+  },
+  {
+    "english": "lava",
+    "chinese": "（火山喷出的）熔岩",
+    "example": "Flowing lava from Kīlauea volcano has reshaped Hawaii's coastline since 1983."
+  },
+  {
+    "english": "threshold",
+    "chinese": "临界值，阈值",
+    "example": "Climate models show a critical threshold beyond which Arctic sea ice disappears entirely."
+  },
+  {
+    "english": "disruptive",
+    "chinese": "破坏性的",
+    "example": "Extreme weather events have become more disruptive due to climate change."
+  },
+  {
+    "english": "subtly",
+    "chinese": "不明显地，不易察觉地",
+    "example": "Ocean acidification subtly impacts shellfish growth by altering calcium availability."
+  },
+  {
+    "english": "shift",
+    "chinese": "转变",
+    "example": "Astronomers observe a shift in star positions due to Earth's orbital movement."
+  },
+  {
+    "english": "adjustment",
+    "chinese": "调节",
+    "example": "Ecologists study how species make behavioral adjustments to changing climates."
+  },
+  {
+    "english": "means",
+    "chinese": "方法，途径",
+    "example": "Satellites provide a key means of monitoring global deforestation rates."
+  },
+  {
+    "english": "constantly",
+    "chinese": "始终，一直",
+    "example": "The Earth's atmosphere is constantly changing due to natural and human activities."
+  },
+  {
+    "english": "molecule",
+    "chinese": "分子",
+    "example": "Carbon dioxide is a greenhouse gas molecule that traps heat in the atmosphere."
+  },
+  {
+    "english": "backwater",
+    "chinese": "（河流的）滞水，死水",
+    "example": "Backwater areas in rivers often serve as nurseries for fish and other aquatic life."
+  },
+  {
+    "english": "indefinitely",
+    "chinese": "无限期地",
+    "example": "Plastic waste can persist in the environment indefinitely if not properly managed."
+  },
+  {
+    "english": "arctic",
+    "chinese": "北极地区的",
+    "example": "Arctic sea ice extent has been declining at an average rate of 13% per decade."
+  },
+  {
+    "english": "arouse",
+    "chinese": "引起",
+    "example": "The study's controversial findings aroused debate among climate scientists."
+  },
+  {
+    "english": "conceivable",
+    "chinese": "可想象的，可理解的",
+    "example": "It is conceivable that polar bears could go extinct by 2100 due to habitat loss."
+  },
+  {
+    "english": "mechanism",
+    "chinese": "方法，机制",
+    "example": "Photosynthesis is the mechanism by which plants convert sunlight into energy."
+  },
+  {
+    "english": "account",
+    "chinese": "描述，报告",
+    "example": "Ancient rock art provides a unique account of human interactions with wildlife."
+  },
+  {
+    "english": "phenomenal",
+    "chinese": "显著的，惊人的，不寻常的",
+    "example": "There has been a phenomenal increase in global solar energy capacity since 2010."
+  },
+  {
+    "english": "water table",
+    "chinese": "地下水位",
+    "example": "Drought conditions have caused the water table to drop by several meters in some regions."
+  },
+  {
+    "english": "topography",
+    "chinese": "地形",
+    "example": "The topography of mountain ranges influences local weather patterns and precipitation."
+  },
+  {
+    "english": "downhill",
+    "chinese": "向下",
+    "example": "Glacial meltwater flows downhill, shaping valleys and creating river systems."
+  },
+  {
+    "english": "intersect",
+    "chinese": "横断，切断",
+    "example": "Fault lines often intersect with river valleys, creating unique geological formations."
+  },
+  {
+    "english": "drainage",
+    "chinese": "排水道",
+    "example": "Urban drainage systems must be upgraded to handle increased rainfall from climate change."
+  },
+  {
+    "english": "arid",
+    "chinese": "干旱的",
+    "example": "Cacti have adapted to survive in arid environments with minimal water availability."
+  },
+  {
+    "english": "stretch",
+    "chinese": "（陆地或水域）连绵的一片",
+    "example": "The Sahara Desert stretches across much of northern Africa, covering 9 million km²."
+  },
+  {
+    "english": "diagnostic",
+    "chinese": "判断的",
+    "example": "Soil color can be a diagnostic tool for identifying nutrient levels in agricultural fields."
+  },
+  {
+    "english": "property",
+    "chinese": "性质",
+    "example": "Thermal conductivity is a key property of building materials for energy efficiency."
+  },
+  {
+    "english": "abrasion",
+    "chinese": "刮擦，磨损",
+    "example": "Abrasion from wind-blown sand can shape rocks into unique formations in deserts."
+  },
+  {
+    "english": "scratch",
+    "chinese": "划损，刮擦",
+    "example": "Fossil scratches on rocks indicate the movement of glaciers during the last ice age."
+  },
+  {
+    "english": "rub",
+    "chinese": "使（两物）摩擦",
+    "example": "Scientists rub rock samples together to study the effects of abrasion on mineral composition."
+  },
+  {
+    "english": "vice versa",
+    "chinese": "反之亦然",
+    "example": "Warmer oceans cause more evaporation, which leads to more rainfall, and vice versa."
+  },
+  {
+    "english": "paleontologist",
+    "chinese": "古生物学家",
+    "example": "Paleontologists discovered a new dinosaur species from fossils found in Antarctica."
+  },
+  {
+    "english": "impact",
+    "chinese": "撞击",
+    "example": "The Chicxulub impact crater is evidence of the asteroid that caused the dinosaur extinction."
+  },
+  {
+    "english": "disastrous",
+    "chinese": "灾难性的",
+    "example": "The 2019 Australian bushfires had disastrous effects on wildlife and ecosystems."
+  },
+  {
+    "english": "propel",
+    "chinese": "推进，推动",
+    "example": "Jet streams propel weather systems across continents, influencing temperature and precipitation."
+  },
+  {
+    "english": "devastating",
+    "chinese": "毁灭性的",
+    "example": "Hurricane Katrina had devastating impacts on New Orleans' infrastructure and communities."
+  },
+  {
+    "english": "asteroid",
+    "chinese": "小行星",
+    "example": "NASA's DART mission successfully diverted an asteroid's path in a historic test in 2022."
+  },
+  {
+    "english": "vaporization",
+    "chinese": "蒸发",
+    "example": "Volcanic eruptions can cause vaporization of water, leading to steam explosions."
+  },
+  {
+    "english": "droplet",
+    "chinese": "小滴",
+    "example": "Clouds form when water vapor condenses into tiny droplets around dust particles."
+  },
+  {
+    "english": "intense",
+    "chinese": "剧烈的",
+    "example": "Intense solar storms can disrupt satellite communications and power grids on Earth."
+  },
+  {
+    "english": "blast",
+    "chinese": "爆炸",
+    "example": "The blast from a volcanic eruption can eject ash and rocks miles into the atmosphere."
+  },
+  {
+    "english": "planktonic",
+    "chinese": "浮游生物的",
+    "example": "Planktonic organisms form the base of the marine food web in polar ecosystems."
+  },
+  {
+    "english": "vulnerable",
+    "chinese": "易受伤害的",
+    "example": "Coral reefs are vulnerable to rising ocean temperatures and acidification."
+  },
+  {
+    "english": "reservoir",
+    "chinese": "储备，储藏",
+    "example": "Underground aquifers serve as vital water reservoirs in arid regions."
+  },
+  {
+    "english": "residential",
+    "chinese": "住宅的",
+    "example": "Residential areas near coastlines are increasingly at risk from sea-level rise."
+  },
+  {
+    "english": "fault",
+    "chinese": "（地壳岩层的）断层",
+    "example": "The San Andreas Fault in California is a boundary between two tectonic plates."
+  },
+  {
+    "english": "molten",
+    "chinese": "熔化的",
+    "example": "Molten rock from volcanic eruptions can cool to form new land, like the Hawaiian Islands."
+  },
+  {
+    "english": "shrinkage",
+    "chinese": "收缩，缩小",
+    "example": "Ice shrinkage in Greenland's glaciers contributes significantly to global sea-level rise."
+  },
+  {
+    "english": "equator",
+    "chinese": "赤道",
+    "example": "Countries near the equator experience relatively consistent daylight throughout the year."
+  },
+  {
+    "english": "isotope",
+    "chinese": "同位素",
+    "example": "Oxygen isotopes in ice cores provide a record of past global temperatures."
+  },
+  {
+    "english": "ratio",
+    "chinese": "比例",
+    "example": "The ratio of carbon isotopes in fossils helps scientists determine ancient diets."
+  },
+  {
+    "english": "withdraw",
+    "chinese": "收回，撤回",
+    "example": "Many countries are withdrawing support for new coal projects to combat climate change."
+  },
+  {
+    "english": "precipitate",
+    "chinese": "使（水滴）沉降",
+    "example": "Cooling air causes water vapor to precipitate, forming clouds and rainfall."
+  },
+  {
+    "english": "deglaciation",
+    "chinese": "冰川退缩",
+    "example": "Scientists study deglaciation patterns to understand past and future climate changes."
+  },
+  {
+    "english": "magnitude",
+    "chinese": "规模，大小",
+    "example": "The magnitude of the 2011 Tohoku earthquake triggered a devastating tsunami in Japan."
+  },
+  {
+    "english": "uneven",
+    "chinese": "不规则的，不稳定的",
+    "example": "Uneven melting of the Antarctic ice sheet causes some areas to rise while others sink."
+  },
+  {
+    "english": "flora",
+    "chinese": "植物群",
+    "example": "The flora of the Amazon rainforest includes over 40,000 plant species."
+  },
+  {
+    "english": "fauna",
+    "chinese": "动物群",
+    "example": "Conservation efforts aim to protect the unique fauna of Madagascar's rainforests."
+  },
+  {
+    "english": "radically",
+    "chinese": "根本地，彻底地",
+    "example": "Climate change is radically altering migration patterns of bird species worldwide."
+  },
+  {
+    "english": "irreversibly",
+    "chinese": "不可逆地",
+    "example": "Crossing certain climate thresholds could irreversibly damage global ecosystems."
+  },
+  {
+    "english": "crucial",
+    "chinese": "重要的",
+    "example": "Protecting mangrove forests is crucial for coastal communities to withstand storms."
+  },
+  {
+    "english": "orbit",
+    "chinese": "（天体运行的）轨道",
+    "example": "Earth's orbit around the Sun takes approximately 365.25 days to complete."
+  },
+  {
+    "english": "periodically",
+    "chinese": "周期性地",
+    "example": "El Niño events occur periodically, affecting global weather patterns for months."
+  },
+  {
+    "english": "solar radiation",
+    "chinese": "太阳辐射",
+    "example": "Ozone depletion increases the amount of harmful solar radiation reaching Earth's surface."
+  },
+  {
+    "english": "elaborate",
+    "chinese": "详尽阐述",
+    "example": "Scientists elaborate on climate models to better predict future temperature changes."
+  },
+  {
+    "english": "convincingly",
+    "chinese": "令人信服地",
+    "example": "The study convincingly demonstrates a link between air pollution and respiratory diseases."
+  },
+  {
+    "english": "variation",
+    "chinese": "变化",
+    "example": "Annual temperature variations in the Arctic are becoming more extreme due to climate change."
+  },
+  {
+    "english": "eccentricity",
+    "chinese": "偏心率",
+    "example": "Earth's orbital eccentricity affects the amount of solar radiation received each year."
+  },
+  {
+    "english": "ellipse",
+    "chinese": "椭圆",
+    "example": "Planets move in elliptical orbits around the Sun, not perfect circles."
+  },
+  {
+    "english": "tilt",
+    "chinese": "倾斜",
+    "example": "Earth's axial tilt is responsible for the changing seasons throughout the year."
+  },
+  {
+    "english": "axis",
+    "chinese": "轴",
+    "example": "The Earth's axis is tilted at an angle of approximately 23.5 degrees relative to its orbit."
+  },
+  {
+    "english": "wobble",
+    "chinese": "摇晃",
+    "example": "The Moon's gravitational pull causes a slight wobble in Earth's rotational axis."
+  },
+  {
+    "english": "spin",
+    "chinese": "旋转",
+    "example": "Earth's spin determines the duration of a day and influences ocean currents."
+  },
+  {
+    "english": "mild",
+    "chinese": "温和的，和煦的",
+    "example": "Coastal regions often experience milder temperatures than inland areas."
+  },
+  {
+    "english": "chronology",
+    "chinese": "年表",
+    "example": "Ice core chronologies provide a detailed record of Earth's climate over hundreds of thousands of years."
+  },
+  {
+    "english": "correspondence",
+    "chinese": "相关，相似",
+    "example": "There is a close correspondence between carbon dioxide levels and global temperatures in ice core data."
+  },
+  {
+    "english": "fluctuation",
+    "chinese": "波动",
+    "example": "Ocean salinity fluctuations can indicate changes in global precipitation patterns."
+  },
+  {
+    "english": "drill",
+    "chinese": "钻孔",
+    "example": "Scientists drill into ice sheets to collect core samples for climate research."
+  },
+  {
+    "english": "arise",
+    "chinese": "产生",
+    "example": "New challenges arise as researchers study the impacts of climate change on ecosystems."
+  },
+  {
+    "english": "luminosity",
+    "chinese": "（天文）光度",
+    "example": "The Sun's luminosity has increased by about 4% over the past 400 million years."
+  },
+  {
+    "english": "shield",
+    "chinese": "保护…免遭危险",
+    "example": "The ozone layer shields Earth from harmful ultraviolet radiation from the Sun."
+  },
+  {
+    "english": "correlation",
+    "chinese": "关联",
+    "example": "There is a strong correlation between deforestation and increased soil erosion rates."
+  },
+  {
+    "english": "trap",
+    "chinese": "吸收，收集",
+    "example": "Greenhouse gases trap heat in the atmosphere, leading to global warming."
+  },
+  {
+    "english": "preserve",
+    "chinese": "保存",
+    "example": "Frozen sediments in permafrost preserve ancient organic matter and carbon."
+  }
+]

@@ -1,0 +1,542 @@
+[
+  {
+    "english": "counterpart",
+    "chinese": "对应事物",
+    "example": "The US Congress has its counterpart in the British Parliament."
+  },
+  {
+    "english": "tenet",
+    "chinese": "原则",
+    "example": "One of the tenets of their faith is to help the poor."
+  },
+  {
+    "english": "decomposition",
+    "chinese": "分解",
+    "example": "The decomposition of organic matter releases nutrients into the soil."
+  },
+  {
+    "english": "capacity",
+    "chinese": "容量",
+    "example": "The stadium has a seating capacity of 50,000 people."
+  },
+  {
+    "english": "fertilizer",
+    "chinese": "肥料",
+    "example": "Farmers use different types of fertilizers to improve crop yields."
+  },
+  {
+    "english": "aeration",
+    "chinese": "通风",
+    "example": "Good aeration in the greenhouse helps the plants grow better."
+  },
+  {
+    "english": "drainage",
+    "chinese": "排水",
+    "example": "The city needs to improve its drainage system to prevent flooding."
+  },
+  {
+    "english": "microbe",
+    "chinese": "微生物",
+    "example": "Microbes play an important role in the process of decomposition."
+  },
+  {
+    "english": "compound",
+    "chinese": "混合物",
+    "example": "Water is a compound made up of hydrogen and oxygen."
+  },
+  {
+    "english": "scourge",
+    "chinese": "祸害",
+    "example": "Poverty has long been a scourge in this area."
+  },
+  {
+    "english": "roughness",
+    "chinese": "粗糙度",
+    "example": "The roughness of the surface affects the friction between two objects."
+  },
+  {
+    "english": "moisture",
+    "chinese": "水分",
+    "example": "Plants need an appropriate amount of moisture to survive."
+  },
+  {
+    "english": "emission",
+    "chinese": "排放",
+    "example": "The government is trying to reduce carbon emissions to fight climate change."
+  },
+  {
+    "english": "capitalism",
+    "chinese": "资本主义",
+    "example": "Capitalism is an economic system based on private ownership and free - market competition."
+  },
+  {
+    "english": "radiation",
+    "chinese": "辐射",
+    "example": "Exposure to too much radiation can be harmful to human health."
+  },
+  {
+    "english": "ritual",
+    "chinese": "仪式",
+    "example": "They performed a traditional wedding ritual."
+  },
+  {
+    "english": "grazer",
+    "chinese": "食草动物",
+    "example": "Grazers like cows and sheep play an important role in the grassland ecosystem."
+  },
+  {
+    "english": "carnivore",
+    "chinese": "食肉动物",
+    "example": "Lions are fierce carnivores in the African savannah."
+  },
+  {
+    "english": "garden",
+    "chinese": "果园",
+    "example": "There are many fruit trees in the garden."
+  },
+  {
+    "english": "humidity",
+    "chinese": "湿度",
+    "example": "High humidity makes the air feel sticky in summer."
+  },
+  {
+    "english": "canopy",
+    "chinese": "树冠层",
+    "example": "Many birds live in the canopy of the rainforest."
+  },
+  {
+    "english": "epidemic",
+    "chinese": "流行病",
+    "example": "The government took many measures to control the epidemic."
+  },
+  {
+    "english": "latitude",
+    "chinese": "纬度",
+    "example": "Countries near the equator have a lower latitude."
+  },
+  {
+    "english": "game",
+    "chinese": "猎物",
+    "example": "The hunter tracked the game through the forest."
+  },
+  {
+    "english": "layer",
+    "chinese": "层次",
+    "example": "The cake has several layers of different flavors."
+  },
+  {
+    "english": "tissue",
+    "chinese": "组织",
+    "example": "Muscle tissue is important for body movement."
+  },
+  {
+    "english": "layout",
+    "chinese": "布局",
+    "example": "The layout of the new office is very practical."
+  },
+  {
+    "english": "woodlot",
+    "chinese": "林地",
+    "example": "There is a small woodlot behind the village."
+  },
+  {
+    "english": "checkerboard",
+    "chinese": "棋盘状",
+    "example": "The fields were arranged in a checkerboard pattern."
+  },
+  {
+    "english": "discharge",
+    "chinese": "释放",
+    "example": "The factory is not allowed to discharge pollutants into the river."
+  },
+  {
+    "english": "fraction",
+    "chinese": "小部分",
+    "example": "Only a fraction of the students passed the difficult exam."
+  },
+  {
+    "english": "dweller",
+    "chinese": "居民",
+    "example": "The city dwellers are concerned about air quality."
+  },
+  {
+    "english": "runoff",
+    "chinese": "径流",
+    "example": "Runoff from the mountains can cause flash floods."
+  },
+  {
+    "english": "branch",
+    "chinese": "树枝",
+    "example": "A bird is sitting on the branch of the tree."
+  },
+  {
+    "english": "trunk",
+    "chinese": "树干",
+    "example": "The elephant used its trunk to pick up the food."
+  },
+  {
+    "english": "collision",
+    "chinese": "撞击",
+    "example": "The collision between the two cars caused a lot of damage."
+  },
+  {
+    "english": "succession",
+    "chinese": "交替",
+    "example": "The succession of different seasons brings various changes to the environment."
+  },
+  {
+    "english": "prairie",
+    "chinese": "大草原",
+    "example": "The prairie is home to many wild animals."
+  },
+  {
+    "english": "upwelling",
+    "chinese": "上涌",
+    "example": "Upwelling in the ocean brings nutrients to the surface."
+  },
+  {
+    "english": "standstill",
+    "chinese": "停滞",
+    "example": "The traffic came to a standstill during the rush hour."
+  },
+  {
+    "english": "gradient",
+    "chinese": "变化率",
+    "example": "The gradient of temperature affects the growth of plants."
+  },
+  {
+    "english": "asphalt",
+    "chinese": "沥青",
+    "example": "The road is covered with asphalt."
+  },
+  {
+    "english": "equator",
+    "chinese": "赤道",
+    "example": "Countries near the equator have a tropical climate."
+  },
+  {
+    "english": "concrete",
+    "chinese": "混凝土",
+    "example": "The building is made of concrete and steel."
+  },
+  {
+    "english": "swing",
+    "chinese": "突然转向",
+    "example": "The car swung to the left to avoid hitting the pedestrian."
+  },
+  {
+    "english": "trap",
+    "chinese": "吸收；捕获；吸收",
+    "example": "The net can trap fish easily."
+  },
+  {
+    "english": "constitute",
+    "chinese": "组成",
+    "example": "Twelve months constitute a year."
+  },
+  {
+    "english": "enhance",
+    "chinese": "增强",
+    "example": "Regular exercise can enhance your physical strength."
+  },
+  {
+    "english": "reason",
+    "chinese": "推论",
+    "example": "We can reason from the evidence that he is innocent."
+  },
+  {
+    "english": "rescue",
+    "chinese": "拯救",
+    "example": "The firefighters rescued the people from the burning building."
+  },
+  {
+    "english": "exploit",
+    "chinese": "剥削利用",
+    "example": "Some companies exploit workers by paying them low wages."
+  },
+  {
+    "english": "ravage",
+    "chinese": "毁坏",
+    "example": "The hurricane ravaged the coastal area."
+  },
+  {
+    "english": "convert",
+    "chinese": "转化",
+    "example": "Solar panels can convert sunlight into electricity."
+  },
+  {
+    "english": "thin",
+    "chinese": "变稀疏",
+    "example": "The population of this species is thinning due to habitat loss."
+  },
+  {
+    "english": "stunted",
+    "chinese": "发育不足的",
+    "example": "The stunted trees in the poor - soil area grow very slowly."
+  },
+  {
+    "english": "compact",
+    "chinese": "坚实的",
+    "example": "The compact snow made it difficult to walk on."
+  },
+  {
+    "english": "deleterious",
+    "chinese": "有害的",
+    "example": "Smoking has a deleterious effect on your health."
+  },
+  {
+    "english": "involved",
+    "chinese": "复杂的",
+    "example": "The problem is very involved and needs careful analysis."
+  },
+  {
+    "english": "domestic",
+    "chinese": "国内的",
+    "example": "The company mainly focuses on the domestic market."
+  },
+  {
+    "english": "impermeable",
+    "chinese": "不可渗透的",
+    "example": "This material is impermeable to water."
+  },
+  {
+    "english": "unhindered",
+    "chinese": "不受阻挡的",
+    "example": "The wind blew unhindered across the plain."
+  },
+  {
+    "english": "glaciated",
+    "chinese": "冻结成冰的",
+    "example": "The glaciated mountains are very beautiful but also very dangerous."
+  },
+  {
+    "english": "sparse",
+    "chinese": "稀疏的",
+    "example": "There are sparse trees in the desert."
+  },
+  {
+    "english": "forbidding",
+    "chinese": "令人生畏的",
+    "example": "The forbidding appearance of the castle made people hesitate to enter."
+  },
+  {
+    "english": "spatial",
+    "chinese": "空间的",
+    "example": "Architects need to have a good sense of spatial design."
+  },
+  {
+    "english": "uniform",
+    "chinese": "统一的",
+    "example": "The students in this school wear uniform clothes."
+  },
+  {
+    "english": "ample",
+    "chinese": "充足的",
+    "example": "There is ample food for everyone at the party."
+  },
+  {
+    "english": "spaced",
+    "chinese": "间隔排列的",
+    "example": "The seats in the theater are evenly spaced."
+  },
+  {
+    "english": "stratified",
+    "chinese": "分层的",
+    "example": "The society is often stratified by different factors such as income and education."
+  },
+  {
+    "english": "charged",
+    "chinese": "带电的",
+    "example": "A charged particle can be affected by an electric field."
+  },
+  {
+    "english": "hydrological",
+    "chinese": "水文学的",
+    "example": "Hydrological research is important for water resource management."
+  },
+  {
+    "english": "cumulative",
+    "chinese": "累积的",
+    "example": "The cumulative effect of years of hard work finally paid off."
+  },
+  {
+    "english": "vague",
+    "chinese": "模糊的",
+    "example": "His answer was so vague that I couldn't understand his meaning."
+  },
+  {
+    "english": "uneven",
+    "chinese": "不均衡的",
+    "example": "The development between different regions is uneven."
+  },
+  {
+    "english": "flammable",
+    "chinese": "易燃的",
+    "example": "Keep flammable materials away from fire."
+  },
+  {
+    "english": "artificial",
+    "chinese": "人造的",
+    "example": "Artificial flowers look very real but don't have a natural fragrance."
+  },
+  {
+    "english": "straightforward",
+    "chinese": "简单易懂的",
+    "example": "The instructions are very straightforward and easy to follow."
+  },
+  {
+    "english": "prone",
+    "chinese": "易于遭受……的",
+    "example": "People with weak immune systems are prone to get sick."
+  },
+  {
+    "english": "sterile",
+    "chinese": "贫瘠的",
+    "example": "The sterile soil in this area can't support the growth of many plants."
+  },
+  {
+    "english": "critical",
+    "chinese": "重要的",
+    "example": "This is a critical moment for the company's development."
+  },
+  {
+    "english": "mighty",
+    "chinese": "强大的",
+    "example": "The mighty river flows through the valley."
+  },
+  {
+    "english": "vigorous",
+    "chinese": "有活力的",
+    "example": "The young people are full of vigorous energy."
+  },
+  {
+    "english": "tend",
+    "chinese": "照料",
+    "example": "She tends the garden every morning."
+  },
+  {
+    "english": "set aside",
+    "chinese": "搁置",
+    "example": "Let's set aside our differences and work together."
+  },
+  {
+    "english": "log",
+    "chinese": "伐木",
+    "example": "They log trees in the forest to make furniture."
+  },
+  {
+    "english": "assemble",
+    "chinese": "聚合",
+    "example": "The students assembled in the playground for the flag - raising ceremony."
+  },
+  {
+    "english": "spring",
+    "chinese": "突然出现",
+    "example": "A new problem sprang up unexpectedly."
+  },
+  {
+    "english": "nonetheless",
+    "chinese": "然而",
+    "example": "It was raining heavily. Nonetheless, he still went out."
+  },
+  {
+    "english": "flexibly",
+    "chinese": "灵活地",
+    "example": "You need to handle the situation flexibly."
+  },
+  {
+    "english": "exceptionally",
+    "chinese": "非常",
+    "example": "He is an exceptionally talented musician."
+  },
+  {
+    "english": "horizontally",
+    "chinese": "水平地",
+    "example": "Draw a line horizontally across the paper."
+  },
+  {
+    "english": "vertically",
+    "chinese": "垂直地",
+    "example": "The tower stands vertically on the ground."
+  },
+  {
+    "english": "hasten",
+    "chinese": "促进",
+    "example": "The new policy will hasten the development of the local economy."
+  },
+  {
+    "english": "ingest",
+    "chinese": "摄入",
+    "example": "You should ingest enough vitamins every day."
+  },
+  {
+    "english": "excrete",
+    "chinese": "分泌",
+    "example": "The body excretes waste through urine and sweat."
+  },
+  {
+    "english": "loosen",
+    "chinese": "松动",
+    "example": "You need to loosen the soil before planting the seeds."
+  },
+  {
+    "english": "penetrate",
+    "chinese": "渗透",
+    "example": "The rain penetrated through the thin roof."
+  },
+  {
+    "english": "bind",
+    "chinese": "粘合",
+    "example": "Glue can bind two pieces of paper together."
+  },
+  {
+    "english": "strike",
+    "chinese": "撞击",
+    "example": "The ship struck a rock and sank."
+  },
+  {
+    "english": "concentrate",
+    "chinese": "集中",
+    "example": "You should concentrate on your study."
+  },
+  {
+    "english": "give off",
+    "chinese": "释放",
+    "example": "The flowers give off a sweet smell."
+  },
+  {
+    "english": "retard",
+    "chinese": "减缓",
+    "example": "Lack of sleep can retard your growth."
+  },
+  {
+    "english": "ripen",
+    "chinese": "成熟",
+    "example": "The fruits will ripen in a few days."
+  },
+  {
+    "english": "suppress",
+    "chinese": "压制",
+    "example": "The government tried to suppress the protests."
+  },
+  {
+    "english": "vanish",
+    "chinese": "消失",
+    "example": "All my worries vanished when I saw her smile."
+  },
+  {
+    "english": "devastate",
+    "chinese": "摧毁",
+    "example": "The earthquake devastated the whole city."
+  },
+  {
+    "english": "conduct",
+    "chinese": "传导",
+    "example": "Metal can conduct electricity well."
+  },
+  {
+    "english": "glorify",
+    "chinese": "赞美",
+    "example": "The poem glorifies the beauty of nature."
+  }
+]

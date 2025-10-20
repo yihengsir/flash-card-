@@ -1,0 +1,589 @@
+[
+  {
+    "english": "nomadic",
+    "chinese": "游牧的",
+    "example": "Nomadic tribes in the Sahara Desert adapted to arid conditions by following seasonal water sources."
+  },
+  {
+    "english": "sedentary",
+    "chinese": "定居的",
+    "example": "The shift to sedentary life allowed ancient societies to develop complex agricultural systems."
+  },
+  {
+    "english": "sufficient",
+    "chinese": "充足的",
+    "example": "Sufficient rainfall is crucial for sustaining crop yields in temperate regions."
+  },
+  {
+    "english": "forager",
+    "chinese": "搜寻食物的人",
+    "example": "Foragers in the Amazon rainforest rely on diverse plant species for sustenance."
+  },
+  {
+    "english": "bound",
+    "chinese": "一定会",
+    "example": "Societies dependent on rainfall are bound to face challenges during droughts."
+  },
+  {
+    "english": "outcompete",
+    "chinese": "胜过",
+    "example": "Domesticated crops often outcompete wild plants in cultivated fields."
+  },
+  {
+    "english": "inevitability",
+    "chinese": "必然性",
+    "example": "The inevitability of climate cycles influenced ancient agricultural planning."
+  },
+  {
+    "english": "yield",
+    "chinese": "产出（农作物）",
+    "example": "Modern farming techniques have significantly increased crop yields worldwide."
+  },
+  {
+    "english": "refuse",
+    "chinese": "废弃物，垃圾",
+    "example": "Archaeologists study refuse piles to understand ancient daily life."
+  },
+  {
+    "english": "discard",
+    "chinese": "丢弃",
+    "example": "Ancient tools were often discarded when broken, creating valuable archaeological layers."
+  },
+  {
+    "english": "defecate",
+    "chinese": "排便",
+    "example": "Animal waste was sometimes used as fertilizer in ancient agricultural practices."
+  },
+  {
+    "english": "sprout",
+    "chinese": "发芽",
+    "example": "Seeds need adequate moisture to sprout and begin the growing process."
+  },
+  {
+    "english": "coincidentally",
+    "chinese": "同时地",
+    "example": "Coincidentally, the development of writing coincided with the rise of urban centers."
+  },
+  {
+    "english": "aridity",
+    "chinese": "干旱",
+    "example": "Aridity in the Middle East led to the invention of irrigation systems like qanats."
+  },
+  {
+    "english": "retard",
+    "chinese": "阻碍，减缓",
+    "example": "Salinization can retard crop growth in poorly drained agricultural lands."
+  },
+  {
+    "english": "adjacent",
+    "chinese": "邻近的",
+    "example": "Adjacent fields were often used for different crops to maximize soil fertility."
+  },
+  {
+    "english": "oasis",
+    "chinese": "绿洲",
+    "example": "Oases in the desert provided vital water sources for both humans and livestock."
+  },
+  {
+    "english": "canal",
+    "chinese": "灌溉渠",
+    "example": "Ancient Egyptian canals carried Nile water to fields during the dry season."
+  },
+  {
+    "english": "basin",
+    "chinese": "凹地",
+    "example": "The Tigris-Euphrates basin was crucial for the development of Mesopotamian civilizations."
+  },
+  {
+    "english": "seep",
+    "chinese": "渗透",
+    "example": "Water can seep through soil layers to recharge underground aquifers."
+  },
+  {
+    "english": "shaft",
+    "chinese": "通风井",
+    "example": "Deep shafts were dug to access groundwater in arid regions."
+  },
+  {
+    "english": "maintenance",
+    "chinese": "养护，维护",
+    "example": "Regular maintenance of irrigation canals was essential for agricultural productivity."
+  },
+  {
+    "english": "scatter",
+    "chinese": "零星散落的东西",
+    "example": "Scatters of pottery shards indicate ancient settlement areas."
+  },
+  {
+    "english": "mechanics",
+    "chinese": "操作方法",
+    "example": "Understanding the mechanics of plows improved agricultural efficiency in the Middle Ages."
+  },
+  {
+    "english": "radical",
+    "chinese": "彻底的，根本的",
+    "example": "Radical changes in farming techniques occurred during the Green Revolution."
+  },
+  {
+    "english": "sweltering",
+    "chinese": "酷热难耐的",
+    "example": "Sweltering temperatures in the summer required special crop management strategies."
+  },
+  {
+    "english": "intensively",
+    "chinese": "集约地",
+    "english": "intensively",
+    "chinese": "集约地",
+    "example": "Intensively farmed lands often require more water and fertilizer inputs."
+  },
+  {
+    "english": "edible",
+    "chinese": "可食用的",
+    "example": "Foragers identified numerous edible plant species in their ecosystems."
+  },
+  {
+    "english": "proximity",
+    "chinese": "靠近",
+    "example": "Proximity to water sources was critical for ancient settlement选址."
+  },
+  {
+    "english": "domestication",
+    "chinese": "驯化",
+    "example": "The domestication of wheat in the Fertile Crescent transformed human society."
+  },
+  {
+    "english": "gradual",
+    "chinese": "渐进的",
+    "example": "There was a gradual shift from hunting-gathering to agriculture over thousands of years."
+  },
+  {
+    "english": "crisis",
+    "chinese": "危机",
+    "example": "Droughts often triggered food crises in ancient agrarian societies."
+  },
+  {
+    "english": "scarce",
+    "chinese": "缺乏的",
+    "example": "Water becomes scarce in many regions during prolonged dry seasons."
+  },
+  {
+    "english": "contemporary",
+    "chinese": "同时期的",
+    "example": "Contemporary accounts describe the impact of volcanic eruptions on agriculture."
+  },
+  {
+    "english": "drill",
+    "chinese": "钻孔，钻井",
+    "example": "Ancient peoples drilled deep wells to access groundwater in arid zones."
+  },
+  {
+    "english": "ensue",
+    "chinese": "接着发生",
+    "example": "Food shortages often ensue when crops fail due to climate extremes."
+  },
+  {
+    "english": "tap",
+    "chinese": "开发",
+    "example": "Ancient societies tapped into river systems for irrigation and transportation."
+  },
+  {
+    "english": "spray",
+    "chinese": "喷洒",
+    "example": "Farmers spray water over crops using modern irrigation systems."
+  },
+  {
+    "english": "plot",
+    "chinese": "小块土地",
+    "example": "Each family in the village had a small plot for growing vegetables."
+  },
+  {
+    "english": "fertility",
+    "chinese": "肥沃",
+    "example": "Floods in the Nile Valley improved soil fertility by depositing fresh silt."
+  },
+  {
+    "english": "adequate",
+    "chinese": "足够的",
+    "example": "Adequate sunlight is essential for photosynthesis in plants."
+  },
+  {
+    "english": "attribute",
+    "chinese": "归因于",
+    "example": "Scholars attribute the rise of cities to the development of agriculture."
+  },
+  {
+    "english": "floodplain",
+    "chinese": "泛滥平原",
+    "example": "Floodplains along rivers were highly valued for their fertile soil."
+  },
+  {
+    "english": "leach",
+    "chinese": "沥滤",
+    "example": "Heavy rains can leach nutrients from the soil, reducing its fertility."
+  },
+  {
+    "english": "silt",
+    "chinese": "淤泥",
+    "example": "Silt deposited by rivers enriches the soil and supports high crop yields."
+  },
+  {
+    "english": "algae",
+    "chinese": "藻",
+    "example": "Algae blooms in water bodies can indicate high nutrient levels in the soil."
+  },
+  {
+    "english": "maturation",
+    "chinese": "成熟",
+    "example": "The maturation period for most crops is influenced by temperature and rainfall."
+  },
+  {
+    "english": "delta",
+    "chinese": "三角洲",
+    "example": "The Nile Delta has been a major agricultural region for thousands of years."
+  },
+  {
+    "english": "embankment",
+    "chinese": "堤岸",
+    "example": "Embankments along rivers protected farmland from flooding."
+  },
+  {
+    "english": "scoop up",
+    "chinese": "用铲子铲",
+    "example": "Farmers would scoop up river mud to spread on fields as fertilizer."
+  },
+  {
+    "english": "till",
+    "chinese": "耕作",
+    "example": "Early farmers used simple tools to till the soil before planting seeds."
+  },
+  {
+    "english": "sow",
+    "chinese": "播种",
+    "example": "The timing of sowing seeds is crucial for ensuring a good harvest."
+  },
+  {
+    "english": "impose",
+    "chinese": "（强制）实行",
+    "example": "Ancient governments often imposed regulations on water use for agriculture."
+  },
+  {
+    "english": "implication",
+    "chinese": "可能的影响",
+    "example": "Overfarming has serious implications for long-term soil health."
+  },
+  {
+    "english": "favor",
+    "chinese": "有利于",
+    "example": "Warm temperatures favor the growth of tropical crops like rice and sugarcane."
+  },
+  {
+    "english": "harness",
+    "chinese": "马具",
+    "example": "The invention of the horse harness revolutionized agricultural transportation."
+  },
+  {
+    "english": "exclusively",
+    "chinese": "仅仅，只有",
+    "example": "Some ancient societies relied exclusively on rainwater for their crops."
+  },
+  {
+    "english": "hay",
+    "chinese": "干草",
+    "example": "Hay was stored to feed livestock during the winter months."
+  },
+  {
+    "english": "nourishment",
+    "chinese": "食物，养分",
+    "example": "Crops provide essential nourishment for both humans and animals."
+  },
+  {
+    "english": "herd",
+    "chinese": "放牧",
+    "example": "Nomadic tribes herded animals like goats and sheep in grassland regions."
+  },
+  {
+    "english": "subsist",
+    "chinese": "维持生活，度日",
+    "example": "Many ancient communities subsisted on a diet of grains and legumes."
+  },
+  {
+    "english": "weed",
+    "chinese": "除去杂草",
+    "example": "Weeding was a time-consuming task in ancient agricultural practices."
+  },
+  {
+    "english": "tend",
+    "chinese": "照料",
+    "example": "Farmers would tend to their fields daily to ensure crop health."
+  },
+  {
+    "english": "split off",
+    "chinese": "分离出来",
+    "example": "Some agricultural communities split off from nomadic tribes to form settled villages."
+  },
+  {
+    "english": "colonize",
+    "chinese": "开拓（地区）据为己用",
+    "example": "Ancient peoples colonized new regions as they developed agricultural techniques."
+  },
+  {
+    "english": "extract",
+    "chinese": "得到，取出",
+    "example": "Farmers extract water from rivers and wells for irrigation."
+  },
+  {
+    "english": "agrarian",
+    "chinese": "农业的，土地的",
+    "example": "Agrarian societies developed complex systems for managing land and resources."
+  },
+  {
+    "english": "slope",
+    "chinese": "斜坡",
+    "example": "Terraced farming on slopes allowed ancient peoples to cultivate hilly regions."
+  },
+  {
+    "english": "valley",
+    "chinese": "山谷",
+    "example": "River valleys were ideal for agriculture due to their fertile soil."
+  },
+  {
+    "english": "soak",
+    "chinese": "浸湿",
+    "example": "Seeds are sometimes soaked in water before planting to speed up germination."
+  },
+  {
+    "english": "provided",
+    "chinese": "如果，假如",
+    "example": "Crops grow well provided there is adequate rainfall and sunlight."
+  },
+  {
+    "english": "runoff",
+    "chinese": "径流",
+    "example": "Runoff from rains can carry nutrients from fields into water bodies."
+  },
+  {
+    "english": "concentrate",
+    "chinese": "集中",
+    "example": "Irrigation systems concentrate water in areas where crops need it most."
+  },
+  {
+    "english": "moisture",
+    "chinese": "水分",
+    "example": "Soil moisture is critical for seed germination and plant growth."
+  },
+  {
+    "english": "contour",
+    "chinese": "轮廓，围线",
+    "example": "Contour plowing helps prevent soil erosion on hilly terrain."
+  },
+  {
+    "english": "perpendicular",
+    "chinese": "垂直的",
+    "example": "Irrigation channels were often built perpendicular to the slope of the land."
+  },
+  {
+    "english": "dam",
+    "chinese": "水坝",
+    "example": "Ancient dams were built to store water for irrigation during dry seasons."
+  },
+  {
+    "english": "infiltrate",
+    "chinese": "渗透",
+    "example": "Water can infiltrate the soil and recharge underground water supplies."
+  },
+  {
+    "english": "retention",
+    "chinese": "保持，阻滞",
+    "example": "Soil with high organic matter has better water retention capacity."
+  },
+  {
+    "english": "bark",
+    "chinese": "树皮",
+    "example": "The bark of certain trees was used for making ropes and containers in ancient times."
+  },
+  {
+    "english": "canopy",
+    "chinese": "树冠",
+    "example": "The forest canopy provides shade and affects the microclimate for understory plants."
+  },
+  {
+    "english": "unhindered",
+    "chinese": "不受阻碍的",
+    "example": "Unhindered water flow is essential for efficient irrigation systems."
+  },
+  {
+    "english": "undergrowth",
+    "chinese": "下层灌木丛",
+    "example": "Clearing undergrowth was necessary before cultivating new farmland."
+  },
+  {
+    "english": "facilitate",
+    "chinese": "使…便利",
+    "example": "Domestication of animals facilitated agricultural tasks like plowing and transportation."
+  },
+  {
+    "english": "game",
+    "chinese": "猎物，野味",
+    "example": "Hunting game provided additional protein for agrarian societies."
+  },
+  {
+    "english": "hierarchy",
+    "chinese": "等级制度",
+    "example": "Agrarian societies often developed social hierarchies based on land ownership."
+  },
+  {
+    "english": "prestige",
+    "chinese": "威望，声望",
+    "example": "Controlling agricultural surpluses gave certain individuals high prestige in society."
+  },
+  {
+    "english": "disreputable",
+    "chinese": "名声不好的",
+    "example": "Disreputable practices like overfarming can lead to long-term soil degradation."
+  },
+  {
+    "english": "discrimination",
+    "chinese": "歧视",
+    "example": "In some ancient societies, there was discrimination against those working in agriculture."
+  },
+  {
+    "english": "prohibition",
+    "chinese": "禁止",
+    "example": "Prohibitions on water use were sometimes imposed during droughts."
+  },
+  {
+    "english": "venture",
+    "chinese": "经营项目",
+    "example": "Investing in agricultural ventures was common among wealthy merchants in ancient times."
+  },
+  {
+    "english": "landlordism",
+    "chinese": "地主所有制",
+    "example": "Landlordism emerged as societies developed private property rights in land."
+  },
+  {
+    "english": "preoccupation",
+    "chinese": "盘算，思虑",
+    "example": "Ensuring sufficient food production was a constant preoccupation for ancient rulers."
+  },
+  {
+    "english": "monopolize",
+    "chinese": "独占，垄断",
+    "example": "Rulers often tried to monopolize the trade of essential agricultural products."
+  },
+  {
+    "english": "unification",
+    "chinese": "统一",
+    "example": "The need for coordinated water management sometimes led to political unification."
+  },
+  {
+    "english": "junction",
+    "chinese": "交汇处",
+    "example": "Settlements often grew up at the junction of major rivers for agricultural advantage."
+  },
+  {
+    "english": "pasturage",
+    "chinese": "牧场",
+    "example": "Pasturage near settlements provided land for grazing livestock."
+  },
+  {
+    "english": "arable",
+    "chinese": "适于耕种的",
+    "example": "Arable land was carefully managed to ensure continuous crop production."
+  },
+  {
+    "english": "prosperity",
+    "chinese": "繁荣",
+    "example": "Agricultural surpluses contributed to the prosperity of ancient civilizations."
+  },
+  {
+    "english": "specialization",
+    "chinese": "专业做，专攻",
+    "example": "Agricultural specialization allowed some individuals to become expert farmers or breeders."
+  },
+  {
+    "english": "collective",
+    "chinese": "集体的，共同的",
+    "example": "Collective labor was often required to build and maintain irrigation systems."
+  },
+  {
+    "english": "aristocracy",
+    "chinese": "贵族",
+    "example": "The aristocracy in many societies owned large agricultural estates."
+  },
+  {
+    "english": "elite",
+    "chinese": "精英人士",
+    "example": "Elite classes often controlled the distribution of agricultural resources."
+  },
+  {
+    "english": "render",
+    "chinese": "提供（服务）",
+    "example": "Peasants would render labor services to landowners in exchange for farming rights."
+  },
+  {
+    "english": "stagnation",
+    "chinese": "停滞，不景气",
+    "example": "Lack of innovation can lead to agricultural stagnation and food shortages."
+  },
+  {
+    "english": "plow",
+    "chinese": "犁",
+    "example": "The invention of the plow revolutionized agricultural productivity in ancient times."
+  },
+  {
+    "english": "blade",
+    "chinese": "刀片，刀刃",
+    "example": "The blade of the plow was often made of metal for durability."
+  },
+  {
+    "english": "furrow",
+    "chinese": "犁沟",
+    "example": "Furrows created by plows help guide water to the planted seeds."
+  },
+  {
+    "english": "mild",
+    "chinese": "温和的",
+    "example": "Mild temperatures in spring are ideal for planting many crops."
+  },
+  {
+    "english": "rigid",
+    "chinese": "坚硬的",
+    "example": "Rigid plows were more effective in breaking up tough soil layers."
+  },
+  {
+    "english": "sturdy",
+    "chinese": "强壮的",
+    "example": "Sturdy oxen were commonly used to pull plows in ancient agriculture."
+  },
+  {
+    "english": "stamina",
+    "chinese": "耐力",
+    "example": "Farmers needed great stamina to work long hours in the fields."
+  },
+  {
+    "english": "swift",
+    "chinese": "迅速的",
+    "example": "Swift action is needed to address agricultural challenges like soil erosion."
+  },
+  {
+    "english": "propel",
+    "chinese": "推动",
+    "example": "Technological innovations propelled agricultural development in the Industrial Revolution."
+  },
+  {
+    "english": "compelling",
+    "chinese": "引人注目的",
+    "example": "There is compelling evidence that ancient societies practiced crop rotation."
+  },
+  {
+    "english": "overstate",
+    "chinese": "夸大",
+    "example": "It would be an overstatement to say that climate was the only factor in agricultural success."
+  },
+  {
+    "english": "utility",
+    "chinese": "效用",
+    "example": "The utility of domesticated animals extended beyond agriculture to transportation and warfare."
+  }
+]

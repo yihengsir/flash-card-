@@ -1,0 +1,622 @@
+[
+  {
+    "english": "accompany",
+    "chinese": "伴随",
+    "example": "She accompanied her friend to the concert last night."
+  },
+  {
+    "english": "facilitate",
+    "chinese": "帮助，促进",
+    "example": "Technology has facilitated communication across the globe."
+  },
+  {
+    "english": "attribute",
+    "chinese": "把……归因于",
+    "example": "He attributes his success to hard work and good luck."
+  },
+  {
+    "english": "internal",
+    "chinese": "内部的，里面的",
+    "example": "The company is dealing with internal communication issues."
+  },
+  {
+    "english": "critical",
+    "chinese": "关键的",
+    "example": "Water is critical for the survival of all living organisms."
+  },
+  {
+    "english": "confront",
+    "chinese": "面对",
+    "example": "We must confront the challenges rather than avoiding them."
+  },
+  {
+    "english": "cultivate",
+    "chinese": "种植，耕作",
+    "example": "Farmers cultivate various crops in the fertile valley."
+  },
+  {
+    "english": "conclude",
+    "chinese": "总结",
+    "example": "From the data, we can conclude that the project was successful."
+  },
+  {
+    "english": "evidently",
+    "chinese": "明显地",
+    "example": "Evidently, she was unhappy with the decision made by the committee."
+  },
+  {
+    "english": "tobacco",
+    "chinese": "烟草",
+    "example": "The government has increased taxes on tobacco products."
+  },
+  {
+    "english": "agriculture",
+    "chinese": "农业",
+    "example": "Agriculture is the backbone of the country's economy."
+  },
+  {
+    "english": "fertilizer",
+    "chinese": "肥料，化肥",
+    "example": "Using too much fertilizer can harm the environment."
+  },
+  {
+    "english": "ratio",
+    "chinese": "比例",
+    "example": "The ratio of boys to girls in the class is 3:2."
+  },
+  {
+    "english": "marginal",
+    "chinese": "边缘的",
+    "example": "The small village is located in a marginal area of the desert."
+  },
+  {
+    "english": "exceptional",
+    "chinese": "罕见的，异常的",
+    "example": "She showed exceptional talent in painting at a young age."
+  },
+  {
+    "english": "assumption",
+    "chinese": "假设",
+    "example": "The theory is based on the assumption that prices will remain stable."
+  },
+  {
+    "english": "explosion",
+    "chinese": "扩张",
+    "example": "The explosion of the tech industry has created many job opportunities."
+  },
+  {
+    "english": "statistical",
+    "chinese": "数据的",
+    "example": "Statistical analysis shows a correlation between exercise and health."
+  },
+  {
+    "english": "province",
+    "chinese": "省份",
+    "example": "Sichuan is a province in southwestern China."
+  },
+  {
+    "english": "spectacularly",
+    "chinese": "壮观得，令人吃惊地",
+    "example": "The team performed spectacularly in the championship game."
+  },
+  {
+    "english": "startle",
+    "chinese": "使惊吓",
+    "example": "The loud noise startled the birds and they flew away."
+  },
+  {
+    "english": "vast",
+    "chinese": "大量的",
+    "example": "The company has a vast collection of historical documents."
+  },
+  {
+    "english": "annual",
+    "chinese": "年度的",
+    "example": "The annual meeting will be held in Beijing this year."
+  },
+  {
+    "english": "highlight",
+    "chinese": "突出，强调",
+    "example": "The report highlights the importance of environmental protection."
+  },
+  {
+    "english": "accelerate",
+    "chinese": "加速",
+    "example": "The government is taking measures to accelerate economic growth."
+  },
+  {
+    "english": "coincide",
+    "chinese": "符合，相一致",
+    "example": "Their opinions on the matter coincide with each other."
+  },
+  {
+    "english": "absence",
+    "chinese": "缺乏，缺少",
+    "example": "The absence of sunlight affects the growth of plants."
+  },
+  {
+    "english": "permit",
+    "chinese": "允许，许可",
+    "example": "Visitors are not permitted to take photos in the museum."
+  },
+  {
+    "english": "emerge",
+    "chinese": "出现，暴露",
+    "example": "A new leader emerged from the political crisis."
+  },
+  {
+    "english": "respond",
+    "chinese": "回应",
+    "example": "The company responded quickly to the customer's complaint."
+  },
+  {
+    "english": "gradually",
+    "chinese": "逐渐地",
+    "example": "The weather is gradually getting warmer as spring approaches."
+  },
+  {
+    "english": "talent",
+    "chinese": "才能",
+    "example": "She has a natural talent for playing the piano."
+  },
+  {
+    "english": "authority",
+    "chinese": "权威",
+    "example": "He is considered an authority on ancient history."
+  },
+  {
+    "english": "conflict",
+    "chinese": "冲突",
+    "example": "There is a conflict between his work and personal life."
+  },
+  {
+    "english": "data",
+    "chinese": "数据",
+    "example": "The research is based on accurate and reliable data."
+  },
+  {
+    "english": "aim",
+    "chinese": "瞄准",
+    "example": "He aimed the arrow at the target and released it."
+  },
+  {
+    "english": "recognize",
+    "chinese": "认出",
+    "example": "I recognized her voice immediately on the phone."
+  },
+  {
+    "english": "emphasis",
+    "chinese": "强调",
+    "example": "The teacher put emphasis on practicing grammar regularly."
+  },
+  {
+    "english": "frequent",
+    "chinese": "频繁的",
+    "example": "Frequent exercise is good for physical and mental health."
+  },
+  {
+    "english": "interpret",
+    "chinese": "解释",
+    "example": "Different people may interpret the poem in various ways."
+  },
+  {
+    "english": "blend",
+    "chinese": "混合",
+    "example": "She likes to blend different colors in her paintings."
+  },
+  {
+    "english": "negative",
+    "chinese": "消极的",
+    "example": "Try to avoid negative thoughts and focus on the positive."
+  },
+  {
+    "english": "sibling",
+    "chinese": "兄弟姐妹",
+    "example": "She has two siblings, an older brother and a younger sister."
+  },
+  {
+    "english": "formal",
+    "chinese": "正式的",
+    "example": "They attended a formal dinner party last weekend."
+  },
+  {
+    "english": "source",
+    "chinese": "来源",
+    "example": "The main source of energy in this area is solar power."
+  },
+  {
+    "english": "reject",
+    "chinese": "拒绝",
+    "example": "The committee decided to reject the proposal due to budget issues."
+  },
+  {
+    "english": "quantity",
+    "chinese": "数量",
+    "example": "We need to increase the quantity of goods produced next month."
+  },
+  {
+    "english": "importance",
+    "chinese": "重要性",
+    "example": "He emphasized the importance of learning a second language."
+  },
+  {
+    "english": "explicit",
+    "chinese": "明确的",
+    "example": "The instructions were explicit, so everyone understood what to do."
+  },
+  {
+    "english": "verify",
+    "chinese": "证实",
+    "example": "Please verify the information before submitting the report."
+  },
+  {
+    "english": "communicate",
+    "chinese": "交流",
+    "example": "It's important to communicate effectively with your team members."
+  },
+  {
+    "english": "enhance",
+    "chinese": "提高",
+    "example": "Taking courses can enhance your skills and knowledge."
+  },
+  {
+    "english": "caution",
+    "chinese": "谨慎",
+    "example": "Exercise caution when driving on icy roads."
+  },
+  {
+    "english": "rational",
+    "chinese": "理性的",
+    "example": "He made a rational decision based on the available information."
+  },
+  {
+    "english": "indirect",
+    "chinese": "间接的",
+    "example": "The study has an indirect impact on our understanding of the issue."
+  },
+  {
+    "english": "describe",
+    "chinese": "描述",
+    "example": "Can you describe what you saw at the scene of the accident?"
+  },
+  {
+    "english": "avenue",
+    "chinese": "大街",
+    "example": "Fifth Avenue is a famous shopping district in New York."
+  },
+  {
+    "english": "perceive",
+    "chinese": "感知",
+    "example": "We perceive the world through our five senses."
+  },
+  {
+    "english": "immaturity",
+    "chinese": "不成熟",
+    "example": "His immaturity was evident in his reaction to the criticism."
+  },
+  {
+    "english": "endure",
+    "chinese": "忍受",
+    "example": "She had to endure long hours of practice to become a professional athlete."
+  },
+  {
+    "english": "intermediate",
+    "chinese": "中间的",
+    "example": "This book is suitable for intermediate level English learners."
+  },
+  {
+    "english": "endorse",
+    "chinese": "支持",
+    "example": "Many celebrities endorse products they believe in."
+  },
+  {
+    "english": "cereal",
+    "chinese": "谷物",
+    "example": "Wheat and rice are common cereals consumed around the world."
+  },
+  {
+    "english": "fond",
+    "chinese": "喜欢的",
+    "example": "She is fond of reading classic literature in her free time."
+  },
+  {
+    "english": "maturation",
+    "chinese": "成熟",
+    "example": "The maturation of the fruit takes about three months."
+  },
+  {
+    "english": "provoke",
+    "chinese": "激起",
+    "example": "His comments provoked a strong reaction from the audience."
+  },
+  {
+    "english": "offset",
+    "chinese": "抵消",
+    "example": "Planting trees can help offset carbon emissions."
+  },
+  {
+    "english": "comprehend",
+    "chinese": "理解",
+    "example": "It took him a while to comprehend the complex theory."
+  },
+  {
+    "english": "impression",
+    "chinese": "印象",
+    "example": "Her performance left a deep impression on the judges."
+  },
+  {
+    "english": "evident",
+    "chinese": "明显的",
+    "example": "It was evident that she had put a lot of effort into the project."
+  },
+  {
+    "english": "reversal",
+    "chinese": "反转",
+    "example": "There has been a reversal in the trend of housing prices."
+  },
+  {
+    "english": "outlook",
+    "chinese": "观点",
+    "example": "His positive outlook on life inspires those around him."
+  },
+  {
+    "english": "achievement",
+    "chinese": "成就",
+    "example": "Winning the championship was a great achievement for the team."
+  },
+  {
+    "english": "nutritionally",
+    "chinese": "营养地",
+    "example": "Nutritionally, vegetables are an essential part of a balanced diet."
+  },
+  {
+    "english": "psychological",
+    "chinese": "心理的",
+    "example": "Psychological factors can affect a person's physical health."
+  },
+  {
+    "english": "audience",
+    "chinese": "观众",
+    "example": "The speaker addressed the audience with confidence and enthusiasm."
+  },
+  {
+    "english": "aggregate",
+    "chinese": "总计的",
+    "example": "The aggregate sales for the year exceeded the company's expectations."
+  },
+  {
+    "english": "administration",
+    "chinese": "管理",
+    "example": "The university's administration is responsible for campus operations."
+  },
+  {
+    "english": "cooperative",
+    "chinese": "合作的",
+    "example": "The two companies have a cooperative relationship in research and development."
+  },
+  {
+    "english": "millennium",
+    "chinese": "千年",
+    "example": "The city celebrated the beginning of the new millennium with great fanfare."
+  },
+  {
+    "english": "cartoon",
+    "chinese": "动画片",
+    "example": "Children often enjoy watching colorful cartoons on television."
+  },
+  {
+    "english": "maximize",
+    "chinese": "最大化",
+    "example": "We need to maximize the use of available resources to achieve efficiency."
+  },
+  {
+    "english": "concept",
+    "chinese": "概念",
+    "example": "The concept of time is difficult for young children to understand."
+  },
+  {
+    "english": "narrate",
+    "chinese": "叙述",
+    "example": "The author narrates the story from the perspective of a young protagonist."
+  },
+  {
+    "english": "verbal",
+    "chinese": "言辞的",
+    "example": "Verbal communication is just as important as non-verbal communication."
+  },
+  {
+    "english": "oriented",
+    "chinese": "以…为方向的",
+    "example": "The company is customer-oriented and focuses on satisfying client needs."
+  },
+  {
+    "english": "psychologist",
+    "chinese": "心理学家",
+    "example": "A psychologist can help people deal with emotional and mental challenges."
+  },
+  {
+    "english": "regulator",
+    "chinese": "管理者",
+    "example": "The regulator ensures that businesses follow industry standards."
+  },
+  {
+    "english": "hostile",
+    "chinese": "敌对的",
+    "example": "The two countries have had a hostile relationship for many years."
+  },
+  {
+    "english": "credible",
+    "chinese": "可信的",
+    "example": "The report provides credible evidence to support the claims made."
+  },
+  {
+    "english": "exclusive",
+    "chinese": "独家的",
+    "example": "The magazine has an exclusive interview with the famous actor."
+  },
+  {
+    "english": "plausible",
+    "chinese": "似乎合理的",
+    "example": "His explanation was plausible, but we needed more evidence to confirm it."
+  },
+  {
+    "english": "prompt",
+    "chinese": "促使",
+    "example": "The sudden rain prompted them to cancel the outdoor event."
+  },
+  {
+    "english": "verbally",
+    "chinese": "言辞地",
+    "example": "She expressed her gratitude verbally during the award ceremony."
+  },
+  {
+    "english": "animated",
+    "chinese": "动画的",
+    "example": "Animated films are popular among both children and adults."
+  },
+  {
+    "english": "audio",
+    "chinese": "声音的",
+    "example": "The audio quality of the recording was clear and crisp."
+  },
+  {
+    "english": "promote",
+    "chinese": "促进",
+    "example": "The government is taking steps to promote economic growth."
+  },
+  {
+    "english": "commission",
+    "chinese": "委员会",
+    "example": "A special commission was established to investigate the issue."
+  },
+  {
+    "english": "decisive",
+    "chinese": "果断的",
+    "example": "His decisive action saved the company from potential disaster."
+  },
+  {
+    "english": "incompatibility",
+    "chinese": "不相容",
+    "example": "There is an incompatibility between the new software and old hardware."
+  },
+  {
+    "english": "nutritional",
+    "chinese": "营养的",
+    "example": "A balanced diet provides all the necessary nutritional elements."
+  },
+  {
+    "english": "extraordinary",
+    "chinese": "非凡的",
+    "example": "She has an extraordinary ability to remember details and facts."
+  },
+  {
+    "english": "literacy",
+    "chinese": "读写能力",
+    "example": "Improving literacy rates is a priority for the education system."
+  },
+  {
+    "english": "precisely",
+    "chinese": "精确地",
+    "example": "The clock is designed to tell time precisely to the second."
+  },
+  {
+    "english": "format",
+    "chinese": "格式",
+    "example": "Please save the document in PDF format for compatibility."
+  },
+  {
+    "english": "monarchy",
+    "chinese": "君主制",
+    "example": "Some countries still maintain a monarchy as part of their government structure."
+  },
+  {
+    "english": "criticize",
+    "chinese": "批评",
+    "example": "It's easy to criticize, but harder to offer constructive solutions."
+  },
+  {
+    "english": "ripen",
+    "chinese": "成熟",
+    "example": "Bananas will ripen faster when placed near other fruits."
+  },
+  {
+    "english": "reconstruct",
+    "chinese": "重建",
+    "example": "They plan to reconstruct the historical building to its original design."
+  },
+  {
+    "english": "oversee",
+    "chinese": "监督",
+    "example": "A manager was appointed to oversee the progress of the project."
+  },
+  {
+    "english": "verbalize",
+    "chinese": "用言语表达",
+    "example": "He found it difficult to verbalize his feelings about the experience."
+  },
+  {
+    "english": "validate",
+    "chinese": "验证",
+    "example": "Scientists need to validate the results through repeated experiments."
+  },
+  {
+    "english": "transitional",
+    "chinese": "过渡的",
+    "example": "The transitional period between childhood and adulthood can be challenging."
+  },
+  {
+    "english": "ally",
+    "chinese": "盟友",
+    "example": "The two countries have been close allies for many decades."
+  },
+  {
+    "english": "demonstration",
+    "chinese": "示范",
+    "example": "The teacher gave a demonstration of the experiment before students tried it themselves."
+  },
+  {
+    "english": "distinguish",
+    "chinese": "区分",
+    "example": "It's important to distinguish between facts and opinions in news reports."
+  },
+  {
+    "english": "exaggeration",
+    "chinese": "夸张",
+    "example": "His story was full of exaggeration, making it hard to believe."
+  },
+  {
+    "english": "civilization",
+    "chinese": "文明",
+    "example": "Ancient Egyptian civilization is known for its remarkable achievements."
+  },
+  {
+    "english": "personality",
+    "chinese": "个性",
+    "example": "Her vibrant personality makes her popular among friends."
+  },
+  {
+    "english": "retrieval",
+    "chinese": "检索",
+    "example": "The database allows for quick retrieval of information."
+  },
+  {
+    "english": "toddler",
+    "chinese": "幼童",
+    "example": "Toddlers often explore their surroundings by touching and tasting objects."
+  },
+  {
+    "english": "subjective",
+    "chinese": "主观的",
+    "example": "Beauty is subjective and varies from person to person."
+  },
+  {
+    "english": "anthropologist",
+    "chinese": "人类学家",
+    "example": "Anthropologists study human cultures and societies throughout history."
+  },
+  {
+    "english": "repression",
+    "chinese": "压抑",
+    "example": "Historical records show periods of political repression in the country's past."
+  }
+]

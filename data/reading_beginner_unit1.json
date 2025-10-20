@@ -1,0 +1,352 @@
+[
+    {
+        "english": "fascinating",
+        "chinese": "吸引人的",
+        "example": "The fascinating history of the ancient city drew many tourists."
+    },
+    {
+        "english": "impact",
+        "chinese": "影响",
+        "example": "The new policy will have a significant impact on the local economy."
+    },
+    {
+        "english": "reach",
+        "chinese": "范围",
+        "example": "The company’s marketing campaign has a wide reach across the country."
+    },
+    {
+        "english": "impressive",
+        "chinese": "令人印象深刻的",
+        "example": "Her impressive speech won the applause of the audience."
+    },
+    {
+        "english": "shape",
+        "chinese": "塑造",
+        "example": "Our experiences shape our personalities and beliefs."
+    },
+    {
+        "english": "emerge",
+        "chinese": "出现",
+        "example": "New technologies emerge constantly in the digital age."
+    },
+    {
+        "english": "enduring",
+        "chinese": "持久的",
+        "example": "Their enduring friendship lasted for decades."
+    },
+    {
+        "english": "innovative",
+        "chinese": "创新的",
+        "example": "The company is known for its innovative product designs."
+    },
+    {
+        "english": "worship",
+        "chinese": "崇拜",
+        "example": "People go to the temple to worship and pray."
+    },
+    {
+        "english": "mystery",
+        "chinese": "迷",
+        "example": "The ancient artifact remains a mystery to archaeologists."
+    },
+    {
+        "english": "legacy",
+        "chinese": "遗产",
+        "example": "The famous artist left a rich artistic legacy for future generations."
+    },
+    {
+        "english": "symbolize",
+        "chinese": "作为…的象征",
+        "example": "The dove symbolizes peace in many cultures."
+    },
+    {
+        "english": "revival",
+        "chinese": "复兴",
+        "example": "The revival of traditional crafts has brought new life to the local economy."
+    },
+    {
+        "english": "span",
+        "chinese": "跨越",
+        "example": "The bridge spans the wide river, connecting the two cities."
+    },
+    {
+        "english": "damp",
+        "chinese": "潮湿的",
+        "example": "The damp basement needs to be ventilated to prevent mold growth."
+    },
+    {
+        "english": "embroidery",
+        "chinese": "刺绣品",
+        "example": "The beautiful embroidery on the dress was hand-stitched."
+    },
+    {
+        "english": "stitch",
+        "chinese": "缝",
+        "example": "She used a needle and thread to stitch the torn fabric."
+    },
+    {
+        "english": "weave",
+        "chinese": "编织",
+        "example": "Skilled artisans weave intricate patterns into the fabric."
+    },
+    {
+        "english": "fabric",
+        "chinese": "织物布料",
+        "example": "The store sells a variety of high-quality fabrics for clothing making."
+    },
+    {
+        "english": "thread",
+        "chinese": "线",
+        "example": "She carefully chose a matching thread to sew the button."
+    },
+    {
+        "english": "spinning",
+        "chinese": "纺纱",
+        "example": "The old spinning wheel was used to turn cotton into thread."
+    },
+    {
+        "english": "nestle",
+        "chinese": "（使）位于",
+        "example": "The small village nestles in the valley, surrounded by mountains."
+    },
+    {
+        "english": "cradle",
+        "chinese": "摇篮",
+        "example": "The baby slept peacefully in the cradle."
+    },
+    {
+        "english": "decor",
+        "chinese": "装饰",
+        "example": "The simple yet elegant decor of the room created a cozy atmosphere."
+    },
+    {
+        "english": "ornament",
+        "chinese": "装饰",
+        "example": "They put up Christmas ornaments on the tree to celebrate the holiday."
+    },
+    {
+        "english": "citizen",
+        "chinese": "市民、公民",
+        "example": "Every citizen has the right and responsibility to vote."
+    },
+    {
+        "english": "expand",
+        "chinese": "扩张、扩大",
+        "example": "The company plans to expand its business into new markets."
+    },
+    {
+        "english": "valley",
+        "chinese": "山谷",
+        "example": "A river flows through the deep valley, creating a beautiful landscape."
+    },
+    {
+        "english": "trade",
+        "chinese": "贸易、交易",
+        "example": "International trade plays a crucial role in the global economy."
+    },
+    {
+        "english": "tomb",
+        "chinese": "坟墓",
+        "example": "The ancient tomb was discovered by archaeologists, revealing many historical artifacts."
+    },
+    {
+        "english": "clay",
+        "chinese": "黏土",
+        "example": "Potters use clay to make beautiful vases and sculptures."
+    },
+    {
+        "english": "dye",
+        "chinese": "染色",
+        "example": "They use natural plants to dye the fabric in various colors."
+    },
+    {
+        "english": "tribe",
+        "chinese": "部落",
+        "example": "The indigenous tribe has preserved its unique culture for centuries."
+    },
+    {
+        "english": "route",
+        "chinese": "路线",
+        "example": "We need to plan a safe route for our hiking trip in the mountains."
+    },
+    {
+        "english": "eventually",
+        "chinese": "最终、最后",
+        "example": "After many attempts, he eventually succeeded in solving the problem."
+    },
+    {
+        "english": "dynasty",
+        "chinese": "朝代",
+        "example": "The Tang Dynasty is known for its prosperity and cultural achievements."
+    },
+    {
+        "english": "temple",
+        "chinese": "寺庙",
+        "example": "Tourists visit the ancient temple to admire its magnificent architecture."
+    },
+    {
+        "english": "military",
+        "chinese": "军事的",
+        "example": "The country has a strong military force to protect its citizens."
+    },
+    {
+        "english": "craft",
+        "chinese": "手工艺/制作",
+        "example": "Local artisans showcase their traditional crafts at the market."
+    },
+    {
+        "english": "architecture",
+        "chinese": "建筑",
+        "example": "The city is famous for its unique and modern architecture."
+    },
+    {
+        "english": "complex",
+        "chinese": "复杂的",
+        "example": "Solving this complex math problem requires patience and careful thinking."
+    },
+    {
+        "english": "compound",
+        "chinese": "化合物",
+        "example": "Water is a chemical compound made of hydrogen and oxygen."
+    },
+    {
+        "english": "ceremony",
+        "chinese": "仪式、典礼",
+        "example": "The opening ceremony of the Olympic Games is always a grand event."
+    },
+    {
+        "english": "remain",
+        "chinese": "保持",
+        "example": "Despite the changes, some traditions remain unchanged over time."
+    },
+    {
+        "english": "luxurious",
+        "chinese": "奢华的",
+        "example": "They stayed in a luxurious hotel during their vacation."
+    },
+    {
+        "english": "exceptional",
+        "chinese": "杰出的",
+        "example": "Her exceptional talent in music has won her many awards."
+    },
+    {
+        "english": "precise",
+        "chinese": "精确的",
+        "example": "Scientists need precise data to conduct their research."
+    },
+    {
+        "english": "wisdom",
+        "chinese": "智慧",
+        "example": "The old man’s wisdom and experience are highly respected by the community."
+    },
+    {
+        "english": "profound",
+        "chinese": "造诣深的",
+        "example": "His profound understanding of philosophy makes his lectures very insightful."
+    },
+    {
+        "english": "exchange",
+        "chinese": "交换",
+        "example": "Cultural exchange programs help people learn about different traditions."
+    },
+    {
+        "english": "foster",
+        "chinese": "促进、培养",
+        "example": "Good education can foster creativity and critical thinking in students."
+    },
+    {
+        "english": "explore",
+        "chinese": "探索",
+        "example": "Scientists explore the deep sea to discover new species."
+    },
+    {
+        "english": "exploration",
+        "chinese": "探索",
+        "example": "The exploration of space has always fascinated humans."
+    },
+    {
+        "english": "chapter",
+        "chinese": "章节、篇章",
+        "example": "Each chapter of the book tells a different story."
+    },
+    {
+        "english": "be responsible for",
+        "chinese": "对...负责",
+        "example": "Parents are responsible for their children’s education and well-being."
+    },
+    {
+        "english": "vital",
+        "chinese": "至关重要的",
+        "example": "A healthy diet is vital for maintaining good health."
+    },
+    {
+        "english": "peak",
+        "chinese": "顶峰、高峰",
+        "example": "They reached the peak of the mountain and enjoyed the beautiful view."
+    },
+    {
+        "english": "remarkable",
+        "chinese": "杰出的、卓越的",
+        "example": "The team’s remarkable performance won them the championship."
+    },
+    {
+        "english": "incredible",
+        "chinese": "令人惊叹的",
+        "example": "The acrobat’s incredible skills amazed the audience."
+    },
+    {
+        "english": "connection",
+        "chinese": "连接、联系",
+        "example": "There is a strong connection between exercise and mental health."
+    },
+    {
+        "english": "contribution",
+        "chinese": "贡献",
+        "example": "His contribution to the field of science is widely recognized."
+    },
+    {
+        "english": "unity",
+        "chinese": "统一、团结",
+        "example": "National unity is essential for a country’s development and stability."
+    },
+    {
+        "english": "unique",
+        "chinese": "独特的",
+        "example": "Each person has a unique personality and set of talents."
+    },
+    {
+        "english": "treasure",
+        "chinese": "宝藏",
+        "example": "The ancient tomb was said to contain hidden treasures."
+    },
+    {
+        "english": "emperor",
+        "chinese": "皇帝",
+        "example": "The emperor ruled the empire with absolute power in ancient times."
+    },
+    {
+        "english": "empire",
+        "chinese": "帝国",
+        "example": "The Roman Empire once covered a large part of Europe and Asia."
+    },
+    {
+        "english": "long-lasting",
+        "chinese": "持久的",
+        "example": "A long-lasting friendship is built on trust and mutual understanding."
+    },
+    {
+        "english": "marvel",
+        "chinese": "令人惊奇的东西",
+        "example": "The Great Wall is one of the marvels of the world."
+    },
+    {
+        "english": "mosaic",
+        "chinese": "马赛克，（很多东西的）混合物",
+        "example": "The colorful mosaic on the wall was made of small glass pieces."
+    },
+    {
+        "english": "gunpowder",
+        "chinese": "火药",
+        "example": "Gunpowder was one of the important inventions in ancient China."
+    }
+]

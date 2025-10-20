@@ -1,0 +1,502 @@
+[
+  {
+    "english": "apprenticeship",
+    "chinese": "学徒",
+    "example": "He started an apprenticeship with a well-known blacksmith to learn the trade."
+  },
+  {
+    "english": "autonomy",
+    "chinese": "自治",
+    "example": "The region was granted a high degree of autonomy in economic matters."
+  },
+  {
+    "english": "backdrop",
+    "chinese": "背景",
+    "example": "Against the backdrop of a beautiful sunset, they had a romantic dinner."
+  },
+  {
+    "english": "brainchild",
+    "chinese": "智慧结晶",
+    "example": "This innovative project is the brainchild of a young entrepreneur."
+  },
+  {
+    "english": "breadth",
+    "chinese": "宽度，幅度",
+    "example": "The breadth of her knowledge in history is amazing."
+  },
+  {
+    "english": "ceramic",
+    "chinese": "陶瓷",
+    "example": "The museum has a collection of ancient ceramic artifacts."
+  },
+  {
+    "english": "cereal",
+    "chinese": "谷物",
+    "example": "I have a bowl of cereal for breakfast every morning."
+  },
+  {
+    "english": "coinage",
+    "chinese": "造币；新造的词",
+    "example": "\"Blog\" is a relatively recent coinage in the English language."
+  },
+  {
+    "english": "commodity",
+    "chinese": "商品",
+    "example": "Oil is one of the most important commodities in the world."
+  },
+  {
+    "english": "constitution",
+    "chinese": "宪法",
+    "example": "The country's constitution guarantees freedom of speech."
+  },
+  {
+    "english": "course",
+    "chinese": "课程；进程",
+    "example": "The course of the river has changed over time."
+  },
+  {
+    "english": "courtier",
+    "chinese": "朝臣",
+    "example": "The courtier always tried to please the king."
+  },
+  {
+    "english": "craftsperson",
+    "chinese": "手艺人",
+    "example": "The local craftsperson creates beautiful handmade jewelry."
+  },
+  {
+    "english": "deficit",
+    "chinese": "赤字",
+    "example": "The government is trying to reduce the budget deficit."
+  },
+  {
+    "english": "deposit",
+    "chinese": "存款；沉积物",
+    "example": "He made a large deposit in his bank account."
+  },
+  {
+    "english": "dike",
+    "chinese": "堤坝",
+    "example": "The dike protected the village from the flood."
+  },
+  {
+    "english": "dwelling",
+    "chinese": "住所",
+    "example": "Their new dwelling is a beautiful cottage in the countryside."
+  },
+  {
+    "english": "estate",
+    "chinese": "地产",
+    "example": "He inherited a large estate from his parents."
+  },
+  {
+    "english": "forage",
+    "chinese": "草料；搜寻食物",
+    "example": "The cows went out to find forage in the field."
+  },
+  {
+    "english": "freight",
+    "chinese": "货运",
+    "example": "The company specializes in freight transportation."
+  },
+  {
+    "english": "havoc",
+    "chinese": "大破坏",
+    "example": "The hurricane wreaked havoc on the coastal town."
+  },
+  {
+    "english": "inflation",
+    "chinese": "通货膨胀",
+    "example": "High inflation has affected people's living standards."
+  },
+  {
+    "english": "inundation",
+    "chinese": "洪水泛滥",
+    "example": "The inundation caused by the heavy rain damaged many houses."
+  },
+  {
+    "english": "kin",
+    "chinese": "亲属",
+    "example": "She visited her kin during the holiday."
+  },
+  {
+    "english": "landholding",
+    "chinese": "土地拥有",
+    "example": "His large landholding makes him one of the wealthiest in the area."
+  },
+  {
+    "english": "livestock",
+    "chinese": "牲畜",
+    "example": "The farmer raises various kinds of livestock on his farm."
+  },
+  {
+    "english": "locomotive",
+    "chinese": "机车",
+    "example": "The locomotive pulled a long train of goods."
+  },
+  {
+    "english": "loess",
+    "chinese": "黄土",
+    "example": "The loess plateau is known for its unique landscape."
+  },
+  {
+    "english": "manufacture",
+    "chinese": "制造",
+    "example": "The local factory is engaged in the manufacture of electronic products."
+  },
+  {
+    "english": "monarchy",
+    "chinese": "君主制；君主国",
+    "example": "The country used to be a monarchy but now is a republic."
+  },
+  {
+    "english": "monopoly",
+    "chinese": "垄断",
+    "example": "The company has a monopoly on the production of this rare medicine."
+  },
+  {
+    "english": "pastoralism",
+    "chinese": "游牧生活",
+    "example": "Pastoralism has been an important way of life in some regions."
+  },
+  {
+    "english": "pasture",
+    "chinese": "牧场",
+    "example": "The sheep were grazing in the lush pasture."
+  },
+  {
+    "english": "phase",
+    "chinese": "阶段",
+    "example": "We are now in the final phase of the project."
+  },
+  {
+    "english": "pledge",
+    "chinese": "承诺",
+    "example": "He made a pledge to support the charity."
+  },
+  {
+    "english": "presage",
+    "chinese": "预兆",
+    "example": "The dark clouds were a presage of the coming storm."
+  },
+  {
+    "english": "prestige",
+    "chinese": "威望",
+    "example": "The university has a high prestige around the world."
+  },
+  {
+    "english": "prosperity",
+    "chinese": "繁荣",
+    "example": "The city has achieved great prosperity in recent years."
+  },
+  {
+    "english": "recruit",
+    "chinese": "新兵；新成员",
+    "example": "The army is looking for new recruits."
+  },
+  {
+    "english": "rendition",
+    "chinese": "表演；演奏",
+    "example": "His rendition of the famous song was outstanding."
+  },
+  {
+    "english": "restoration",
+    "chinese": "修复；恢复",
+    "example": "The restoration of the old building took several years."
+  },
+  {
+    "english": "resurgence",
+    "chinese": "复苏",
+    "example": "There has been a resurgence of interest in traditional art forms."
+  },
+  {
+    "english": "smallpox",
+    "chinese": "天花",
+    "example": "Smallpox has been eradicated worldwide."
+  },
+  {
+    "english": "steppe",
+    "chinese": "大草原",
+    "example": "The vast steppe stretches as far as the eye can see."
+  },
+  {
+    "english": "strata",
+    "chinese": "地层",
+    "example": "Geologists study the different strata of the earth."
+  },
+  {
+    "english": "surplus",
+    "chinese": "盈余",
+    "example": "The company had a surplus at the end of the financial year."
+  },
+  {
+    "english": "surveyor",
+    "chinese": "测量员",
+    "example": "The surveyor is mapping out the land for development."
+  },
+  {
+    "english": "textile",
+    "chinese": "纺织品",
+    "example": "This store sells a wide variety of textiles."
+  },
+  {
+    "english": "texture",
+    "chinese": "质地",
+    "example": "The soft texture of the fabric makes it very comfortable to wear."
+  },
+  {
+    "english": "warfare",
+    "chinese": "战争",
+    "example": "Modern warfare is very different from traditional warfare."
+  },
+  {
+    "english": "workforce",
+    "chinese": "劳动力",
+    "example": "The country has a large and skilled workforce."
+  },
+  {
+    "english": "awkward",
+    "chinese": "尴尬的",
+    "example": "He felt awkward when he made a mistake in front of everyone."
+  },
+  {
+    "english": "burgeoning",
+    "chinese": "迅速发展的",
+    "example": "The city's burgeoning tech industry is attracting many young talents."
+  },
+  {
+    "english": "communal",
+    "chinese": "公共的",
+    "example": "The communal garden is a great place for neighbors to gather."
+  },
+  {
+    "english": "conservative",
+    "chinese": "保守的",
+    "example": "He has conservative views on social issues."
+  },
+  {
+    "english": "constant",
+    "chinese": "持续不断的",
+    "example": "The constant noise from the construction site is very annoying."
+  },
+  {
+    "english": "distinctive",
+    "chinese": "独特的",
+    "example": "Her dress has a distinctive style that makes her stand out."
+  },
+  {
+    "english": "domestic",
+    "chinese": "国内的；家庭的",
+    "example": "The domestic market is still very important for our company."
+  },
+  {
+    "english": "dual",
+    "chinese": "双重的",
+    "example": "This car has a dual-fuel system."
+  },
+  {
+    "english": "faithful",
+    "chinese": "忠实的",
+    "example": "He is a faithful friend who always stands by me."
+  },
+  {
+    "english": "hygienic",
+    "chinese": "卫生的",
+    "example": "It's important to keep the kitchen hygienic to prevent illness."
+  },
+  {
+    "english": "inhospitable",
+    "chinese": "不宜居住的",
+    "example": "The desert is an inhospitable place with extreme temperatures."
+  },
+  {
+    "english": "invariably",
+    "chinese": "总是；不变地",
+    "example": "She invariably arrives at work on time."
+  },
+  {
+    "english": "liberal",
+    "chinese": "开明的",
+    "example": "He has liberal ideas about education reform."
+  },
+  {
+    "english": "meticulously",
+    "chinese": "一丝不苟地",
+    "example": "The artist painted the details of the portrait meticulously."
+  },
+  {
+    "english": "militaristic",
+    "chinese": "军国主义的",
+    "example": "The country's militaristic policies worried its neighbors."
+  },
+  {
+    "english": "profound",
+    "chinese": "深刻的",
+    "example": "His speech had a profound impact on the audience."
+  },
+  {
+    "english": "reactionary",
+    "chinese": "反动的",
+    "example": "The reactionary forces tried to stop the progress of the reform."
+  },
+  {
+    "english": "timid",
+    "chinese": "胆小的",
+    "example": "The timid child was afraid to speak in front of the class."
+  },
+  {
+    "english": "traumatic",
+    "chinese": "创伤的",
+    "example": "The accident was a traumatic experience for him."
+  },
+  {
+    "english": "uncultivated",
+    "chinese": "未开垦的",
+    "example": "There is a large area of uncultivated land in the region."
+  },
+  {
+    "english": "dramatically",
+    "chinese": "戏剧性地",
+    "example": "The situation has changed dramatically in the past few months."
+  },
+  {
+    "english": "primarily",
+    "chinese": "主要地",
+    "example": "This product is primarily designed for young people."
+  },
+  {
+    "english": "abandon",
+    "chinese": "放弃",
+    "example": "He decided to abandon his plan due to lack of funds."
+  },
+  {
+    "english": "accustom",
+    "chinese": "使习惯",
+    "example": "It took him a while to accustom himself to the new environment."
+  },
+  {
+    "english": "aggregate",
+    "chinese": "聚集；合计",
+    "example": "We need to aggregate all the data from different sources."
+  },
+  {
+    "english": "assume",
+    "chinese": "假定；承担",
+    "example": "You can't assume that everything will go as planned."
+  },
+  {
+    "english": "carve",
+    "chinese": "雕刻；切开",
+    "example": "He carved his name on the tree trunk."
+  },
+  {
+    "english": "clog",
+    "chinese": "阻塞",
+    "example": "The drain is clogged with leaves."
+  },
+  {
+    "english": "decline",
+    "chinese": "下降；衰退",
+    "example": "The company's profits have been declining in recent years."
+  },
+  {
+    "english": "devalue",
+    "chinese": "贬值",
+    "example": "The currency devalued rapidly during the economic crisis."
+  },
+  {
+    "english": "devise",
+    "chinese": "设计；想出",
+    "example": "They devised a new strategy to increase sales."
+  },
+  {
+    "english": "divert",
+    "chinese": "转移；转向",
+    "example": "The police diverted the traffic to avoid congestion."
+  },
+  {
+    "english": "dominate",
+    "chinese": "支配；统治",
+    "example": "This company dominates the market in this industry."
+  },
+  {
+    "english": "exchange",
+    "chinese": "交换",
+    "example": "We often exchange ideas with each other."
+  },
+  {
+    "english": "execute",
+    "chinese": "执行",
+    "example": "The project was executed successfully according to the plan."
+  },
+  {
+    "english": "exploit",
+    "chinese": "剥削；利用",
+    "example": "We should exploit our resources more efficiently."
+  },
+  {
+    "english": "favor",
+    "chinese": "喜爱；赞同",
+    "example": "Most people favor the new policy."
+  },
+  {
+    "english": "frame",
+    "chinese": "制定；陷害",
+    "example": "He framed a plan to solve the problem."
+  },
+  {
+    "english": "haul",
+    "chinese": "拖运",
+    "example": "The truck hauled a large load of goods."
+  },
+  {
+    "english": "hinder",
+    "chinese": "阻碍",
+    "example": "Bad weather hindered our progress on the journey."
+  },
+  {
+    "english": "mine",
+    "chinese": "开采",
+    "example": "The company mines coal in this area."
+  },
+  {
+    "english": "plow",
+    "chinese": "犁地",
+    "example": "The farmer plowed the field before planting."
+  },
+  {
+    "english": "precipitate",
+    "chinese": "促使；加速",
+    "example": "His sudden decision precipitated a crisis."
+  },
+  {
+    "english": "propel",
+    "chinese": "推动",
+    "example": "The new technology propels the development of the industry."
+  },
+  {
+    "english": "recounting",
+    "chinese": "叙述",
+    "example": "She was recounting her travel experiences to her friends."
+  },
+  {
+    "english": "sponsor",
+    "chinese": "赞助",
+    "example": "The company sponsored the local sports team."
+  },
+  {
+    "english": "supersede",
+    "chinese": "取代",
+    "example": "The new model will supersede the old one in the market."
+  },
+  {
+    "english": "transform",
+    "chinese": "转变",
+    "example": "The city has been transformed into a modern metropolis."
+  },
+  {
+    "english": "unearth",
+    "chinese": "发掘；揭露",
+    "example": "Archaeologists unearthed many ancient artifacts."
+  }
+]

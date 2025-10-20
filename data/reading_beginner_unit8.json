@@ -1,0 +1,347 @@
+[
+    {
+        "english": "echo",
+        "chinese": "回荡",
+        "example": "Her laughter echoed through the empty hallway."
+    },
+    {
+        "english": "equality",
+        "chinese": "平等",
+        "example": "All people should be treated with equality and respect."
+    },
+    {
+        "english": "troubleshoot",
+        "chinese": "排除故障",
+        "example": "He helped troubleshoot the computer issue for his colleague."
+    },
+    {
+        "english": "crash",
+        "chinese": "崩溃",
+        "example": "The website crashed due to an unexpected surge in traffic."
+    },
+    {
+        "english": "automatically",
+        "chinese": "自动地",
+        "example": "The door closes automatically when someone approaches."
+    },
+    {
+        "english": "temporary",
+        "chinese": "临时的",
+        "example": "She found a temporary solution to the problem."
+    },
+    {
+        "english": "permanent",
+        "chinese": "永久的",
+        "example": "They made a permanent home in the countryside."
+    },
+    {
+        "english": "steam engine",
+        "chinese": "蒸汽机",
+        "example": "The steam engine played a crucial role in the Industrial Revolution."
+    },
+    {
+        "english": "deforestation",
+        "chinese": "毁林",
+        "example": "Deforestation has led to serious environmental problems."
+    },
+    {
+        "english": "aesthetics",
+        "chinese": "美学",
+        "example": "The design focuses on both functionality and aesthetics."
+    },
+    {
+        "english": "coordinate",
+        "chinese": "坐标",
+        "example": "Use the coordinates to find the exact location on the map."
+    },
+    {
+        "english": "ordered",
+        "chinese": "有序的",
+        "example": "The books are arranged in an ordered manner on the shelf."
+    },
+    {
+        "english": "molecule",
+        "chinese": "分子",
+        "example": "A water molecule consists of two hydrogen atoms and one oxygen atom."
+    },
+    {
+        "english": "gravity",
+        "chinese": "重力",
+        "example": "Gravity keeps objects from floating away from the Earth."
+    },
+    {
+        "english": "particle",
+        "chinese": "颗粒",
+        "example": "Dust particles are floating in the sunlight."
+    },
+    {
+        "english": "contraction",
+        "chinese": "收缩",
+        "example": "The contraction of the metal occurs when it is cooled."
+    },
+    {
+        "english": "collapse",
+        "chinese": "坍塌",
+        "example": "The old building began to collapse after the earthquake."
+    },
+    {
+        "english": "harsh",
+        "chinese": "严酷的",
+        "example": "They survived in the harsh conditions of the desert."
+    },
+    {
+        "english": "sediment",
+        "chinese": "沉淀物",
+        "example": "Sediment builds up at the bottom of the river over time."
+    },
+    {
+        "english": "mineral",
+        "chinese": "矿物质",
+        "example": "Milk is a good source of calcium and other minerals."
+    },
+    {
+        "english": "dissolve",
+        "chinese": "溶解",
+        "example": "Salt will dissolve in water if stirred thoroughly."
+    },
+    {
+        "english": "crater",
+        "chinese": "坑",
+        "example": "The meteor left a large crater in the ground."
+    },
+    {
+        "english": "meteorite",
+        "chinese": "陨石",
+        "example": "Scientists study meteorites to learn about the universe."
+    },
+    {
+        "english": "lunar",
+        "chinese": "月球的",
+        "example": "The lunar surface is covered in craters and mountains."
+    },
+    {
+        "english": "transition",
+        "chinese": "转化",
+        "example": "The transition from childhood to adulthood can be challenging."
+    },
+    {
+        "english": "radiation",
+        "chinese": "辐射",
+        "example": "Exposure to high levels of radiation is dangerous to health."
+    },
+    {
+        "english": "shield",
+        "chinese": "屏障",
+        "example": "The ozone layer acts as a shield against harmful UV rays."
+    },
+    {
+        "english": "nature",
+        "chinese": "本质",
+        "example": "The nature of the problem requires a careful solution."
+    },
+    {
+        "english": "remote",
+        "chinese": "遥远的",
+        "example": "They live in a remote village with little access to modern amenities."
+    },
+    {
+        "english": "assumption",
+        "chinese": "假设",
+        "example": "The theory is based on the assumption that prices will remain stable."
+    },
+    {
+        "english": "reservoir",
+        "chinese": "蓄水池",
+        "example": "The reservoir stores water for the city's use."
+    },
+    {
+        "english": "dim",
+        "chinese": "暗淡的",
+        "example": "The dim light made it hard to read the book."
+    },
+    {
+        "english": "crust",
+        "chinese": "硬表面",
+        "example": "The Earth's crust is made up of several tectonic plates."
+    },
+    {
+        "english": "insulating",
+        "chinese": "隔绝的",
+        "example": "The insulating material keeps the house warm in winter."
+    },
+    {
+        "english": "periodically",
+        "chinese": "周期性地",
+        "example": "They check the equipment periodically to ensure it works properly."
+    },
+    {
+        "english": "lava",
+        "chinese": "岩浆",
+        "example": "Lava flows from the volcano during an eruption."
+    },
+    {
+        "english": "station",
+        "chinese": "驻扎",
+        "example": "Troops were stationed near the border for security."
+    },
+    {
+        "english": "burst",
+        "chinese": "迸发",
+        "example": "The pipe burst and flooded the basement."
+    },
+    {
+        "english": "gain",
+        "chinese": "获得",
+        "example": "She gained valuable experience during her internship."
+    },
+    {
+        "english": "material",
+        "chinese": "物质",
+        "example": "The material of the dress is light and comfortable."
+    },
+    {
+        "english": "observe",
+        "chinese": "观察",
+        "example": "Scientists observe the stars through powerful telescopes."
+    },
+    {
+        "english": "occur",
+        "chinese": "发生",
+        "example": "Earthquakes can occur at any time without warning."
+    },
+    {
+        "english": "planet",
+        "chinese": "行星",
+        "example": "Earth is the third planet from the Sun."
+    },
+    {
+        "english": "process",
+        "chinese": "过程",
+        "example": "The manufacturing process of the product is complex."
+    },
+    {
+        "english": "surrounding",
+        "chinese": "周围的",
+        "example": "The surrounding area of the lake is full of trees and wildlife."
+    },
+    {
+        "english": "direction",
+        "chinese": "方向",
+        "example": "He pointed in the direction of the nearest town."
+    },
+    {
+        "english": "increase",
+        "chinese": "增加",
+        "example": "The company plans to increase production by 10% next year."
+    },
+    {
+        "english": "plane",
+        "chinese": "平面",
+        "example": "A geometric plane extends infinitely in all directions."
+    },
+    {
+        "english": "spin",
+        "chinese": "快速旋转",
+        "example": "The top continued to spin for several minutes."
+    },
+    {
+        "english": "combine",
+        "chinese": "结合",
+        "example": "Combine the ingredients to make a delicious smoothie."
+    },
+    {
+        "english": "concentrate",
+        "chinese": "使聚集，使浓缩",
+        "example": "Concentrate the juice by boiling it for several hours."
+    },
+    {
+        "english": "contract",
+        "chinese": "收缩",
+        "example": "Metal will contract when exposed to cold temperatures."
+    },
+    {
+        "english": "eventually",
+        "chinese": "最终地",
+        "example": "They eventually reached the top of the mountain after hours of climbing."
+    },
+    {
+        "english": "mass",
+        "chinese": "质量",
+        "example": "The mass of an object affects its gravitational pull."
+    },
+    {
+        "english": "attraction",
+        "chinese": "吸引力",
+        "example": "The attraction between the two magnets is very strong."
+    },
+    {
+        "english": "constant",
+        "chinese": "恒定的",
+        "example": "The speed of light is a constant in physics."
+    },
+    {
+        "english": "speed",
+        "chinese": "速度",
+        "example": "The car was traveling at a speed of 60 miles per hour."
+    },
+    {
+        "english": "century",
+        "chinese": "世纪",
+        "example": "The city has changed a lot over the past century."
+    },
+    {
+        "english": "cloud",
+        "chinese": "云",
+        "example": "The sky was filled with dark clouds before the storm."
+    },
+    {
+        "english": "clue",
+        "chinese": "线索",
+        "example": "The detective found a crucial clue at the crime scene."
+    },
+    {
+        "english": "current",
+        "chinese": "当前的",
+        "example": "What is your current plan for the project?"
+    },
+    {
+        "english": "entire",
+        "chinese": "整个的",
+        "example": "He spent the entire day working on the assignment."
+    },
+    {
+        "english": "dust",
+        "chinese": "灰尘",
+        "example": "Dust had accumulated on the furniture during their absence."
+    },
+    {
+        "english": "series",
+        "chinese": "连续，一系列事件",
+        "example": "The TV series tells the story of a detective solving mysteries."
+    },
+    {
+        "english": "account",
+        "chinese": "解释",
+        "example": "She couldn't account for her absence from the meeting."
+    },
+    {
+        "english": "moon",
+        "chinese": "卫星",
+        "example": "The Earth's moon orbits around the planet."
+    },
+    {
+        "english": "distance",
+        "chinese": "距离",
+        "example": "The distance between the two cities is about 100 kilometers."
+    },
+    {
+        "english": "percent",
+        "chinese": "百分之...",
+        "example": "About 70 percent of the Earth's surface is covered by water."
+    },
+    {
+        "english": "various",
+        "chinese": "各种各样的",
+        "example": "There are various ways to solve the problem."
+    }
+]

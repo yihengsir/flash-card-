@@ -1,0 +1,422 @@
+[
+  {
+    "english": "category",
+    "chinese": "种类",
+    "example": "Books in the library are sorted into different categories by subject."
+  },
+  {
+    "english": "distance",
+    "chinese": "距离",
+    "example": "The distance between the two cities is about 200 kilometers."
+  },
+  {
+    "english": "mystery",
+    "chinese": "秘密，谜",
+    "example": "The disappearance of the ship remains a mystery to this day."
+  },
+  {
+    "english": "diameter",
+    "chinese": "直径",
+    "example": "The diameter of the Earth is approximately 12,742 kilometers."
+  },
+  {
+    "english": "hence",
+    "chinese": "因此",
+    "example": "She didn't study for the exam, hence she failed to pass it."
+  },
+  {
+    "english": "correlation",
+    "chinese": "相关性，相互关系",
+    "example": "There is a strong correlation between smoking and lung disease."
+  },
+  {
+    "english": "dimension",
+    "chinese": "尺寸，面积",
+    "example": "We need to know the dimensions of the room before buying furniture."
+  },
+  {
+    "english": "density",
+    "chinese": "密度",
+    "example": "The density of water is 1 gram per cubic centimeter."
+  },
+  {
+    "english": "composition",
+    "chinese": "构成",
+    "example": "The composition of the earth's atmosphere includes nitrogen, oxygen, and other gases."
+  },
+  {
+    "english": "hydrogen",
+    "chinese": "氢",
+    "example": "Hydrogen is the lightest and most abundant element in the universe."
+  },
+  {
+    "english": "gravity",
+    "chinese": "重力",
+    "example": "Gravity is the force that keeps objects on the ground."
+  },
+  {
+    "english": "molecular",
+    "chinese": "分子",
+    "example": "Molecular biology studies the structure and function of biological molecules."
+  },
+  {
+    "english": "motion",
+    "chinese": "运动",
+    "example": "The motion of the planets around the sun follows Kepler's laws."
+  },
+  {
+    "english": "comparatively",
+    "chinese": "相比地，相对地",
+    "example": "Comparatively speaking, this product is more expensive but of better quality."
+  },
+  {
+    "english": "retain",
+    "chinese": "保持",
+    "example": "This material can retain heat better than others."
+  },
+  {
+    "english": "portion",
+    "chinese": "一部分",
+    "example": "She ate a small portion of the cake and saved the rest."
+  },
+  {
+    "english": "astronomer",
+    "chinese": "天文学家",
+    "example": "Astronomers study the stars, planets, and other celestial bodies."
+  },
+  {
+    "english": "hypothesize",
+    "chinese": "假设，猜测",
+    "example": "Scientists hypothesize that the universe is expanding."
+  },
+  {
+    "english": "traumatic",
+    "chinese": "创伤的",
+    "example": "The car accident was a traumatic experience for everyone involved."
+  },
+  {
+    "english": "awkwardness",
+    "chinese": "尴尬，不便",
+    "example": "His awkwardness in social situations made it hard for him to make friends."
+  },
+  {
+    "english": "outcome",
+    "chinese": "结果",
+    "example": "The outcome of the experiment was unexpected but promising."
+  },
+  {
+    "english": "domestic",
+    "chinese": "国内的",
+    "example": "The company focuses on both domestic and international markets."
+  },
+  {
+    "english": "elevation",
+    "chinese": "高度，海拔",
+    "example": "The elevation of the mountain is over 5,000 meters above sea level."
+  },
+  {
+    "english": "merchant",
+    "chinese": "商人",
+    "example": "The merchant traded goods between different countries."
+  },
+  {
+    "english": "architecture",
+    "chinese": "建筑",
+    "example": "The ancient architecture of Rome is famous around the world."
+  },
+  {
+    "english": "comprise",
+    "chinese": "包含，包括",
+    "example": "The team comprises players from five different countries."
+  },
+  {
+    "english": "symbolism",
+    "chinese": "象征主义，象征手法",
+    "example": "The use of symbolism in literature can add depth to the story."
+  },
+  {
+    "english": "religious",
+    "chinese": "宗教的",
+    "example": "Religious beliefs play an important role in many people's lives."
+  },
+  {
+    "english": "worship",
+    "chinese": "崇拜",
+    "example": "People go to the temple to worship and pray."
+  },
+  {
+    "english": "diplomatic",
+    "chinese": "外交的",
+    "example": "Diplomatic relations between the two countries have improved in recent years."
+  },
+  {
+    "english": "client",
+    "chinese": "客户",
+    "example": "The company provides excellent service to its clients."
+  },
+  {
+    "english": "differ",
+    "chinese": "和...不同",
+    "example": "His opinion differs from mine on this matter."
+  },
+  {
+    "english": "distant",
+    "chinese": "遥远的",
+    "example": "She looked at the distant mountains and felt a sense of peace."
+  },
+  {
+    "english": "evolve",
+    "chinese": "发展",
+    "example": "Language continues to evolve and change over time."
+  },
+  {
+    "english": "festival",
+    "chinese": "节日",
+    "example": "The Spring Festival is the most important holiday in China."
+  },
+  {
+    "english": "inferior",
+    "chinese": "下级的",
+    "example": "He felt inferior to his colleagues because of his lack of experience."
+  },
+  {
+    "english": "holy",
+    "chinese": "神圣的",
+    "example": "The place is considered holy by people of many religions."
+  },
+  {
+    "english": "troop",
+    "chinese": "军队",
+    "example": "Troops were sent to the border to protect the country."
+  },
+  {
+    "english": "dweller",
+    "chinese": "居民",
+    "example": "City dwellers often face problems like traffic and pollution."
+  },
+  {
+    "english": "disadvantage",
+    "chinese": "不利条件",
+    "example": "The main disadvantage of this plan is its high cost."
+  },
+  {
+    "english": "carving",
+    "chinese": "雕刻品",
+    "example": "The museum has a collection of ancient wood carvings."
+  },
+  {
+    "english": "curved",
+    "chinese": "曲线的",
+    "example": "The road ahead was curved and difficult to see around."
+  },
+  {
+    "english": "external",
+    "chinese": "外部的",
+    "example": "External factors such as weather can affect the project's progress."
+  },
+  {
+    "english": "furnish",
+    "chinese": "装修",
+    "example": "They spent a lot of money to furnish their new home."
+  },
+  {
+    "english": "haul",
+    "chinese": "拖运",
+    "example": "The truck hauled a large load of goods across the country."
+  },
+  {
+    "english": "likewise",
+    "chinese": "同样地",
+    "example": "She enjoys reading, and likewise, her sister loves writing."
+  },
+  {
+    "english": "marble",
+    "chinese": "大理石",
+    "example": "The statue was carved from a single block of white marble."
+  },
+  {
+    "english": "medium",
+    "chinese": "媒介",
+    "example": "Television is a powerful medium for spreading information."
+  },
+  {
+    "english": "rocket",
+    "chinese": "火箭",
+    "example": "The rocket launched into space carrying a satellite."
+  },
+  {
+    "english": "sacred",
+    "chinese": "神圣的",
+    "example": "The forest is considered sacred by the local indigenous people."
+  },
+  {
+    "english": "terrace",
+    "chinese": "露台",
+    "example": "They had a beautiful view from the terrace of their hotel."
+  },
+  {
+    "english": "assert",
+    "chinese": "断言",
+    "example": "He asserted that he was innocent of the crime."
+  },
+  {
+    "english": "carve",
+    "chinese": "雕刻",
+    "example": "He carved his name into the tree trunk."
+  },
+  {
+    "english": "relieve",
+    "chinese": "缓解",
+    "example": "Taking painkillers can help relieve the headache."
+  },
+  {
+    "english": "sculpture",
+    "chinese": "雕塑",
+    "example": "The sculpture in the park was created by a famous artist."
+  },
+  {
+    "english": "furnishing",
+    "chinese": "家具",
+    "example": "The furnishing of the room was simple but elegant."
+  },
+  {
+    "english": "surplus",
+    "chinese": "剩余",
+    "example": "The company had a surplus of goods after the holiday season."
+  },
+  {
+    "english": "enthusiastic",
+    "chinese": "热情的",
+    "example": "The audience was enthusiastic about the performance."
+  },
+  {
+    "english": "insignificant",
+    "chinese": "不重要的",
+    "example": "The mistake was insignificant and didn't affect the outcome."
+  },
+  {
+    "english": "unpredictable",
+    "chinese": "不可预测的",
+    "example": "The weather in this region is unpredictable and can change quickly."
+  },
+  {
+    "english": "architect",
+    "chinese": "建筑师",
+    "example": "The architect designed a modern building that was both beautiful and functional."
+  },
+  {
+    "english": "framework",
+    "chinese": "框架",
+    "example": "The framework of the building was made of steel."
+  },
+  {
+    "english": "ceremonial",
+    "chinese": "仪式的",
+    "example": "The president wore a ceremonial robe during the inauguration."
+  },
+  {
+    "english": "contend",
+    "chinese": "对付",
+    "example": "She had to contend with many challenges while starting her business."
+  },
+  {
+    "english": "corresponding",
+    "chinese": "相应的",
+    "example": "Please fill in the corresponding information in the form."
+  },
+  {
+    "english": "dismiss",
+    "chinese": "轻视",
+    "example": "He dismissed her idea as being impractical."
+  },
+  {
+    "english": "isolated",
+    "chinese": "孤立的",
+    "example": "The small village was isolated from the rest of the world by mountains."
+  },
+  {
+    "english": "velocity",
+    "chinese": "速度",
+    "example": "The velocity of light is about 300,000 kilometers per second."
+  },
+  {
+    "english": "participant",
+    "chinese": "参与者",
+    "example": "All participants in the survey must be over 18 years old."
+  },
+  {
+    "english": "proportion",
+    "chinese": "比例",
+    "example": "The proportion of men to women in the class is 2:1."
+  },
+  {
+    "english": "provincial",
+    "chinese": "乡下的",
+    "example": "She grew up in a small provincial town."
+  },
+  {
+    "english": "residence",
+    "chinese": "住处",
+    "example": "Their new residence is located in a quiet neighborhood."
+  },
+  {
+    "english": "astonish",
+    "chinese": "使...惊讶",
+    "example": "His sudden success astonished everyone who knew him."
+  },
+  {
+    "english": "dam",
+    "chinese": "水坝",
+    "example": "The dam was built to control the river and generate electricity."
+  },
+  {
+    "english": "dioxide",
+    "chinese": "二氧化物",
+    "example": "Carbon dioxide is a gas that is released when fossil fuels are burned."
+  },
+  {
+    "english": "aggregation",
+    "chinese": "聚集",
+    "example": "The aggregation of particles can form larger structures."
+  },
+  {
+    "english": "amply",
+    "chinese": "充足地",
+    "example": "She was amply rewarded for her hard work."
+  },
+  {
+    "english": "condense",
+    "chinese": "凝结",
+    "example": "Water vapor condenses to form clouds."
+  },
+  {
+    "english": "culminate",
+    "chinese": "达到顶点",
+    "example": "The event will culminate with a fireworks display."
+  },
+  {
+    "english": "hemisphere",
+    "chinese": "半球",
+    "example": "The Northern Hemisphere experiences winter when the Southern Hemisphere has summer."
+  },
+  {
+    "english": "lavishly",
+    "chinese": "丰富地",
+    "example": "The room was lavishly decorated for the special occasion."
+  },
+  {
+    "english": "mosaic",
+    "chinese": "马赛克",
+    "example": "The floor was covered with a beautiful mosaic of colorful tiles."
+  },
+  {
+    "english": "onset",
+    "chinese": "开始",
+    "example": "The onset of the disease is often marked by a high fever."
+  },
+  {
+    "english": "void",
+    "chinese": "空缺",
+    "example": "After he left, there was a void in the team that was hard to fill."
+  }
+]

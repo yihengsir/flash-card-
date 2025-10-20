@@ -1,0 +1,292 @@
+[
+  {
+    "english": "readership",
+    "chinese": "读者数量",
+    "example": "The newspaper aims to increase its readership by publishing more engaging content."
+  },
+  {
+    "english": "celebrity",
+    "chinese": "名人",
+    "example": "The celebrity walked the red carpet, surrounded by fans and photographers."
+  },
+  {
+    "english": "appealing",
+    "chinese": "吸引人的",
+    "example": "The colorful packaging makes the product very appealing to kids."
+  },
+  {
+    "english": "graphic",
+    "chinese": "图表",
+    "example": "The report includes a graphic showing sales trends over time."
+  },
+  {
+    "english": "delivery",
+    "chinese": "交付",
+    "example": "The on - time delivery of the project impressed the client."
+  },
+  {
+    "english": "folktale",
+    "chinese": "民间故事",
+    "example": "Grandparents often tell folktales to their grandchildren at bedtime."
+  },
+  {
+    "english": "literature",
+    "chinese": "文学",
+    "example": "Studying classic literature helps us understand different cultures."
+  },
+  {
+    "english": "legend",
+    "chinese": "传奇故事",
+    "example": "The legend of King Arthur has fascinated people for centuries."
+  },
+  {
+    "english": "category",
+    "chinese": "类别；种类",
+    "example": "These books fall into the science fiction category."
+  },
+  {
+    "english": "imaginative",
+    "chinese": "富有想象力的",
+    "example": "The imaginative child created a magical world in his stories."
+  },
+  {
+    "english": "feature",
+    "chinese": "特征",
+    "example": "One key feature of this phone is its long - lasting battery."
+  },
+  {
+    "english": "transform",
+    "chinese": "改变，转换",
+    "example": "Hard work can transform your life for the better."
+  },
+  {
+    "english": "transformation",
+    "chinese": "改变，转换",
+    "example": "The city has undergone a huge transformation in recent years."
+  },
+  {
+    "english": "convention",
+    "chinese": "惯例，传统",
+    "example": "It's a convention to exchange gifts at Christmas."
+  },
+  {
+    "english": "conventional",
+    "chinese": "传统的",
+    "example": "Conventional farming methods use a lot of pesticides."
+  },
+  {
+    "english": "resemble",
+    "chinese": "类似于",
+    "example": "The new building resembles a giant bird in shape."
+  },
+  {
+    "english": "aspect",
+    "chinese": "方面",
+    "example": "We need to consider every aspect of the problem before deciding."
+  },
+  {
+    "english": "comical",
+    "chinese": "滑稽的",
+    "example": "The comedian's comical gestures made everyone laugh."
+  },
+  {
+    "english": "contemporary society",
+    "chinese": "当代社会",
+    "example": "Social media plays a big role in contemporary society."
+  },
+  {
+    "english": "illustration",
+    "chinese": "说明",
+    "example": "The teacher used an illustration to explain the complex idea."
+  },
+  {
+    "english": "somewhat",
+    "chinese": "稍微",
+    "example": "The movie was somewhat disappointing, but still worth watching."
+  },
+  {
+    "english": "domestic",
+    "chinese": "家庭的，驯养的",
+    "example": "Domestic cats are often kept as pets."
+  },
+  {
+    "english": "domesticate",
+    "chinese": "驯养",
+    "example": "Humans were the first to domesticate dogs."
+  },
+  {
+    "english": "episode",
+    "chinese": "(人的)一段经历；(小说的)片段",
+    "example": "This episode of the TV show is very exciting."
+  },
+  {
+    "english": "arise(arose/arisen)",
+    "chinese": "出现",
+    "example": "New problems may arise during the project, so we need to be prepared."
+  },
+  {
+    "english": "stock",
+    "chinese": "通常有的",
+    "example": "The store keeps a stock supply of winter coats in case of cold weather."
+  },
+  {
+    "english": "peasant",
+    "chinese": "农民",
+    "example": "The hard - working peasant tilled the fields every morning."
+  },
+  {
+    "english": "erode",
+    "chinese": "腐蚀",
+    "example": "The constant rain will erode the soil over time."
+  },
+  {
+    "english": "decompose",
+    "chinese": "分解",
+    "example": "Leaves decompose and become part of the soil."
+  },
+  {
+    "english": "microorganism",
+    "chinese": "微生物",
+    "example": "Microorganisms can be both helpful and harmful to humans."
+  },
+  {
+    "english": "convert",
+    "chinese": "转化",
+    "example": "Solar panels can convert sunlight into electricity."
+  },
+  {
+    "english": "sediment",
+    "chinese": "沉淀物",
+    "example": "The sediment at the bottom of the river contains many minerals."
+  },
+  {
+    "english": "weathering",
+    "chinese": "风化",
+    "example": "Weathering has worn away the old stone building."
+  },
+  {
+    "english": "nutrient",
+    "chinese": "营养物",
+    "example": "Plants need nutrients like water and sunlight to grow."
+  },
+  {
+    "english": "repeatedly",
+    "chinese": "反复地",
+    "example": "He repeatedly tried to solve the problem until he found the answer."
+  },
+  {
+    "english": "agriculture",
+    "chinese": "农业",
+    "example": "Agriculture is the main industry in this rural area."
+  },
+  {
+    "english": "essential",
+    "chinese": "基本的",
+    "example": "Water is essential for all living things."
+  },
+  {
+    "english": "excessive",
+    "chinese": "过度的",
+    "example": "Excessive use of smartphones can harm your eyes."
+  },
+  {
+    "english": "fertilizer",
+    "chinese": "肥料",
+    "example": "Farmers use fertilizer to help their crops grow."
+  },
+  {
+    "english": "geological",
+    "chinese": "地质学的",
+    "example": "The geological survey found new mineral deposits in the area."
+  },
+  {
+    "english": "quantity",
+    "chinese": "数量",
+    "example": "We need a large quantity of paper for the printing project."
+  },
+  {
+    "english": "phase",
+    "chinese": "阶段",
+    "example": "The project is now in its final phase of development."
+  },
+  {
+    "english": "retain",
+    "chinese": "保持",
+    "example": "To retain good employees, the company offers good benefits."
+  },
+  {
+    "english": "cloak",
+    "chinese": "斗篷",
+    "example": "The knight wore a black cloak to hide his identity."
+  },
+  {
+    "english": "element",
+    "chinese": "元素",
+    "example": "Oxygen is an important element for human life."
+  },
+  {
+    "english": "reproduce",
+    "chinese": "再制造",
+    "example": "Some plants can reproduce asexually, without seeds."
+  },
+  {
+    "english": "significant",
+    "chinese": "重要的",
+    "example": "This discovery is a significant breakthrough in science."
+  },
+  {
+    "english": "substantial",
+    "chinese": "大量的",
+    "example": "We received a substantial amount of feedback from customers."
+  },
+  {
+    "english": "abundant",
+    "chinese": "大量的",
+    "example": "The forest has an abundant supply of fresh water."
+  },
+  {
+    "english": "adversely",
+    "chinese": "不利地",
+    "example": "The bad weather has adversely affected the harvest."
+  },
+  {
+    "english": "scarce",
+    "chinese": "稀少的",
+    "example": "During the drought, water became scarce in the region."
+  },
+  {
+    "english": "phenomena",
+    "chinese": "现象",
+    "example": "Natural phenomena like earthquakes are difficult to predict."
+  },
+  {
+    "english": "interrupt",
+    "chinese": "中断",
+    "example": "Please don't interrupt me while I'm speaking."
+  },
+  {
+    "english": "evolve",
+    "chinese": "进化，发展",
+    "example": "Technology continues to evolve at a rapid pace."
+  },
+  {
+    "english": "preserve",
+    "chinese": "保护",
+    "example": "We need to preserve our natural resources for future generations."
+  },
+  {
+    "english": "property",
+    "chinese": "属性",
+    "example": "One property of water is that it freezes at 0 degrees Celsius."
+  },
+  {
+    "english": "analysis",
+    "chinese": "分析",
+    "example": "The data analysis helped us understand market trends better."
+  },
+  {
+    "english": "distinct",
+    "chinese": "明显的；清晰的",
+    "example": "There is a distinct difference between the two products."
+  }
+]

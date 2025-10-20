@@ -1,0 +1,242 @@
+[
+    {
+        "english": "cinema",
+        "chinese": "电影院；电影艺术",
+        "example": "Let's go to the cinema to watch a movie tonight."
+    },
+    {
+        "english": "historic",
+        "chinese": "历史上著名（或重要）的；有历史意义的",
+        "example": "This is a historic moment that we'll remember forever."
+    },
+    {
+        "english": "extremely",
+        "chinese": "极其；非常",
+        "example": "She is extremely talented in painting."
+    },
+    {
+        "english": "offer",
+        "chinese": "提供；给予；提出",
+        "example": "They offered me a job at their company."
+    },
+    {
+        "english": "surfing",
+        "chinese": "冲浪运动",
+        "example": "Surfing is a popular sport in Hawaii."
+    },
+    {
+        "english": "kayaking",
+        "chinese": "皮划艇运动",
+        "example": "We went kayaking on the lake and had a great time."
+    },
+    {
+        "english": "canoeing",
+        "chinese": "划独木舟",
+        "example": "Canoeing down the river allows you to enjoy nature."
+    },
+    {
+        "english": "rafting",
+        "chinese": "漂流",
+        "example": "White-water rafting is an exciting adventure."
+    },
+    {
+        "english": "cycling",
+        "chinese": "骑自行车运动",
+        "example": "Cycling is a healthy and eco-friendly way to travel."
+    },
+    {
+        "english": "hiking",
+        "chinese": "徒步旅行",
+        "example": "We went hiking in the mountains and saw beautiful views."
+    },
+    {
+        "english": "camping",
+        "chinese": "露营",
+        "example": "Camping under the stars is a wonderful experience."
+    },
+    {
+        "english": "fishing",
+        "chinese": "钓鱼",
+        "example": "My grandfather enjoys fishing by the lake."
+    },
+    {
+        "english": "swimming",
+        "chinese": "游泳",
+        "example": "Swimming is a great way to cool off in summer."
+    },
+    {
+        "english": "skiing",
+        "chinese": "滑雪",
+        "example": "Many people go skiing in the Alps during winter."
+    },
+    {
+        "english": "snowboarding",
+        "chinese": "单板滑雪",
+        "example": "Snowboarding has become a popular winter sport."
+    },
+    {
+        "english": "diving",
+        "chinese": "潜水",
+        "example": "Diving allows you to explore the beautiful underwater world."
+    },
+    {
+        "english": "snorkeling",
+        "chinese": "浮潜",
+        "example": "Snorkeling in the coral reef is amazing."
+    },
+    {
+        "english": "sailing",
+        "chinese": "帆船运动",
+        "example": "Sailing on the ocean requires skill and experience."
+    },
+    {
+        "english": "yoga",
+        "chinese": "瑜伽",
+        "example": "She practices yoga every morning to stay fit."
+    },
+    {
+        "english": "meditation",
+        "chinese": "冥想",
+        "example": "Meditation helps reduce stress and improve focus."
+    },
+    {
+        "english": "pilates",
+        "chinese": "普拉提",
+        "example": "Pilates is good for strengthening your core muscles."
+    },
+    {
+        "english": "zumba",
+        "chinese": "尊巴",
+        "example": "Zumba classes are fun and energetic."
+    },
+    {
+        "english": "dance",
+        "chinese": "舞蹈",
+        "example": "She loves dancing to her favorite music."
+    },
+    {
+        "english": "music",
+        "chinese": "音乐",
+        "example": "Listening to music can lift your mood."
+    },
+    {
+        "english": "art",
+        "chinese": "艺术",
+        "example": "The museum has a wonderful collection of art."
+    },
+    {
+        "english": "painting",
+        "chinese": "绘画",
+        "example": "He spends hours painting landscapes."
+    },
+    {
+        "english": "photography",
+        "chinese": "摄影",
+        "example": "Photography allows you to capture beautiful moments."
+    },
+    {
+        "english": "reading",
+        "chinese": "阅读",
+        "example": "Reading is a great way to expand your knowledge."
+    },
+    {
+        "english": "writing",
+        "chinese": "写作",
+        "example": "She has been writing a novel for years."
+    },
+    {
+        "english": "cooking",
+        "chinese": "烹饪",
+        "example": "Cooking delicious meals is one of my hobbies."
+    },
+    {
+        "english": "baking",
+        "chinese": "烘焙",
+        "example": "Baking cookies is fun and the house smells great."
+    },
+    {
+        "english": "gardening",
+        "chinese": "园艺",
+        "example": "My grandmother enjoys gardening and growing flowers."
+    },
+    {
+        "english": "traveling",
+        "chinese": "旅行",
+        "example": "Traveling to new places broadens your perspective."
+    },
+    {
+        "english": "collecting",
+        "chinese": "收集",
+        "example": "He has a hobby of collecting stamps from around the world."
+    },
+    {
+        "english": "watching movies",
+        "chinese": "看电影",
+        "example": "Watching movies at home is relaxing on weekends."
+    },
+    {
+        "english": "watching TV",
+        "chinese": "看电视",
+        "example": "We like watching TV shows together as a family."
+    },
+    {
+        "english": "playing games",
+        "chinese": "玩游戏",
+        "example": "Playing games with friends is always fun."
+    },
+    {
+        "english": "playing sports",
+        "chinese": "做运动",
+        "example": "Playing sports helps keep you healthy and active."
+    },
+    {
+        "english": "listening to podcasts",
+        "chinese": "听播客",
+        "example": "I listen to podcasts during my commute to work."
+    },
+    {
+        "english": "learning languages",
+        "chinese": "学习语言",
+        "example": "Learning languages can open up new opportunities."
+    },
+    {
+        "english": "drawing",
+        "chinese": "画画",
+        "example": "She is talented at drawing portraits."
+    },
+    {
+        "english": "sculpting",
+        "chinese": "雕塑",
+        "example": "Sculpting requires patience and creativity."
+    },
+    {
+        "english": "knitting",
+        "chinese": "编织",
+        "example": "My aunt enjoys knitting sweaters for her family."
+    },
+    {
+        "english": "sewing",
+        "chinese": "缝纫",
+        "example": "She sews her own clothes and they look amazing."
+    },
+    {
+        "english": "woodworking",
+        "chinese": "木工",
+        "example": "Woodworking allows you to create useful items."
+    },
+    {
+        "english": "pottery",
+        "chinese": "陶艺",
+        "example": "Making pottery is a therapeutic hobby."
+    },
+    {
+        "english": "jewelry making",
+        "chinese": "制作珠宝",
+        "example": "She designs and makes beautiful jewelry."
+    },
+    {
+        "english": "volunteering",
+        "chinese": "做志愿者",
+        "example": "Volunteering at the local shelter makes a difference."
+    }
+]

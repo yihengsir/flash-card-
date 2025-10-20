@@ -1,0 +1,497 @@
+[
+    {
+        "english": "thrive",
+        "chinese": "茁壮成长",
+        "example": "Plants thrive in a suitable environment with enough sunlight and water."
+    },
+    {
+        "english": "flee",
+        "chinese": "逃跑",
+        "example": "When the fire broke out, people tried to flee the building quickly."
+    },
+    {
+        "english": "utilize",
+        "chinese": "使用",
+        "example": "We can utilize renewable energy sources like solar and wind power."
+    },
+    {
+        "english": "stagnate",
+        "chinese": "停滞",
+        "example": "Without innovation, the company's development will stagnate."
+    },
+    {
+        "english": "significantly",
+        "chinese": "显著地",
+        "example": "This new policy has significantly improved the working conditions of employees."
+    },
+    {
+        "english": "ignite",
+        "chinese": "点燃",
+        "example": "A small spark can ignite a large forest fire."
+    },
+    {
+        "english": "implausible",
+        "chinese": "不可信的",
+        "example": "His explanation for being late was so implausible that no one believed him."
+    },
+    {
+        "english": "fluctuation",
+        "chinese": "波动",
+        "example": "There are normal fluctuations in the stock market every day."
+    },
+    {
+        "english": "consistency",
+        "chinese": "一致性",
+        "example": "Consistency in studying is key to achieving good grades."
+    },
+    {
+        "english": "primitive",
+        "chinese": "原始的",
+        "example": "Primitive humans used stones as tools."
+    },
+    {
+        "english": "entice",
+        "chinese": "诱使",
+        "example": "The delicious smell of food can entice people into the restaurant."
+    },
+    {
+        "english": "possess",
+        "chinese": "拥有",
+        "example": "She possesses a natural talent for music."
+    },
+    {
+        "english": "occupy",
+        "chinese": "占据",
+        "example": "The new building will occupy this empty plot of land."
+    },
+    {
+        "english": "tedious",
+        "chinese": "冗长的",
+        "example": "Doing the same boring task every day is tedious."
+    },
+    {
+        "english": "perishable",
+        "chinese": "易变质的",
+        "example": "Fruits and vegetables are perishable and need to be stored properly."
+    },
+    {
+        "english": "domesticate",
+        "chinese": "驯养",
+        "example": "Humans were the first to domesticate dogs."
+    },
+    {
+        "english": "hind",
+        "chinese": "后面的",
+        "example": "The hind legs of a horse are very strong."
+    },
+    {
+        "english": "stem",
+        "chinese": "茎",
+        "example": "The stem of a flower supports the petals."
+    },
+    {
+        "english": "rodent",
+        "chinese": "啮齿动物",
+        "example": "Mice and rats are common types of rodent."
+    },
+    {
+        "english": "initiate",
+        "chinese": "开始",
+        "example": "We need to initiate a new project to solve this problem."
+    },
+    {
+        "english": "adaptation",
+        "chinese": "适应",
+        "example": "The adaptation of species to their environment is amazing."
+    },
+    {
+        "english": "advanced",
+        "chinese": "高级的",
+        "example": "Advanced technology has changed our way of life."
+    },
+    {
+        "english": "attend",
+        "chinese": "参加",
+        "example": "I will attend the meeting tomorrow."
+    },
+    {
+        "english": "attract",
+        "chinese": "吸引",
+        "example": "Bright colors attract butterflies."
+    },
+    {
+        "english": "common",
+        "chinese": "常见的",
+        "example": "Colds are a common illness in winter."
+    },
+    {
+        "english": "condition",
+        "chinese": "条件",
+        "example": "Good health is a condition for a long and happy life."
+    },
+    {
+        "english": "cope with",
+        "chinese": "应对",
+        "example": "We need to learn how to cope with stress."
+    },
+    {
+        "english": "decoration",
+        "chinese": "装饰",
+        "example": "The Christmas tree needs some more decoration."
+    },
+    {
+        "english": "distance",
+        "chinese": "距离",
+        "example": "The distance between the two cities is 100 kilometers."
+    },
+    {
+        "english": "environment",
+        "chinese": "环境",
+        "example": "We should protect the natural environment."
+    },
+    {
+        "english": "exist",
+        "chinese": "存在",
+        "example": "Does life exist on other planets?"
+    },
+    {
+        "english": "feather",
+        "chinese": "长羽毛",
+        "example": "Birds have feathers that help them fly."
+    },
+    {
+        "english": "individual",
+        "chinese": "个体的",
+        "example": "Each individual has their own unique personality."
+    },
+    {
+        "english": "mass",
+        "chinese": "大量",
+        "example": "A mass of people gathered in the square."
+    },
+    {
+        "english": "massive",
+        "chinese": "巨大的",
+        "example": "The company has a massive building in the city center."
+    },
+    {
+        "english": "native",
+        "chinese": "本地的",
+        "example": "Koalas are native to Australia."
+    },
+    {
+        "english": "population",
+        "chinese": "人口",
+        "example": "The population of this city is growing rapidly."
+    },
+    {
+        "english": "receive",
+        "chinese": "收到",
+        "example": "I will receive a package in the mail today."
+    },
+    {
+        "english": "recommend",
+        "chinese": "推荐",
+        "example": "I recommend this book to anyone who likes history."
+    },
+    {
+        "english": "regularly",
+        "chinese": "经常地",
+        "example": "We should exercise regularly to stay healthy."
+    },
+    {
+        "english": "seek",
+        "chinese": "寻找",
+        "example": "Many people seek happiness in their lives."
+    },
+    {
+        "english": "stability",
+        "chinese": "稳定性",
+        "example": "Economic stability is important for a country."
+    },
+    {
+        "english": "supply",
+        "chinese": "供应",
+        "example": "The company will supply us with the necessary materials."
+    },
+    {
+        "english": "survive",
+        "chinese": "生存",
+        "example": "Some species can survive in extreme conditions."
+    },
+    {
+        "english": "threaten",
+        "chinese": "威胁",
+        "example": "Pollution can threaten the lives of many animals."
+    },
+    {
+        "english": "tough",
+        "chinese": "困难的",
+        "example": "This is a tough problem to solve."
+    },
+    {
+        "english": "unappreciated",
+        "chinese": "未被赏识的",
+        "example": "Her hard work was unappreciated by her boss."
+    },
+    {
+        "english": "wipe",
+        "chinese": "擦除",
+        "example": "Wipe the table clean with a cloth."
+    },
+    {
+        "english": "annual",
+        "chinese": "年度的",
+        "example": "We have an annual meeting to discuss our plans."
+    },
+    {
+        "english": "blend",
+        "chinese": "混合",
+        "example": "Blend the ingredients together to make a smoothie."
+    },
+    {
+        "english": "communicate",
+        "chinese": "交流",
+        "example": "We need to communicate effectively to avoid misunderstandings."
+    },
+    {
+        "english": "considerably",
+        "chinese": "显著地",
+        "example": "The price of the house has increased considerably."
+    },
+    {
+        "english": "consume",
+        "chinese": "消耗",
+        "example": "Cars consume a lot of fuel."
+    },
+    {
+        "english": "convey",
+        "chinese": "传达",
+        "example": "A smile can convey happiness."
+    },
+    {
+        "english": "crucial",
+        "chinese": "至关重要的",
+        "example": "Good communication is crucial in a relationship."
+    },
+    {
+        "english": "curved",
+        "chinese": "弧形的",
+        "example": "The road has a curved shape."
+    },
+    {
+        "english": "defend",
+        "chinese": "保卫",
+        "example": "We need to defend our country from enemies."
+    },
+    {
+        "english": "deliberately",
+        "chinese": "故意地",
+        "example": "He deliberately broke the rules."
+    },
+    {
+        "english": "dense",
+        "chinese": "密集的",
+        "example": "The forest is very dense with trees."
+    },
+    {
+        "english": "distinctive",
+        "chinese": "有特色的",
+        "example": "Her voice is very distinctive."
+    },
+    {
+        "english": "elaborate",
+        "chinese": "详尽说明",
+        "example": "Please elaborate on your plan."
+    },
+    {
+        "english": "evolve",
+        "chinese": "进化",
+        "example": "Species evolve over time to adapt to their environment."
+    },
+    {
+        "english": "failure",
+        "chinese": "失败",
+        "example": "Failure is the mother of success."
+    },
+    {
+        "english": "flesh",
+        "chinese": "肉体",
+        "example": "The chicken's flesh is used for cooking."
+    },
+    {
+        "english": "frequency",
+        "chinese": "频率",
+        "example": "The frequency of earthquakes in this area is low."
+    },
+    {
+        "english": "harsh",
+        "chinese": "苛刻的",
+        "example": "The teacher has harsh rules for the class."
+    },
+    {
+        "english": "household",
+        "chinese": "家庭",
+        "example": "This product is used in every household."
+    },
+    {
+        "english": "interfere",
+        "chinese": "干涉",
+        "example": "Don't interfere in other people's business."
+    },
+    {
+        "english": "layer",
+        "chinese": "层",
+        "example": "The cake has multiple layers."
+    },
+    {
+        "english": "merely",
+        "chinese": "仅仅",
+        "example": "He is merely a child, don't be too hard on him."
+    },
+    {
+        "english": "molecule",
+        "chinese": "分子",
+        "example": "A water molecule is made of two hydrogen atoms and one oxygen atom."
+    },
+    {
+        "english": "potential",
+        "chinese": "潜在的",
+        "example": "This project has great potential."
+    },
+    {
+        "english": "potentially",
+        "chinese": "可能地",
+        "example": "This decision could potentially change our lives."
+    },
+    {
+        "english": "protein",
+        "chinese": "蛋白质",
+        "example": "Meat is a good source of protein."
+    },
+    {
+        "english": "pursue",
+        "chinese": "追捕",
+        "example": "The police are pursuing the suspect."
+    },
+    {
+        "english": "relative",
+        "chinese": "相对的",
+        "example": "The speed of light is relative to the observer."
+    },
+    {
+        "english": "reproduction",
+        "chinese": "繁殖",
+        "example": "The reproduction of animals is important for the ecosystem."
+    },
+    {
+        "english": "reward",
+        "chinese": "奖励",
+        "example": "Hard work deserves a reward."
+    },
+    {
+        "english": "scatter",
+        "chinese": "散布",
+        "example": "The wind will scatter the seeds."
+    },
+    {
+        "english": "target",
+        "chinese": "把……作为目标",
+        "example": "The advertisement targets young people."
+    },
+    {
+        "english": "temporary",
+        "chinese": "临时的",
+        "example": "This is a temporary solution to the problem."
+    },
+    {
+        "english": "theory",
+        "chinese": "理论",
+        "example": "The theory of relativity is very famous."
+    },
+    {
+        "english": "uniform",
+        "chinese": "统一的",
+        "example": "The soldiers wear uniform clothes."
+    },
+    {
+        "english": "ancestor",
+        "chinese": "祖先",
+        "example": "We can trace our ancestors back hundreds of years."
+    },
+    {
+        "english": "digestion",
+        "chinese": "消化",
+        "example": "Good digestion is important for health."
+    },
+    {
+        "english": "disperse",
+        "chinese": "分散",
+        "example": "The police will disperse the crowd."
+    },
+    {
+        "english": "dynamic",
+        "chinese": "动态的",
+        "example": "The business world is very dynamic."
+    },
+    {
+        "english": "predator",
+        "chinese": "捕食者",
+        "example": "Lions are predators in the animal kingdom."
+    },
+    {
+        "english": "prey",
+        "chinese": "猎物",
+        "example": "Deer are prey for many predators."
+    },
+    {
+        "english": "shrink",
+        "chinese": "缩小",
+        "example": "The clothes will shrink if you wash them in hot water."
+    },
+    {
+        "english": "trait",
+        "chinese": "特征",
+        "example": "Honesty is a good trait in a person."
+    },
+    {
+        "english": "vanish",
+        "chinese": "消失",
+        "example": "The magic trick made the rabbit vanish."
+    },
+    {
+        "english": "debris",
+        "chinese": "碎片",
+        "example": "After the storm, there was debris everywhere."
+    },
+    {
+        "english": "embryo",
+        "chinese": "胚胎",
+        "example": "The embryo grows into a baby in the womb."
+    },
+    {
+        "english": "sediment",
+        "chinese": "沉积物",
+        "example": "Sediment can build up at the bottom of a river."
+    },
+    {
+        "english": "barren",
+        "chinese": "贫瘠的",
+        "example": "The desert is a barren land with little vegetation."
+    },
+    {
+        "english": "intricate",
+        "chinese": "复杂的",
+        "example": "The watch has an intricate design."
+    },
+    {
+        "english": "oscillation",
+        "chinese": "波动",
+        "example": "The oscillation of the pendulum keeps time."
+    },
+    {
+        "english": "devour",
+        "chinese": "吞食",
+        "example": "The hungry lion will devour its prey."
+    }
+]

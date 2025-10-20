@@ -1,0 +1,107 @@
+[
+    {
+        "english": "star",
+        "chinese": "恒星",
+        "example": "The sun is a star at the center of our solar system."
+    },
+    {
+        "english": "planet",
+        "chinese": "行星",
+        "example": "Earth is a planet that supports life."
+    },
+    {
+        "english": "moon",
+        "chinese": "卫星",
+        "example": "The moon orbits around the Earth."
+    },
+    {
+        "english": "galaxy",
+        "chinese": "星系",
+        "example": "The Milky Way is the galaxy we live in."
+    },
+    {
+        "english": "terrestrial",
+        "chinese": "类地的",
+        "example": "Mars is a terrestrial planet with a thin atmosphere."
+    },
+    {
+        "english": "gas giant",
+        "chinese": "气态巨行星",
+        "example": "Jupiter is a gas giant, much larger than Earth."
+    },
+    {
+        "english": "backup",
+        "chinese": "补充",
+        "example": "We need to backup the data to prevent loss."
+    },
+    {
+        "english": "substance",
+        "chinese": "物质",
+        "example": "Water is a substance essential for life."
+    },
+    {
+        "english": "gravitational force",
+        "chinese": "重力",
+        "example": "Gravitational force keeps us grounded on Earth."
+    },
+    {
+        "english": "disk",
+        "chinese": "盘",
+        "example": "The planet formed from a spinning disk of gas and dust."
+    },
+    {
+        "english": "distribute",
+        "chinese": "分布",
+        "example": "Plants distribute seeds in various ways, like through wind or animals."
+    },
+    {
+        "english": "clump",
+        "chinese": "群；聚拢",
+        "example": "Stars often form in clumps within galaxies. / Dust particles clump together in space."
+    },
+    {
+        "english": "spherical",
+        "chinese": "球形的",
+        "example": "Most planets are approximately spherical in shape."
+    },
+    {
+        "english": "mass",
+        "chinese": "质量",
+        "example": "A planet's mass affects its gravitational pull."
+    },
+    {
+        "english": "spectrum",
+        "chinese": "光谱",
+        "example": "A prism can split light into a spectrum of colors."
+    },
+    {
+        "english": "partially",
+        "chinese": "部分的",
+        "example": "The planet is partially covered by clouds."
+    },
+    {
+        "english": "atmosphere",
+        "chinese": "大气层",
+        "example": "Earth's atmosphere protects us from harmful radiation."
+    },
+    {
+        "english": "stabilize",
+        "chinese": "稳定",
+        "example": "The spacecraft's thrusters help stabilize its orbit."
+    },
+    {
+        "english": "liquid",
+        "chinese": "液体",
+        "example": "Water is a common liquid on Earth."
+    },
+    {
+        "english": "orbit",
+        "chinese": "轨道；环绕",
+        "example": "Satellites orbit planets. / The moon's orbit around Earth takes about 28 days."
+    },
+    {
+        "english": "carbon dioxide",
+        "chinese": "二氧化碳",
+        "example": "Plants absorb carbon dioxide during photosynthesis."
+    }
+]

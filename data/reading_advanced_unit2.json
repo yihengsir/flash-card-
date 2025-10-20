@@ -1,0 +1,562 @@
+[
+  {
+    "english": "impact",
+    "chinese": "撞击",
+    "example": "The impact of the car crash was so strong that the vehicles were severely damaged."
+  },
+  {
+    "english": "crater",
+    "chinese": "坑",
+    "example": "The astronauts explored the large crater on the moon's surface, trying to find clues about its formation."
+  },
+  {
+    "english": "equator",
+    "chinese": "赤道",
+    "example": "Countries located near the equator usually have a hot and humid climate throughout the year."
+  },
+  {
+    "english": "diameter",
+    "chinese": "直径",
+    "example": "The diameter of the giant tree trunk is over three meters, making it a remarkable natural wonder."
+  },
+  {
+    "english": "hinder",
+    "chinese": "阻碍",
+    "example": "Heavy traffic hindered us from arriving at the meeting on time."
+  },
+  {
+    "english": "gravitational",
+    "chinese": "引力的",
+    "example": "The gravitational pull of the Earth keeps us firmly on the ground."
+  },
+  {
+    "english": "ejecta",
+    "chinese": "喷出物",
+    "example": "The ejecta from the volcanic eruption spread over a wide area, covering the nearby villages with ash."
+  },
+  {
+    "english": "engulf",
+    "chinese": "吞没",
+    "example": "The floodwaters quickly engulfed the small village, leaving many people homeless."
+  },
+  {
+    "english": "meteor",
+    "chinese": "流星",
+    "example": "We stayed up late at night to watch the meteor shower, hoping to see as many shooting stars as possible."
+  },
+  {
+    "english": "meteorite",
+    "chinese": "陨石",
+    "example": "Scientists are studying the composition of the meteorite to learn more about the early solar system."
+  },
+  {
+    "english": "circular",
+    "chinese": "圆形的",
+    "example": "The children sat in a circular formation for the game."
+  },
+  {
+    "english": "unwillingness",
+    "chinese": "不情愿",
+    "example": "His unwillingness to cooperate made the project progress much more slowly than expected."
+  },
+  {
+    "english": "controversial",
+    "chinese": "有争议的",
+    "example": "The new law has been highly controversial, with people on both sides expressing strong opinions."
+  },
+  {
+    "english": "proponent",
+    "chinese": "支持者",
+    "example": "The proponents of the new policy believe it will bring significant benefits to the economy."
+  },
+  {
+    "english": "detractor",
+    "chinese": "批评者",
+    "example": "The detractors of the plan argued that it was too costly and unrealistic."
+  },
+  {
+    "english": "maintain",
+    "chinese": "坚持（意见）",
+    "example": "He maintained that his theory was correct despite the doubts of others."
+  },
+  {
+    "english": "terrace",
+    "chinese": "梯田阶地",
+    "example": "The farmers have built beautiful terraces on the mountainside to grow crops."
+  },
+  {
+    "english": "recede",
+    "chinese": "逐渐远离",
+    "example": "As the tide receded, we could see many interesting sea creatures on the shore."
+  },
+  {
+    "english": "depress",
+    "chinese": "按，压",
+    "example": "Press the button gently to avoid depressing it too hard and breaking it."
+  },
+  {
+    "english": "component",
+    "chinese": "成分",
+    "example": "Each component in this electronic device plays a crucial role in its proper functioning."
+  },
+  {
+    "english": "constituent",
+    "chinese": "成分",
+    "example": "Water is a fundamental constituent of all living organisms."
+  },
+  {
+    "english": "debris",
+    "chinese": "残骸",
+    "example": "After the plane crash, rescue teams searched through the debris for survivors."
+  },
+  {
+    "english": "crust",
+    "chinese": "硬表面",
+    "example": "The Earth's crust is composed of several tectonic plates that are constantly moving."
+  },
+  {
+    "english": "terrestrial",
+    "chinese": "地球的",
+    "example": "Terrestrial ecosystems are diverse and complex."
+  },
+  {
+    "english": "lunar",
+    "chinese": "月亮的",
+    "example": "The lunar surface is full of craters and rocks."
+  },
+  {
+    "english": "core",
+    "chinese": "核心",
+    "example": "The core of the sun is where nuclear fusion reactions occur, producing vast amounts of energy."
+  },
+  {
+    "english": "nucleus",
+    "chinese": "核心",
+    "example": "The nucleus of an atom contains protons and neutrons."
+  },
+  {
+    "english": "dissenting",
+    "chinese": "不同意的",
+    "example": "The dissenting voices in the meeting raised important concerns about the proposed plan."
+  },
+  {
+    "english": "appear",
+    "chinese": "似乎",
+    "example": "She appears to be very confident, but I know she's actually quite nervous."
+  },
+  {
+    "english": "contract",
+    "chinese": "收缩",
+    "example": "Metals contract when they are cooled."
+  },
+  {
+    "english": "collapse",
+    "chinese": "崩塌",
+    "example": "The old building collapsed after the earthquake, causing a lot of damage."
+  },
+  {
+    "english": "minutely",
+    "chinese": "详细地",
+    "example": "The detective examined the crime scene minutely, looking for any clues."
+  },
+  {
+    "english": "stellar",
+    "chinese": "星星的",
+    "example": "The stellar performance of the young actor won him many fans."
+  },
+  {
+    "english": "disk",
+    "chinese": "盘状物",
+    "example": "The artist created a beautiful sculpture in the shape of a disk."
+  },
+  {
+    "english": "bulge",
+    "chinese": "凸起",
+    "example": "There was a noticeable bulge in the wall, indicating a possible structural problem."
+  },
+  {
+    "english": "galactic",
+    "chinese": "银河的",
+    "example": "The galactic center is a region of intense activity in our Milky Way galaxy."
+  },
+  {
+    "english": "precipitation",
+    "chinese": "降水",
+    "example": "The amount of precipitation in this region has decreased significantly over the past few years."
+  },
+  {
+    "english": "halo",
+    "chinese": "光环",
+    "example": "The moon had a beautiful halo around it last night, creating a magical sight."
+  },
+  {
+    "english": "sensitive",
+    "chinese": "敏感的",
+    "example": "The skin on your face is very sensitive, so be careful with the products you use."
+  },
+  {
+    "english": "trap",
+    "chinese": "吸收",
+    "example": "Solar panels trap energy from the sun."
+  },
+  {
+    "english": "tricky",
+    "chinese": "难办的",
+    "example": "This math problem is quite tricky, and it took me a long time to solve it."
+  },
+  {
+    "english": "valid",
+    "chinese": "有效的",
+    "example": "Your ticket is only valid for one day, so make sure you use it today."
+  },
+  {
+    "english": "tributary",
+    "chinese": "支流",
+    "example": "The small tributary flows into the main river, adding to its water volume."
+  },
+  {
+    "english": "intensify",
+    "chinese": "增强",
+    "example": "As the storm approached, the wind began to intensify."
+  },
+  {
+    "english": "undergo",
+    "chinese": "经历",
+    "example": "The company is undergoing a major restructuring to improve its efficiency."
+  },
+  {
+    "english": "receptacle",
+    "chinese": "容器",
+    "example": "She placed the flowers in a decorative receptacle on the table."
+  },
+  {
+    "english": "manifest",
+    "chinese": "显现",
+    "example": "His talent for music began to manifest at a very young age."
+  },
+  {
+    "english": "property",
+    "chinese": "性质",
+    "example": "This new material has some unique properties that make it suitable for high-tech applications."
+  },
+  {
+    "english": "account for",
+    "chinese": "解释",
+    "example": "You need to account for where you were last night."
+  },
+  {
+    "english": "combustion",
+    "chinese": "燃烧",
+    "example": "Combustion is a chemical reaction that releases heat and light."
+  },
+  {
+    "english": "respiration",
+    "chinese": "呼吸",
+    "example": "All living cells carry out respiration to obtain energy."
+  },
+  {
+    "english": "adjustment",
+    "chinese": "调整",
+    "example": "Minor adjustments to the machine can improve its efficiency."
+  },
+  {
+    "english": "unanimously",
+    "chinese": "全体一致地",
+    "example": "The committee voted unanimously in favor of the proposal."
+  },
+  {
+    "english": "phase",
+    "chinese": "阶段",
+    "example": "We are currently in the second phase of the research project, focusing on data analysis."
+  },
+  {
+    "english": "attribute...to...",
+    "chinese": "把……归因于",
+    "example": "We attribute our success to the hard work of the entire team."
+  },
+  {
+    "english": "interior",
+    "chinese": "内部（的）",
+    "example": "The interior of the ancient temple was filled with beautiful carvings and religious artifacts."
+  },
+  {
+    "english": "tear",
+    "chinese": "撕裂",
+    "example": "The strong wind tore the flag into pieces."
+  },
+  {
+    "english": "lava",
+    "chinese": "岩浆",
+    "example": "The lava from the volcano flowed slowly down the mountainside, destroying everything in its path."
+  },
+  {
+    "english": "mechanism",
+    "chinese": "机制方法",
+    "example": "Scientists are still trying to understand the mechanism behind this natural phenomenon."
+  },
+  {
+    "english": "rebound",
+    "chinese": "反弹",
+    "example": "The ball made a high rebound after hitting the hard floor."
+  },
+  {
+    "english": "sway",
+    "chinese": "摇摆",
+    "example": "The trees swayed gently in the breeze."
+  },
+  {
+    "english": "faint",
+    "chinese": "微弱的",
+    "example": "There was a faint light in the distance, giving us hope that we were getting closer to civilization."
+  },
+  {
+    "english": "ripple",
+    "chinese": "涟漪",
+    "example": "A small stone thrown into the pond created ripples on the water surface."
+  },
+  {
+    "english": "giant",
+    "chinese": "巨大的",
+    "example": "The giant redwood trees in California are truly a wonder of nature."
+  },
+  {
+    "english": "gigantic",
+    "chinese": "巨大的",
+    "example": "The construction of the gigantic bridge took several years to complete."
+  },
+  {
+    "english": "shrink",
+    "chinese": "缩小",
+    "example": "As the population grew, the available space shrank."
+  },
+  {
+    "english": "luminosity",
+    "chinese": "亮度",
+    "example": "The luminosity of the star determines how bright it appears from Earth."
+  },
+  {
+    "english": "envelope",
+    "chinese": "封皮",
+    "example": "The envelope of the virus plays an important role in its ability to infect cells."
+  },
+  {
+    "english": "magnetic field",
+    "chinese": "磁场",
+    "example": "The Earth's magnetic field protects us from harmful solar radiation."
+  },
+  {
+    "english": "rotate",
+    "chinese": "旋转",
+    "example": "The Earth rotates on its axis, causing day and night."
+  },
+  {
+    "english": "revolve",
+    "chinese": "旋转",
+    "example": "The planets revolve around the Sun in elliptical orbits."
+  },
+  {
+    "english": "paradox",
+    "chinese": "矛盾的情况",
+    "example": "The paradox of this situation is that more money doesn't always lead to more happiness."
+  },
+  {
+    "english": "catastrophic",
+    "chinese": "灾难性的",
+    "example": "The earthquake had a catastrophic impact on the city."
+  },
+  {
+    "english": "radiate",
+    "chinese": "辐射",
+    "example": "The sun radiates heat and light, which are essential for life on Earth."
+  },
+  {
+    "english": "pulse",
+    "chinese": "脉冲",
+    "example": "The machine emits regular pulses to measure the heart rate."
+  },
+  {
+    "english": "nebula",
+    "chinese": "星云",
+    "example": "The beautiful nebula in the night sky is a favorite subject for astronomers to study."
+  },
+  {
+    "english": "remnant",
+    "chinese": "残余部分",
+    "example": "The remnants of the ancient civilization can still be seen in the ruins."
+  },
+  {
+    "english": "ratio",
+    "chinese": "比例",
+    "example": "The ratio of boys to girls in the class is 3 to 2."
+  },
+  {
+    "english": "immense",
+    "chinese": "巨大的",
+    "example": "The immense ocean covers most of the Earth's surface."
+  },
+  {
+    "english": "postulate",
+    "chinese": "假设",
+    "example": "Scientists postulate that there may be life on other planets."
+  },
+  {
+    "english": "sweep",
+    "chinese": "清扫",
+    "example": "She swept the floor clean, removing all the dust and debris."
+  },
+  {
+    "english": "insulating",
+    "chinese": "起隔绝作用的",
+    "example": "Insulating materials are used in buildings to keep them warm in winter and cool in summer."
+  },
+  {
+    "english": " annihilate",
+    "chinese": "毁灭",
+    "example": "The powerful bomb could annihilate an entire city block."
+  },
+  {
+    "english": "identical",
+    "chinese": "完全相同的",
+    "example": "The two sisters are identical twins, and it's often hard to tell them apart."
+  },
+  {
+    "english": "endow",
+    "chinese": "天生赋有",
+    "example": "She is endowed with a great talent for languages."
+  },
+  {
+    "english": "primitive",
+    "chinese": "原始的",
+    "example": "The primitive tools found in the cave provided valuable insights into the lives of early humans."
+  },
+  {
+    "english": "bombard",
+    "chinese": "撞击",
+    "example": "The moon's surface has been bombarded by meteoroids for billions of years."
+  },
+  {
+    "english": "ultraviolet",
+    "chinese": "紫外线的",
+    "example": "You should wear sunscreen to protect your skin from harmful ultraviolet rays."
+  },
+  {
+    "english": "molecule",
+    "chinese": "分子",
+    "example": "A water molecule consists of two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "english": "atom",
+    "chinese": "原子",
+    "example": "An atom is the basic unit of matter."
+  },
+  {
+    "english": "ion",
+    "chinese": "离子",
+    "example": "In an electrolyte solution, ions are present."
+  },
+  {
+    "english": "delta",
+    "chinese": "三角洲",
+    "example": "The Nile Delta is a fertile region with a rich history of agriculture."
+  },
+  {
+    "english": "vent",
+    "chinese": "发泄",
+    "example": "He needed to find a way to vent his frustration after a long day at work."
+  },
+  {
+    "english": "weather",
+    "chinese": "风化",
+    "example": "The old rocks have been weathered over time, changing their appearance."
+  },
+  {
+    "english": "satellite",
+    "chinese": "卫星",
+    "example": "Many countries launch satellites into orbit for communication, weather forecasting, and other purposes."
+  },
+  {
+    "english": "orbit",
+    "chinese": "沿轨道运行",
+    "example": "The Earth orbits around the Sun once a year."
+  },
+  {
+    "english": "decay",
+    "chinese": "衰退",
+    "example": "The decay of the old building was evident from its cracked walls and broken windows."
+  },
+  {
+    "english": "hydrological",
+    "chinese": "水文的",
+    "example": "Hydrological studies help us understand the movement and distribution of water on Earth."
+  },
+  {
+    "english": "delicate",
+    "chinese": "精密的",
+    "example": "The delicate instrument requires careful handling to avoid damage."
+  },
+  {
+    "english": "scour",
+    "chinese": "冲刷",
+    "example": "The river scoured the banks, creating a deep channel."
+  },
+  {
+    "english": "fine",
+    "chinese": "精细的",
+    "example": "The artist used a fine brush to paint the intricate details of the portrait."
+  },
+  {
+    "english": "grain",
+    "chinese": "颗粒",
+    "example": "The sand consists of small grains."
+  },
+  {
+    "english": "topography",
+    "chinese": "地形",
+    "example": "The unique topography of this area makes it a popular destination for hikers."
+  },
+  {
+    "english": "lubricant",
+    "chinese": "润滑油",
+    "example": "Using the right lubricant can reduce friction and extend the lifespan of the machine."
+  },
+  {
+    "english": "modify",
+    "chinese": "调整",
+    "example": "We need to modify the plan according to the new situation."
+  },
+  {
+    "english": "moderate",
+    "chinese": "温和的",
+    "example": "The moderate climate in this region makes it suitable for growing a variety of crops."
+  },
+  {
+    "english": "comet",
+    "chinese": "彗星",
+    "example": "Comets are often visible in the night sky as they pass close to the Earth."
+  },
+  {
+    "english": "embed",
+    "chinese": "镶嵌",
+    "example": "The gemstone was embedded in the ring."
+  },
+  {
+    "english": "radioactivity",
+    "chinese": "放射现象",
+    "example": "Radioactivity can be both harmful and useful in different applications."
+  },
+  {
+    "english": "greenhouse effect",
+    "chinese": "温室效应",
+    "example": "The greenhouse effect is causing global temperatures to rise at an alarming rate."
+  },
+  {
+    "english": "blanket",
+    "chinese": "以厚层覆盖",
+    "example": "Snow blanketed the ground, turning the world into a white wonderland."
+  },
+  {
+    "english": "exterior",
+    "chinese": "外部（的）",
+    "example": "The exterior of the building was designed with a modern and sleek style."
+  }
+]
